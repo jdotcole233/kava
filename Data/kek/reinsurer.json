@@ -1,0 +1,1142 @@
+[
+    {
+        "reinsurer_id": "13",
+        "re_company_name": "Waica Reinsurance Corporation Plc",
+        "re_company_email": "info@waicare.com",
+        "re_abbrv": "WRCP",
+        "re_company_website": "waicareinsurance@waicare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-09-16 11:25:56",
+        "updated_at": "2020-10-23 11:25:34"
+    },
+    {
+        "reinsurer_id": "18",
+        "re_company_name": "Loyalty",
+        "re_company_email": "francis@loyalty.com",
+        "re_abbrv": "L",
+        "re_company_website": "loyalty.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-09-22 11:51:37",
+        "updated_at": "2020-10-07 16:13:40"
+    },
+    {
+        "reinsurer_id": "19",
+        "re_company_name": "Continental Reinsurance Plc",
+        "re_company_email": "tonibudo@continental-re.com",
+        "re_abbrv": "CRP",
+        "re_company_website": "www.continental-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-09-22 11:52:42",
+        "updated_at": "2020-09-22 11:52:42"
+    },
+    {
+        "reinsurer_id": "20",
+        "re_company_name": "Star Assurance Limited",
+        "re_company_email": "senyo@kekgroup.net",
+        "re_abbrv": "SAL",
+        "re_company_website": "NA",
+        "delete_status": "DELETED",
+        "created_at": "2020-09-22 11:53:08",
+        "updated_at": "2020-10-07 16:12:36"
+    },
+    {
+        "reinsurer_id": "21",
+        "re_company_name": "Africana Reinsurance Corporation",
+        "re_company_email": "ajayi.oluwatosin@africa-re.com",
+        "re_abbrv": "ARC",
+        "re_company_website": "www.africa-re.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-09-22 11:53:25",
+        "updated_at": "2020-10-08 10:20:53"
+    },
+    {
+        "reinsurer_id": "22",
+        "re_company_name": "Saham Insurance Company",
+        "re_company_email": "jdotcole233@gmail.com",
+        "re_abbrv": "SIC",
+        "re_company_website": "www.sahaminsurance.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-09-28 22:31:55",
+        "updated_at": "2020-10-07 16:12:32"
+    },
+    {
+        "reinsurer_id": "23",
+        "re_company_name": "Ghana Reinsurance Plc",
+        "re_company_email": "info@ghanare.com",
+        "re_abbrv": "GRP",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 09:25:30",
+        "updated_at": "2022-10-18 18:08:20"
+    },
+    {
+        "reinsurer_id": "24",
+        "re_company_name": "Ghana Re - Team I",
+        "re_company_email": "kappietu-ankrah@ghanare.com",
+        "re_abbrv": "GR-TI",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-10-08 09:28:24",
+        "updated_at": "2020-10-12 11:54:49"
+    },
+    {
+        "reinsurer_id": "25",
+        "re_company_name": "Ghana Re - Team II",
+        "re_company_email": "kappietu-ankrah@ghanare.com",
+        "re_abbrv": "GR-TI",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-10-08 09:50:54",
+        "updated_at": "2020-10-12 11:54:39"
+    },
+    {
+        "reinsurer_id": "26",
+        "re_company_name": "Ghana Re - Team III",
+        "re_company_email": "kappietu-ankrah@ghanare.com",
+        "re_abbrv": "GR-TI",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-10-08 09:55:57",
+        "updated_at": "2020-10-12 11:55:06"
+    },
+    {
+        "reinsurer_id": "27",
+        "re_company_name": "Ghana Re - English",
+        "re_company_email": "ENGLISH@ghanare.com",
+        "re_abbrv": "GR-E",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-10-08 10:00:06",
+        "updated_at": "2020-10-12 11:54:59"
+    },
+    {
+        "reinsurer_id": "34",
+        "re_company_name": "African Reinsurance Corporation",
+        "re_company_email": "kehinde.Omotayo@africa-re.com",
+        "re_abbrv": "ARC",
+        "re_company_website": "www.africa-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 10:40:49",
+        "updated_at": "2021-11-26 11:35:14"
+    },
+    {
+        "reinsurer_id": "35",
+        "re_company_name": "Mainstream Reinsurance Co. Ltd.",
+        "re_company_email": "info@mainstream-gh.com",
+        "re_abbrv": "MRCL",
+        "re_company_website": "mainstream-gh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 10:45:09",
+        "updated_at": "2021-11-24 12:09:59"
+    },
+    {
+        "reinsurer_id": "36",
+        "re_company_name": "GN Reinsurance Company Limited",
+        "re_company_email": "underwriting@gnreinsurance.com",
+        "re_abbrv": "GRCL",
+        "re_company_website": "n/a",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 10:50:54",
+        "updated_at": "2020-10-12 12:04:31"
+    },
+    {
+        "reinsurer_id": "37",
+        "re_company_name": "Aveni Reinsurance Company Limited",
+        "re_company_email": "aolowosuna@aveni-re.com",
+        "re_abbrv": "ARCL",
+        "re_company_website": "www.aveni-re.com/site/en/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 10:59:37",
+        "updated_at": "2020-10-12 12:05:29"
+    },
+    {
+        "reinsurer_id": "38",
+        "re_company_name": "PTA Reinsurance Company Limited",
+        "re_company_email": "tshiferaw@zep-re.com",
+        "re_abbrv": "PRCL",
+        "re_company_website": "www.zep-re.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 11:13:21",
+        "updated_at": "2020-10-12 12:20:56"
+    },
+    {
+        "reinsurer_id": "39",
+        "re_company_name": "CICA Reinsurance Company Limited",
+        "re_company_email": "cica-re@cica-re.com",
+        "re_abbrv": "CRCL",
+        "re_company_website": "www.cica-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 11:21:41",
+        "updated_at": "2020-10-12 12:08:01"
+    },
+    {
+        "reinsurer_id": "40",
+        "re_company_name": "Nigeria Reinsurance Corporation",
+        "re_company_email": "contact@nigeriare.com.ng",
+        "re_abbrv": "NRC",
+        "re_company_website": "nigeriare.com.ng",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 11:32:07",
+        "updated_at": "2020-10-12 12:10:54"
+    },
+    {
+        "reinsurer_id": "41",
+        "re_company_name": "NCA Reinsurance Company Limited",
+        "re_company_email": "infos@nca-re.net",
+        "re_abbrv": "NRCL",
+        "re_company_website": "www.nca-re.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 11:42:00",
+        "updated_at": "2020-10-12 11:50:16"
+    },
+    {
+        "reinsurer_id": "42",
+        "re_company_name": "Soci\u00e9t\u00e9 S\u00e9n\u00e9galaise de R\u00e9assurances",
+        "re_company_email": "senre@senre.sn",
+        "re_abbrv": "SSDR",
+        "re_company_website": "sen-re.com/en/home-senre-eng/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 11:59:17",
+        "updated_at": "2020-12-18 11:18:48"
+    },
+    {
+        "reinsurer_id": "43",
+        "re_company_name": "Emeritus Reinsurance Company (Malawi) Limited",
+        "re_company_email": "carolinema@emeritusre.com",
+        "re_abbrv": "ERC(L",
+        "re_company_website": "www.emeritusre.com/regional-centres/malawi/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 12:50:12",
+        "updated_at": "2020-10-12 14:02:40"
+    },
+    {
+        "reinsurer_id": "44",
+        "re_company_name": "Emeritus Resseguors SA, Mozambique",
+        "re_company_email": "chalong@emeritusre.com",
+        "re_abbrv": "ERSM",
+        "re_company_website": "www.emeritusre.com/regional-centres/mozambique/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 12:58:28",
+        "updated_at": "2021-12-14 12:40:25"
+    },
+    {
+        "reinsurer_id": "45",
+        "re_company_name": "Emeritus Reinsurance Company (Pty) Ltd, Botswana",
+        "re_company_email": "Underwritingbw@emeritusre.com",
+        "re_abbrv": "ERC(LB",
+        "re_company_website": "www.emeritusre.com/regional-centres/botswana/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 13:10:28",
+        "updated_at": "2020-10-12 13:58:51"
+    },
+    {
+        "reinsurer_id": "49",
+        "re_company_name": "Tanzania Reinsurance Company Ltd",
+        "re_company_email": "mail@tan-re.co.tz",
+        "re_abbrv": "TRCL",
+        "re_company_website": "www.tan-re.co.tz",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 13:31:00",
+        "updated_at": "2021-12-13 04:56:01"
+    },
+    {
+        "reinsurer_id": "50",
+        "re_company_name": "SCG Reinsurance Company",
+        "re_company_email": "infos@scg-re.ga",
+        "re_abbrv": "SRC",
+        "re_company_website": "scg-re.ga",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 13:46:22",
+        "updated_at": "2020-10-12 11:40:26"
+    },
+    {
+        "reinsurer_id": "51",
+        "re_company_name": "Star Assurance Company Limited",
+        "re_company_email": "corporateunit@starassurance.com",
+        "re_abbrv": "SACL",
+        "re_company_website": "www.starassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-08 14:09:34",
+        "updated_at": "2020-10-12 11:36:20"
+    },
+    {
+        "reinsurer_id": "52",
+        "re_company_name": "Ethiopian Reinsurance Company Limited",
+        "re_company_email": "info@ethiopianre.com",
+        "re_abbrv": "ERCL",
+        "re_company_website": "www.ethiopianre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 18:24:11",
+        "updated_at": "2020-10-12 11:31:04"
+    },
+    {
+        "reinsurer_id": "53",
+        "re_company_name": "Chubb Insurance, Tunisia",
+        "re_company_email": "kamal.kaabi@chubb.com",
+        "re_abbrv": "CIT",
+        "re_company_website": "www.chubb.com/tn-en/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 18:30:03",
+        "updated_at": "2020-10-12 11:25:55"
+    },
+    {
+        "reinsurer_id": "54",
+        "re_company_name": "UNISON Insurance Broking Services Pvt. Ltd.",
+        "re_company_email": "info@unisoninsurance.net",
+        "re_abbrv": "UIBSPL",
+        "re_company_website": "unisoninsurance.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 18:36:06",
+        "updated_at": "2020-10-12 11:15:59"
+    },
+    {
+        "reinsurer_id": "55",
+        "re_company_name": "SIC Insurance Company Limited",
+        "re_company_email": "sicinfo@sic-gh.com",
+        "re_abbrv": "SICL",
+        "re_company_website": "www.sic-gh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 19:34:23",
+        "updated_at": "2020-10-11 21:57:18"
+    },
+    {
+        "reinsurer_id": "56",
+        "re_company_name": "Sunu Assurances Ghana Limited",
+        "re_company_email": "ghana@sunu-group.com",
+        "re_abbrv": "SAGL",
+        "re_company_website": "ghana@sunu-group.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 19:39:18",
+        "updated_at": "2020-10-12 11:15:01"
+    },
+    {
+        "reinsurer_id": "57",
+        "re_company_name": "Phoenix Insurance Company Limited",
+        "re_company_email": "info@phoenixinsurancegh.com",
+        "re_abbrv": "PICL",
+        "re_company_website": "phoenixinsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 19:42:32",
+        "updated_at": "2020-10-12 12:14:00"
+    },
+    {
+        "reinsurer_id": "58",
+        "re_company_name": "RegencyNem Insurance Ghana Limited",
+        "re_company_email": "info@regencynem.com",
+        "re_abbrv": "RIGL",
+        "re_company_website": "www.regencynem.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 19:46:20",
+        "updated_at": "2020-10-13 17:48:53"
+    },
+    {
+        "reinsurer_id": "59",
+        "re_company_name": "Hollard Insurance Ghana Limited",
+        "re_company_email": "Reinsure@hollard.com.gh",
+        "re_abbrv": "HIGL",
+        "re_company_website": "Hollard.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 19:49:47",
+        "updated_at": "2020-10-13 12:31:16"
+    },
+    {
+        "reinsurer_id": "60",
+        "re_company_name": "Activa International Insurance Company Ghana",
+        "re_company_email": "info@activa-ghana.com",
+        "re_abbrv": "AIICG",
+        "re_company_website": "activa-ghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 20:16:09",
+        "updated_at": "2020-10-11 22:01:27"
+    },
+    {
+        "reinsurer_id": "61",
+        "re_company_name": "Glico General Insurance Company Limited",
+        "re_company_email": "info@glicogen.com",
+        "re_abbrv": "GGICL",
+        "re_company_website": "glicogen.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 20:20:05",
+        "updated_at": "2020-10-11 21:43:06"
+    },
+    {
+        "reinsurer_id": "62",
+        "re_company_name": "Enterprise Insurance Company Limited",
+        "re_company_email": "info.insurance@enterprisegroup.com",
+        "re_abbrv": "EICL",
+        "re_company_website": "www.enterprisegroup.net.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 20:23:14",
+        "updated_at": "2020-10-11 21:41:58"
+    },
+    {
+        "reinsurer_id": "63",
+        "re_company_name": "Ghana Union Assurance Limited",
+        "re_company_email": "gua@ghanaunionassurance.com",
+        "re_abbrv": "GUAL",
+        "re_company_website": "ghanaunionassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 20:41:50",
+        "updated_at": "2020-10-11 21:41:29"
+    },
+    {
+        "reinsurer_id": "64",
+        "re_company_name": "Coronation Insurance Ghana Limited",
+        "re_company_email": "Emmanuel.Abagna@coronationinsurance.com.ng",
+        "re_abbrv": "CIGL",
+        "re_company_website": "www.wapic.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 21:11:28",
+        "updated_at": "2021-03-03 11:22:31"
+    },
+    {
+        "reinsurer_id": "65",
+        "re_company_name": "Loyalty Insurance Company Limited",
+        "re_company_email": "reinsurance@loyaltyinsurancegh.com",
+        "re_abbrv": "LICL",
+        "re_company_website": "www.loyaltyinsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 21:16:53",
+        "updated_at": "2020-10-11 21:40:09"
+    },
+    {
+        "reinsurer_id": "66",
+        "re_company_name": "Priority Insurance Company Limited",
+        "re_company_email": "info@priorityinsuranceghana.net",
+        "re_abbrv": "PICL",
+        "re_company_website": "www.priorityinsuranceghana.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-11 21:22:26",
+        "updated_at": "2020-10-11 21:39:32"
+    },
+    {
+        "reinsurer_id": "67",
+        "re_company_name": "MNK Reinsurance Limited",
+        "re_company_email": "info@mnkre.com",
+        "re_abbrv": "MRL",
+        "re_company_website": "www.reinsurance.ceo",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 14:07:57",
+        "updated_at": "2020-10-12 14:07:57"
+    },
+    {
+        "reinsurer_id": "68",
+        "re_company_name": "Provident Insurance Company Limited",
+        "re_company_email": "provident@provident-gh.com",
+        "re_abbrv": "PICL",
+        "re_company_website": "www.providentgh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 14:14:07",
+        "updated_at": "2020-10-12 14:14:07"
+    },
+    {
+        "reinsurer_id": "69",
+        "re_company_name": "Best Assurance Company Limited",
+        "re_company_email": "info@bestassurance.com.gh",
+        "re_abbrv": "BACL",
+        "re_company_website": "bestassurance.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 14:38:22",
+        "updated_at": "2020-10-12 14:38:22"
+    },
+    {
+        "reinsurer_id": "70",
+        "re_company_name": "Saham Insurance Ghana Limited",
+        "re_company_email": "selorm.domeh@sahaminsurance.com",
+        "re_abbrv": "SIGL",
+        "re_company_website": "www.sahaminsurance.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 14:46:58",
+        "updated_at": "2020-12-02 17:08:36"
+    },
+    {
+        "reinsurer_id": "71",
+        "re_company_name": "Prime Insurance Company Limited",
+        "re_company_email": "info@primeinsuranceghana.com",
+        "re_abbrv": "PICL",
+        "re_company_website": "www.primeinsuranceghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 14:50:07",
+        "updated_at": "2020-10-12 14:50:07"
+    },
+    {
+        "reinsurer_id": "72",
+        "re_company_name": "Unique Insurance Company Limited",
+        "re_company_email": "info@uicghana.com",
+        "re_abbrv": "UICL",
+        "re_company_website": "uicghana.org",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 14:55:46",
+        "updated_at": "2020-10-12 14:55:46"
+    },
+    {
+        "reinsurer_id": "73",
+        "re_company_name": "Donewell Insurance Company Limited",
+        "re_company_email": "info@donewellinsurance.com",
+        "re_abbrv": "DICL",
+        "re_company_website": "www.donewellinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:00:12",
+        "updated_at": "2020-10-12 15:00:12"
+    },
+    {
+        "reinsurer_id": "74",
+        "re_company_name": "Millennium Insurance Company Limited",
+        "re_company_email": "info@millenniuminsurancegh.com",
+        "re_abbrv": "MICL",
+        "re_company_website": "millenniuminsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:03:12",
+        "updated_at": "2020-10-12 15:03:12"
+    },
+    {
+        "reinsurer_id": "75",
+        "re_company_name": "Bedrock Insurance Company Limited",
+        "re_company_email": "info@bedrockinsurancegh.com",
+        "re_abbrv": "BICL",
+        "re_company_website": "bedrockinsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:29:46",
+        "updated_at": "2020-10-12 15:29:46"
+    },
+    {
+        "reinsurer_id": "76",
+        "re_company_name": "Global Security Insurance Company",
+        "re_company_email": "info@gsicgambia.com",
+        "re_abbrv": "GSIC",
+        "re_company_website": "gsicgambia.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:32:57",
+        "updated_at": "2020-10-12 15:32:57"
+    },
+    {
+        "reinsurer_id": "77",
+        "re_company_name": "Nsia Insurance Limited",
+        "re_company_email": "info@nsiainsurance.com.gh",
+        "re_abbrv": "NIL",
+        "re_company_website": "www.nsiainsurance.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:42:05",
+        "updated_at": "2020-10-12 15:42:05"
+    },
+    {
+        "reinsurer_id": "78",
+        "re_company_name": "United African Insurance Brokers (UAIB) Limited",
+        "re_company_email": "Customerservice@uaib.net",
+        "re_abbrv": "UAIB(L",
+        "re_company_website": "www.uaib.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:49:11",
+        "updated_at": "2020-10-16 11:47:54"
+    },
+    {
+        "reinsurer_id": "79",
+        "re_company_name": "Quality Insurance Company Limited",
+        "re_company_email": "headoffice@qicghana.com",
+        "re_abbrv": "QICL",
+        "re_company_website": "www.qicghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:52:04",
+        "updated_at": "2020-10-12 15:52:04"
+    },
+    {
+        "reinsurer_id": "80",
+        "re_company_name": "Aureol Insurance Company Ltd.",
+        "re_company_email": "info@aureolinsurance.com",
+        "re_abbrv": "AICL",
+        "re_company_website": "www.aureolinsurance.com/dnn/Home.aspx",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 15:55:30",
+        "updated_at": "2020-10-12 15:55:30"
+    },
+    {
+        "reinsurer_id": "81",
+        "re_company_name": "Imperial General Assurance Company Ltd",
+        "re_company_email": "info@imperialgeneral.com",
+        "re_abbrv": "IGACL",
+        "re_company_website": "www.imperialgeneral.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-12 16:39:26",
+        "updated_at": "2020-10-12 16:39:26"
+    },
+    {
+        "reinsurer_id": "82",
+        "re_company_name": "Emeritus Reinsurance Company Ltd, Zambia",
+        "re_company_email": "emeritusrezambia@gmail.com",
+        "re_abbrv": "ERCLZ",
+        "re_company_website": "www.emeritusre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-16 11:31:54",
+        "updated_at": "2020-10-16 11:31:54"
+    },
+    {
+        "reinsurer_id": "83",
+        "re_company_name": "Kuwait Reinsurance Company",
+        "re_company_email": "mthokozisi.phuthi@kuwaitre.com",
+        "re_abbrv": "KRC",
+        "re_company_website": "https://kuwaitre.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-11-18 11:40:56",
+        "updated_at": "2021-03-15 19:33:15"
+    },
+    {
+        "reinsurer_id": "84",
+        "re_company_name": "Kenya Reinsurance Corporation Limited",
+        "re_company_email": "rkariuki@kenyare.co.ke",
+        "re_abbrv": "KRCL",
+        "re_company_website": "http://www.kenyare.co.ke",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-11-19 17:16:35",
+        "updated_at": "2020-11-19 17:16:35"
+    },
+    {
+        "reinsurer_id": "85",
+        "re_company_name": "Oman Reinsurance Company SAOC",
+        "re_company_email": "malek.mechouet@omanre.com.om",
+        "re_abbrv": "ORCS",
+        "re_company_website": "www.omanre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-11-20 15:52:03",
+        "updated_at": "2020-11-20 15:52:03"
+    },
+    {
+        "reinsurer_id": "86",
+        "re_company_name": "Saudi Reinsurance Company",
+        "re_company_email": "mzahid@saudi-re.com",
+        "re_abbrv": "SRC",
+        "re_company_website": "https://www.saudire.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-11-20 16:06:04",
+        "updated_at": "2020-11-20 16:06:04"
+    },
+    {
+        "reinsurer_id": "87",
+        "re_company_name": "Klapton Reinsurance Company Limited",
+        "re_company_email": "chris.kiragu@klaptonafrica.com",
+        "re_abbrv": "KRCL",
+        "re_company_website": "https://www.klapton.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-12-14 13:36:39",
+        "updated_at": "2020-12-14 13:36:39"
+    },
+    {
+        "reinsurer_id": "88",
+        "re_company_name": "Assurances R\u00e9assurances Omnibranches (ARO)",
+        "re_company_email": "reass@aro.mg",
+        "re_abbrv": "ARO(",
+        "re_company_website": "n/a",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-12-14 13:43:31",
+        "updated_at": "2020-12-14 13:43:31"
+    },
+    {
+        "reinsurer_id": "89",
+        "re_company_name": "Mukoma Financial Services (PTY) Ltd",
+        "re_company_email": "aggripan@mukfin.co.za",
+        "re_abbrv": "MFS(L",
+        "re_company_website": "https://mukfin.co.za/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-12-15 12:26:38",
+        "updated_at": "2020-12-15 12:26:38"
+    },
+    {
+        "reinsurer_id": "90",
+        "re_company_name": "FBS Reinsurance Limited",
+        "re_company_email": "gbolahan.toru@fbsre.ng",
+        "re_abbrv": "FRL",
+        "re_company_website": "www.fbsre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-01 10:15:04",
+        "updated_at": "2021-03-01 10:15:04"
+    },
+    {
+        "reinsurer_id": "91",
+        "re_company_name": "Swiss Reinsurance Company Limited",
+        "re_company_email": "Peter_Sengupta@swissre.com",
+        "re_abbrv": "SRCL",
+        "re_company_website": "Swiss Reinsurance Company Limited",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-29 12:18:11",
+        "updated_at": "2021-03-29 12:18:11"
+    },
+    {
+        "reinsurer_id": "92",
+        "re_company_name": "Lombard Insurance Company",
+        "re_company_email": "leppard@leppard.com",
+        "re_abbrv": "LIC",
+        "re_company_website": "www.leppard.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-05-06 09:00:46",
+        "updated_at": "2021-05-06 09:00:46"
+    },
+    {
+        "reinsurer_id": "93",
+        "re_company_name": "Vanguard Assurance Company Limited",
+        "re_company_email": "sazong@vanguardassurance.com",
+        "re_abbrv": "VACL",
+        "re_company_website": "www.vanguardassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-06-08 16:37:39",
+        "updated_at": "2021-06-08 16:37:39"
+    },
+    {
+        "reinsurer_id": "94",
+        "re_company_name": "Howden Speciality",
+        "re_company_email": "w.lampofo@kekgroup.net",
+        "re_abbrv": "HS",
+        "re_company_website": "www.howden.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-07-29 16:23:17",
+        "updated_at": "2021-07-29 16:24:24"
+    },
+    {
+        "reinsurer_id": "95",
+        "re_company_name": "Chubb Insurance South Africa Limited",
+        "re_company_email": "leigh.cornelissen@chubb.com",
+        "re_abbrv": "CISAL",
+        "re_company_website": "www.chubb.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-08-03 12:34:13",
+        "updated_at": "2021-08-03 12:34:13"
+    },
+    {
+        "reinsurer_id": "96",
+        "re_company_name": "Grand Reinsurance Co Private Limited",
+        "re_company_email": "khumaloa@grandre.co.bw",
+        "re_abbrv": "GRCPL",
+        "re_company_website": "www.grandre.co.bw|",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-08-05 08:46:15",
+        "updated_at": "2021-08-05 08:46:15"
+    },
+    {
+        "reinsurer_id": "97",
+        "re_company_name": "Centriq Insurance Company Limited",
+        "re_company_email": "rbanks@centriq.co.za",
+        "re_abbrv": "CICL",
+        "re_company_website": "www.centriq.co.za",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-14 11:16:31",
+        "updated_at": "2021-09-14 11:16:31"
+    },
+    {
+        "reinsurer_id": "98",
+        "re_company_name": "K.M. Dastur Reinsurance Brokers Private Limited",
+        "re_company_email": "Kiran.Sharma@kmdastur.com",
+        "re_abbrv": "KDRBPL",
+        "re_company_website": "www.kmdastur.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-17 11:21:58",
+        "updated_at": "2021-09-17 11:21:58"
+    },
+    {
+        "reinsurer_id": "99",
+        "re_company_name": "Serene Insurance Company Limited",
+        "re_company_email": "patience.ahiataku@sereneinsurance.com",
+        "re_abbrv": "SICL",
+        "re_company_website": "www.sereneinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-20 18:26:16",
+        "updated_at": "2021-09-20 18:26:16"
+    },
+    {
+        "reinsurer_id": "100",
+        "re_company_name": "Solen Versicherungen AG",
+        "re_company_email": "w.lampofo@kekgroup.net",
+        "re_abbrv": "SVA",
+        "re_company_website": "www.shell.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-05 12:58:11",
+        "updated_at": "2021-10-05 12:58:11"
+    },
+    {
+        "reinsurer_id": "101",
+        "re_company_name": "African Reinsurance Corporation Legal Cession",
+        "re_company_email": "boakye.samuel@africa-re.com",
+        "re_abbrv": "ARCLC",
+        "re_company_website": "www.africa-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-13 12:32:31",
+        "updated_at": "2021-11-26 11:35:36"
+    },
+    {
+        "reinsurer_id": "102",
+        "re_company_name": "Saham Reinsurance",
+        "re_company_email": "khalid.Fadil@sahamre.com",
+        "re_abbrv": "SR",
+        "re_company_website": "www.sanlam.co.ke",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-20 12:18:04",
+        "updated_at": "2021-10-20 12:18:04"
+    },
+    {
+        "reinsurer_id": "103",
+        "re_company_name": "Soci\u00e9t\u00e9 Centrale de R\u00e9assurance",
+        "re_company_email": "ssoro@scrmaroc.com",
+        "re_abbrv": "SCDR",
+        "re_company_website": "www.scmaroc.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-28 15:45:02",
+        "updated_at": "2021-10-28 15:45:02"
+    },
+    {
+        "reinsurer_id": "104",
+        "re_company_name": "EdBroking LLP",
+        "re_company_email": "Nicholas.Redgrove@edbroking.com",
+        "re_abbrv": "EL",
+        "re_company_website": "www.edbroking.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-28 18:17:47",
+        "updated_at": "2021-10-28 18:17:47"
+    },
+    {
+        "reinsurer_id": "105",
+        "re_company_name": "Milli Reasurans Turk Anonim Sirketi",
+        "re_company_email": "ddumanli@millire.com",
+        "re_abbrv": "MRTAS",
+        "re_company_website": "www.millire.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-02 12:53:55",
+        "updated_at": "2021-11-02 12:53:55"
+    },
+    {
+        "reinsurer_id": "106",
+        "re_company_name": "Trust Reinsurance Company Limited",
+        "re_company_email": "mabdulnabi@trustre.com",
+        "re_abbrv": "TRCL",
+        "re_company_website": "https://www.trustre.com/en/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-03 16:01:01",
+        "updated_at": "2021-11-03 16:01:01"
+    },
+    {
+        "reinsurer_id": "107",
+        "re_company_name": "Munich Reinsurance Company Limited",
+        "re_company_email": "ASubrayan@munichre.com",
+        "re_abbrv": "MRCL",
+        "re_company_website": "https://www.munichre.com/en.html",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-03 16:33:34",
+        "updated_at": "2021-11-03 16:33:34"
+    },
+    {
+        "reinsurer_id": "108",
+        "re_company_name": "HEIRS GENERAL INSURANCE",
+        "re_company_email": "info@herisinsurance.com",
+        "re_abbrv": "HGI",
+        "re_company_website": "https://www.heirsinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-09 16:56:31",
+        "updated_at": "2021-11-09 16:56:31"
+    },
+    {
+        "reinsurer_id": "109",
+        "re_company_name": "GIC Reinsurance SA",
+        "re_company_email": "reinsurance@gicresa.co.za",
+        "re_abbrv": "GRS",
+        "re_company_website": "www.gicresa.co.za",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-12 14:22:30",
+        "updated_at": "2021-11-12 14:22:30"
+    },
+    {
+        "reinsurer_id": "110",
+        "re_company_name": "Ghana Reinsurance Company Limited (Kenya)",
+        "re_company_email": "INFO_KENYA@ghanare.com",
+        "re_abbrv": "GRCL(",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-17 17:33:11",
+        "updated_at": "2021-11-17 17:33:11"
+    },
+    {
+        "reinsurer_id": "112",
+        "re_company_name": "FBN Insurance Company",
+        "re_company_email": "insuranceinfo@fbninsurance.com",
+        "re_abbrv": "FIC",
+        "re_company_website": "www.fbninsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-19 12:20:58",
+        "updated_at": "2021-11-19 12:20:58"
+    },
+    {
+        "reinsurer_id": "113",
+        "re_company_name": "Compagnie Centrale de R\u00e9assurance (CCR)",
+        "re_company_email": "S.Azzoug@ccr.dz",
+        "re_abbrv": "CCDR(",
+        "re_company_website": "www.ccr.dz",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-22 07:11:32",
+        "updated_at": "2021-11-22 07:11:32"
+    },
+    {
+        "reinsurer_id": "114",
+        "re_company_name": "NASCO Reinsurance Brokers",
+        "re_company_email": "safia.sfar@nascofrance.com",
+        "re_abbrv": "NRB",
+        "re_company_website": "http://www.nascoinsurancegroup.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-12-13 03:05:41",
+        "updated_at": "2021-12-13 03:13:54"
+    },
+    {
+        "reinsurer_id": "115",
+        "re_company_name": "AFRICAN MUTUAL GLOBAL SERVICES",
+        "re_company_email": "info@amgs.africa.com",
+        "re_abbrv": "AMGS",
+        "re_company_website": "www.amgs.africa",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-12-16 12:15:24",
+        "updated_at": "2021-12-16 12:15:24"
+    },
+    {
+        "reinsurer_id": "116",
+        "re_company_name": "Tunis Re",
+        "re_company_email": "afq.asi@tunisre.com.tn",
+        "re_abbrv": "UR",
+        "re_company_website": "www.tunisre.com.tn",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-01 07:56:19",
+        "updated_at": "2022-01-01 07:56:19"
+    },
+    {
+        "reinsurer_id": "117",
+        "re_company_name": "Hiscox Insurance Company",
+        "re_company_email": "info@hiscox.com",
+        "re_abbrv": "IIC",
+        "re_company_website": "www.hiscox.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-13 10:05:07",
+        "updated_at": "2022-01-13 10:05:07"
+    },
+    {
+        "reinsurer_id": "118",
+        "re_company_name": "Royal Shield Re Limited",
+        "re_company_email": "ravi@seyrelimited.com",
+        "re_abbrv": "OSRL",
+        "re_company_website": "https://www.seyrelimited.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-24 13:15:10",
+        "updated_at": "2022-02-01 11:39:12"
+    },
+    {
+        "reinsurer_id": "119",
+        "re_company_name": "ACTIVA International Insurance Company (Liberia) Limited.",
+        "re_company_email": "t.kollie@group-activa.com",
+        "re_abbrv": "AIICL",
+        "re_company_website": "www.group-activa.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-31 17:16:06",
+        "updated_at": "2022-01-31 17:16:06"
+    },
+    {
+        "reinsurer_id": "120",
+        "re_company_name": "NSIA Insurance Limited (Nigeria)",
+        "re_company_email": "enquiry@nsiainsurance.com",
+        "re_abbrv": "NIL",
+        "re_company_website": "www.nsiainsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-02-23 17:12:30",
+        "updated_at": "2022-02-23 17:12:30"
+    },
+    {
+        "reinsurer_id": "121",
+        "re_company_name": "Berkshire Hathaway Specialty Insurance Company",
+        "re_company_email": "bershire@berkshire.com",
+        "re_abbrv": "EHSIC",
+        "re_company_website": "bershire@berkshire.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-02-24 13:04:22",
+        "updated_at": "2022-02-24 13:04:22"
+    },
+    {
+        "reinsurer_id": "122",
+        "re_company_name": "ZEP-RE Retakaful Window",
+        "re_company_email": "aidris@zep-re.com",
+        "re_abbrv": "ERW",
+        "re_company_website": "www.zep-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-02-27 15:14:08",
+        "updated_at": "2022-02-27 15:14:08"
+    },
+    {
+        "reinsurer_id": "123",
+        "re_company_name": "Arab Insurance Group",
+        "re_company_email": "Peter.F@arig.com.bh",
+        "re_abbrv": "RIG",
+        "re_company_website": "https://www.arig.net/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-03-08 16:48:37",
+        "updated_at": "2022-03-08 16:48:37"
+    },
+    {
+        "reinsurer_id": "124",
+        "re_company_name": "W-Safe Reinsurance Company Limited",
+        "re_company_email": "kwaku@w-safe.ltd",
+        "re_abbrv": "-RCL",
+        "re_company_website": "www.w-safe.ltd",
+        "delete_status": "DELETED",
+        "created_at": "2022-04-08 17:03:28",
+        "updated_at": "2022-04-08 17:11:38"
+    },
+    {
+        "reinsurer_id": "133",
+        "re_company_name": "W-Safe Reinsurance Company Ltd",
+        "re_company_email": "kwaku@w-safe.ltd",
+        "re_abbrv": "-RCL",
+        "re_company_website": "https://w-safe.ltd/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-04-11 11:53:05",
+        "updated_at": "2022-04-11 11:53:05"
+    },
+    {
+        "reinsurer_id": "134",
+        "re_company_name": "Zambia Reinsurance Plc",
+        "re_company_email": "zambia@zambia.com",
+        "re_abbrv": "ARP",
+        "re_company_website": "zambia@zambia.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-05-20 12:53:34",
+        "updated_at": "2022-05-20 12:53:34"
+    },
+    {
+        "reinsurer_id": "135",
+        "re_company_name": "NamibRe",
+        "re_company_email": "Reinsurance@namibre.com",
+        "re_abbrv": "A",
+        "re_company_website": "https://namibre.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-05-24 00:47:20",
+        "updated_at": "2022-05-24 00:47:20"
+    },
+    {
+        "reinsurer_id": "136",
+        "re_company_name": "Grand Reinsurance PVT Limited",
+        "re_company_email": "info@grandre.co.zw",
+        "re_abbrv": "RRPL",
+        "re_company_website": "www.grandre.co.zw",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-06-03 10:58:09",
+        "updated_at": "2022-06-03 10:58:09"
+    },
+    {
+        "reinsurer_id": "137",
+        "re_company_name": "Pioneer Insurance & Reinsurance Brokers Pvt. Ltd.",
+        "re_company_email": "pinc@pincinsure.com",
+        "re_abbrv": "II&RBPL",
+        "re_company_website": "www.pinc@pincinsure.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-06-23 14:06:25",
+        "updated_at": "2022-06-23 14:06:25"
+    },
+    {
+        "reinsurer_id": "138",
+        "re_company_name": "Guardian Reinsurance Zambia",
+        "re_company_email": "guardian@guardianreinsurance.co.zm",
+        "re_abbrv": "URZ",
+        "re_company_website": "www.guardianreinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-06-23 14:14:37",
+        "updated_at": "2022-08-29 13:06:37"
+    },
+    {
+        "reinsurer_id": "139",
+        "re_company_name": "FREMIR Reinsurance Services",
+        "re_company_email": "reinsurance@fremir.com.eg",
+        "re_abbrv": "RRS",
+        "re_company_website": "www.fremir.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-06-27 18:45:50",
+        "updated_at": "2022-06-27 18:45:50"
+    },
+    {
+        "reinsurer_id": "140",
+        "re_company_name": "Africa Reinsurance Consultants",
+        "re_company_email": "info@arcre.mu",
+        "re_abbrv": "FRC",
+        "re_company_website": "www.ArcRe.mu",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-06-28 09:44:16",
+        "updated_at": "2022-06-28 09:44:16"
+    },
+    {
+        "reinsurer_id": "141",
+        "re_company_name": "First Mutual Reinsurance Company Zimbabwe",
+        "re_company_email": "INdumo@firstmutual.co.zw",
+        "re_abbrv": "IMRCZ",
+        "re_company_website": "www.firstmutualholdings.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-07-07 12:21:28",
+        "updated_at": "2022-07-07 12:21:28"
+    },
+    {
+        "reinsurer_id": "145",
+        "re_company_name": "Ghana Reinsurance Company Ltd (Cameroon)",
+        "re_company_email": "info@ghanarecameroon.com",
+        "re_abbrv": "GRCL",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-08-08 16:40:22",
+        "updated_at": "2022-10-18 18:00:36"
+    },
+    {
+        "reinsurer_id": "146",
+        "re_company_name": "Guardian Reinsurance Brokers Uganda",
+        "re_company_email": "nbirungi@guardianrebrokers.co.ug",
+        "re_abbrv": "URBU",
+        "re_company_website": "www.guardianreuganda.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-08-29 13:08:25",
+        "updated_at": "2022-08-29 13:08:25"
+    },
+    {
+        "reinsurer_id": "147",
+        "re_company_name": "Klapton Reinsurance Brokers",
+        "re_company_email": "info@klaptonkenya.com",
+        "re_abbrv": "KRB",
+        "re_company_website": "www.klaptonkenya.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-09-28 12:29:05",
+        "updated_at": "2022-09-28 12:29:05"
+    },
+    {
+        "reinsurer_id": "148",
+        "re_company_name": "Klapton Reinsurance",
+        "re_company_email": "info@klaptonre.com",
+        "re_abbrv": "KR",
+        "re_company_website": "www.klaptonre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-10-12 16:18:17",
+        "updated_at": "2022-10-12 16:18:17"
+    },
+    {
+        "reinsurer_id": "149",
+        "re_company_name": "Marsch Limited",
+        "re_company_email": "finproserviceteam@marsh.com",
+        "re_abbrv": "ML",
+        "re_company_website": "www.marsh.com",
+        "delete_status": "DELETED",
+        "created_at": "2022-10-14 09:28:21",
+        "updated_at": "2022-10-14 09:32:12"
+    },
+    {
+        "reinsurer_id": "150",
+        "re_company_name": "Marsh Ltd",
+        "re_company_email": "finproserviceteam@marsh.com",
+        "re_abbrv": "ML",
+        "re_company_website": "www.marsh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-10-14 09:33:18",
+        "updated_at": "2022-10-14 09:33:18"
+    },
+    {
+        "reinsurer_id": "151",
+        "re_company_name": "Modern Reinsurance Brokers",
+        "re_company_email": "ibrahim@modernre.co.ke",
+        "re_abbrv": "MRB",
+        "re_company_website": "www.modern.co.ke",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-10-17 11:05:29",
+        "updated_at": "2022-10-17 11:05:29"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "reinsurer_id": "1",
+        "re_company_name": "Ghana Reinsurance Company Limited",
+        "re_company_email": "info@ghanare.com",
+        "re_abbrv": "GRCL",
+        "re_company_website": "ghanare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-10 00:14:27",
+        "updated_at": "2021-07-06 16:25:17"
+    },
+    {
+        "reinsurer_id": "2",
+        "re_company_name": "GN Reinsurance",
+        "re_company_email": "underwriting@gnreinsurance.com",
+        "re_abbrv": "GR",
+        "re_company_website": null,
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-10 11:42:22",
+        "updated_at": "2021-02-16 14:05:30"
+    },
+    {
+        "reinsurer_id": "3",
+        "re_company_name": "Mainstream Reinsurance",
+        "re_company_email": "estherk@mainstream-gh.com",
+        "re_abbrv": "MR",
+        "re_company_website": "https://www.mainstream-gh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-16 14:07:36",
+        "updated_at": "2021-02-16 14:07:36"
+    },
+    {
+        "reinsurer_id": "4",
+        "re_company_name": "Loyalty Insurance Company",
+        "re_company_email": "francis.kumah@loyaltyinsurancegh.com",
+        "re_abbrv": "LIC",
+        "re_company_website": "https://loyaltyinsurancegh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-16 21:14:22",
+        "updated_at": "2021-02-16 21:14:22"
+    },
+    {
+        "reinsurer_id": "5",
+        "re_company_name": "Phoenix Insurance",
+        "re_company_email": "mlekey@phoenixinsurancegh.com",
+        "re_abbrv": "PI",
+        "re_company_website": "https://phoenixinsurancegh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-16 21:14:44",
+        "updated_at": "2021-02-16 21:14:44"
+    },
+    {
+        "reinsurer_id": "6",
+        "re_company_name": "WAICA Reinsurance",
+        "re_company_email": "waicareghana@waicare.com",
+        "re_abbrv": "WR",
+        "re_company_website": "https://www.waicare.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-16 21:18:38",
+        "updated_at": "2021-02-25 11:00:21"
+    },
+    {
+        "reinsurer_id": "7",
+        "re_company_name": "Glico General Insurance",
+        "re_company_email": "kdokuragu@glicogeneral.com",
+        "re_abbrv": "GGI",
+        "re_company_website": "https://glicogen.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-16 21:25:38",
+        "updated_at": "2021-02-16 21:25:38"
+    },
+    {
+        "reinsurer_id": "8",
+        "re_company_name": "Priority Insurance Company",
+        "re_company_email": "pdavies@priorityinsuranceghana.net",
+        "re_abbrv": "PIC",
+        "re_company_website": "https://priorityinsuranceghana.net/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-16 21:34:07",
+        "updated_at": "2021-02-16 21:34:07"
+    },
+    {
+        "reinsurer_id": "14",
+        "re_company_name": "SIC Insurance Company",
+        "re_company_email": "reinsurancedepartment@sic-gh.com",
+        "re_abbrv": "SIC",
+        "re_company_website": "http://www.sic-gh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-17 17:29:29",
+        "updated_at": "2021-02-17 17:29:29"
+    },
+    {
+        "reinsurer_id": "15",
+        "re_company_name": "NSIA Insurance Company",
+        "re_company_email": "josephine.quaye@nsiainsurance.com.gh",
+        "re_abbrv": "NIC",
+        "re_company_website": "https://www.nsiainsurance.com.gh/about-nsia.html",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-17 18:27:42",
+        "updated_at": "2021-02-17 18:27:42"
+    },
+    {
+        "reinsurer_id": "16",
+        "re_company_name": "Coronation Insurance",
+        "re_company_email": "opare.nelson@coronationinsurance.com.ng",
+        "re_abbrv": "CI",
+        "re_company_website": "https://www.coronationinsurance.com.ng/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-18 12:28:50",
+        "updated_at": "2021-02-18 12:28:50"
+    },
+    {
+        "reinsurer_id": "17",
+        "re_company_name": "Best Assurance Company Limited",
+        "re_company_email": "cadjei-mensah@bestassurance.com.gh",
+        "re_abbrv": "BACL",
+        "re_company_website": "http://bestassurance.com.gh/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-18 12:29:09",
+        "updated_at": "2021-02-18 12:29:09"
+    },
+    {
+        "reinsurer_id": "18",
+        "re_company_name": "Loyalty Insurance Company",
+        "re_company_email": "francis.kumah@loyaltyinsurancegh.com",
+        "re_abbrv": "LIC",
+        "re_company_website": "https://loyaltyinsurancegh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-18 12:29:32",
+        "updated_at": "2021-02-18 12:29:32"
+    },
+    {
+        "reinsurer_id": "19",
+        "re_company_name": "Serene Insurance Company",
+        "re_company_email": "patience.ahiataku@sereneinsurance.com",
+        "re_abbrv": "SIC",
+        "re_company_website": "https://sereneinsurance.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-18 12:30:13",
+        "updated_at": "2021-02-18 12:30:13"
+    },
+    {
+        "reinsurer_id": "24",
+        "re_company_name": "Star Assurance Company",
+        "re_company_email": "eopoku@starassurance.com",
+        "re_abbrv": "SAC",
+        "re_company_website": "starassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-02-18 12:41:30",
+        "updated_at": "2021-02-18 12:41:30"
+    },
+    {
+        "reinsurer_id": "25",
+        "re_company_name": "Continental Reinsurance Plc",
+        "re_company_email": "tonibudo@continental-re.com",
+        "re_abbrv": "CRP",
+        "re_company_website": null,
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 16:40:03",
+        "updated_at": "2021-03-02 16:40:03"
+    },
+    {
+        "reinsurer_id": "26",
+        "re_company_name": "Kenya Reinsurance",
+        "re_company_email": "internationalfacultative@kenyare.co.ke",
+        "re_abbrv": "KR",
+        "re_company_website": "www.kenyare.co.ke",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 16:44:31",
+        "updated_at": "2021-03-02 16:46:57"
+    },
+    {
+        "reinsurer_id": "27",
+        "re_company_name": "Provident Insurance Company",
+        "re_company_email": "ellen.amihere@providentgh.com",
+        "re_abbrv": "PIC",
+        "re_company_website": "https://www.providentgh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 16:49:55",
+        "updated_at": "2021-03-02 16:49:55"
+    },
+    {
+        "reinsurer_id": "28",
+        "re_company_name": "Best Assurance Company Limited",
+        "re_company_email": "cadjei-mensah@bestassurance.com.gh",
+        "re_abbrv": "BACL",
+        "re_company_website": "http://bestassurance.com.gh/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 16:55:15",
+        "updated_at": "2021-03-02 16:55:15"
+    },
+    {
+        "reinsurer_id": "29",
+        "re_company_name": "Unique Insurance Company",
+        "re_company_email": "francis.antwi@uicghana.com",
+        "re_abbrv": "UIC",
+        "re_company_website": "http://uicghana.org/Home",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 16:59:31",
+        "updated_at": "2021-03-02 16:59:31"
+    },
+    {
+        "reinsurer_id": "30",
+        "re_company_name": "Imperial General Assurance",
+        "re_company_email": "skoduah@imperialgeneral.com",
+        "re_abbrv": "IGA",
+        "re_company_website": "https://imperialgeneral.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 17:07:23",
+        "updated_at": "2021-03-02 17:07:23"
+    },
+    {
+        "reinsurer_id": "31",
+        "re_company_name": "Bedrock Insurance",
+        "re_company_email": "eametepe@bedrockinsurancegh.com",
+        "re_abbrv": "BI",
+        "re_company_website": "http://bedrockinsurancegh.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-02 17:10:40",
+        "updated_at": "2021-03-02 17:10:40"
+    },
+    {
+        "reinsurer_id": "32",
+        "re_company_name": "Ghana Union Assurance",
+        "re_company_email": "eric.sarfo@ghanaunionassurance.com",
+        "re_abbrv": "GUA",
+        "re_company_website": "ghanaunionassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-31 19:51:24",
+        "updated_at": "2021-03-31 19:51:24"
+    },
+    {
+        "reinsurer_id": "33",
+        "re_company_name": "Hollard Insurance Ghana Limited",
+        "re_company_email": "edemd@hollard.com.gh",
+        "re_abbrv": "HIGL",
+        "re_company_website": "hollard.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-06-02 15:53:18",
+        "updated_at": "2021-06-02 15:53:18"
+    },
+    {
+        "reinsurer_id": "34",
+        "re_company_name": "Enterprise Insurance Company Limited",
+        "re_company_email": "Esi.Agbolosu@enterprisegroup.com.gh",
+        "re_abbrv": "EICL",
+        "re_company_website": "https://www.enterprisegroup.net.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-08-12 14:17:56",
+        "updated_at": "2021-08-12 14:17:56"
+    },
+    {
+        "reinsurer_id": "35",
+        "re_company_name": "Donewell Insurance",
+        "re_company_email": "reinsurance@donewellinsurance.com",
+        "re_abbrv": "DI",
+        "re_company_website": "www.donewellinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-08-17 18:11:51",
+        "updated_at": "2021-08-17 18:11:51"
+    },
+    {
+        "reinsurer_id": "36",
+        "re_company_name": "Prime Insurance Company Limited",
+        "re_company_email": "hmensah@primeinsuranceghana.com",
+        "re_abbrv": "PICL",
+        "re_company_website": "https://www.primeinsuranceghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-08-19 16:51:37",
+        "updated_at": "2021-08-19 16:59:25"
+    },
+    {
+        "reinsurer_id": "37",
+        "re_company_name": "Millennium Insurance",
+        "re_company_email": "maddo@millenniuminsurancegh.com",
+        "re_abbrv": "MI",
+        "re_company_website": "millenniuminsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-01 11:20:27",
+        "updated_at": "2021-09-01 11:20:27"
+    },
+    {
+        "reinsurer_id": "38",
+        "re_company_name": "Saham Insurance",
+        "re_company_email": "sandra.fiagbedzi@sahaminsurance.com",
+        "re_abbrv": "SI",
+        "re_company_website": "+233545195671",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-09 14:20:41",
+        "updated_at": "2021-09-09 14:20:41"
+    },
+    {
+        "reinsurer_id": "39",
+        "re_company_name": "Vanguard Assurance",
+        "re_company_email": "kasuo@vanguardassurance.com",
+        "re_abbrv": "VA",
+        "re_company_website": "https://vanguardassurance.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-10 12:39:37",
+        "updated_at": "2021-09-10 12:39:37"
+    },
+    {
+        "reinsurer_id": "40",
+        "re_company_name": "FBS Reinsurance Limited",
+        "re_company_email": "oluwatayo.morebise@fbsre.ng",
+        "re_abbrv": "FRL",
+        "re_company_website": "https://fbsre.ng/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-12-01 15:29:40",
+        "updated_at": "2021-12-01 15:29:40"
+    },
+    {
+        "reinsurer_id": "41",
+        "re_company_name": "Sunu Assurances Ghana",
+        "re_company_email": "alex.darko@sunu-group.com",
+        "re_abbrv": "SAG",
+        "re_company_website": "www.sunuassurancesghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-03-11 17:13:20",
+        "updated_at": "2022-03-11 17:13:20"
+    },
+    {
+        "reinsurer_id": "42",
+        "re_company_name": "Serene Insurance Company",
+        "re_company_email": "patience.ahiataku@sereneinsurance.com",
+        "re_abbrv": "SIC",
+        "re_company_website": "https://sereneinsurance.com/",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-04-04 15:16:05",
+        "updated_at": "2022-04-04 15:16:05"
+    },
+    {
+        "reinsurer_id": "43",
+        "re_company_name": "NCA Reinsurance",
+        "re_company_email": "infos@nca-re.net",
+        "re_abbrv": "NR",
+        "re_company_website": "www.nca-re.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-04-27 08:40:15",
+        "updated_at": "2022-04-27 08:46:39"
+    },
+    {
+        "reinsurer_id": "44",
+        "re_company_name": "W-SAFE REINSURANCE LIMITED",
+        "re_company_email": "kwaku@w-safe.ltd",
+        "re_abbrv": "WRL",
+        "re_company_website": "wsafere.ltd",
+        "delete_status": "DELETED",
+        "created_at": "2022-07-19 19:42:21",
+        "updated_at": "2022-07-20 10:07:00"
+    },
+    {
+        "reinsurer_id": "45",
+        "re_company_name": "W-SAFE REINSURANCE LIMITED",
+        "re_company_email": "kwaku@w-safe.ltd",
+        "re_abbrv": "WRL",
+        "re_company_website": "wsafere.ltd",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-07-20 09:50:25",
+        "updated_at": "2022-07-20 09:50:25"
+    },
+    {
+        "reinsurer_id": "46",
+        "re_company_name": "W SAFE REINSURNACE LIMITED",
+        "re_company_email": "kwaku@w-safe.ltd",
+        "re_abbrv": "WSRL",
+        "re_company_website": "w-safere.ltd",
+        "delete_status": "DELETED",
+        "created_at": "2022-07-20 09:59:34",
+        "updated_at": "2022-07-20 10:06:56"
+    },
+    {
+        "reinsurer_id": "47",
+        "re_company_name": "Klapton Re",
+        "re_company_email": "Pauline.Wangari@klaptonkenya.com",
+        "re_abbrv": "KR",
+        "re_company_website": "www.klaptonkenya.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-08-23 08:58:27",
+        "updated_at": "2022-08-23 09:08:47"
+    }
+]

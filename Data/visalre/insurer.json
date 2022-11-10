@@ -1,0 +1,412 @@
+[
+    {
+        "insurer_id": "1",
+        "insurer_company_name": "Vanguard Assurance Company",
+        "insurer_company_email": "kasuo@vanguardassurance.com",
+        "insurer_abbrv": "VAC",
+        "insurer_company_website": "vanguard.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-20 00:37:29",
+        "updated_at": "2020-07-16 12:18:31"
+    },
+    {
+        "insurer_id": "2",
+        "insurer_company_name": "Bright Insurance Company",
+        "insurer_company_email": "jdotcole233@gmail.com",
+        "insurer_abbrv": "BIC",
+        "insurer_company_website": "bright.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-06-21 08:59:59",
+        "updated_at": "2020-08-06 17:53:04"
+    },
+    {
+        "insurer_id": "3",
+        "insurer_company_name": "GLICO GENERAL INSURANCE COMPANY",
+        "insurer_company_email": "reinsurance@glicogenral.com",
+        "insurer_abbrv": "GGIC",
+        "insurer_company_website": "www.glicogen.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 11:46:34",
+        "updated_at": "2020-06-24 13:18:58"
+    },
+    {
+        "insurer_id": "4",
+        "insurer_company_name": "Millennium Insurance Company",
+        "insurer_company_email": "jaffram@millenniuminsurancegh.com",
+        "insurer_abbrv": "MIC",
+        "insurer_company_website": "www.millenniuminsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 19:09:08",
+        "updated_at": "2020-09-15 15:07:21"
+    },
+    {
+        "insurer_id": "5",
+        "insurer_company_name": "Unique Insurance Company",
+        "insurer_company_email": "info@uniqueinsurance.com",
+        "insurer_abbrv": "UIC",
+        "insurer_company_website": "www.uniqueinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-24 15:23:44",
+        "updated_at": "2020-06-24 15:23:44"
+    },
+    {
+        "insurer_id": "6",
+        "insurer_company_name": "Enterprise Insurance Company",
+        "insurer_company_email": "info.insurance@enterprisegroup.com.gh",
+        "insurer_abbrv": "EIC",
+        "insurer_company_website": "WWW.enterprisegroup.com.gh",
+        "delete_status": "DELETED",
+        "created_at": "2020-06-24 17:11:53",
+        "updated_at": "2020-08-11 09:37:05"
+    },
+    {
+        "insurer_id": "7",
+        "insurer_company_name": "Star Assurance Company",
+        "insurer_company_email": "ayindemubarik@yahoo.com",
+        "insurer_abbrv": "SAC",
+        "insurer_company_website": "www.starassurance.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-06-26 10:16:58",
+        "updated_at": "2020-07-06 19:14:35"
+    },
+    {
+        "insurer_id": "8",
+        "insurer_company_name": "SIC Insurance Company",
+        "insurer_company_email": "reinsure@sic-gh.com",
+        "insurer_abbrv": "SIC",
+        "insurer_company_website": "www.sic.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-29 13:18:56",
+        "updated_at": "2020-07-03 12:54:09"
+    },
+    {
+        "insurer_id": "9",
+        "insurer_company_name": "Hollard Insurance Company",
+        "insurer_company_email": "EdemD@hollard.com.gh",
+        "insurer_abbrv": "HIC",
+        "insurer_company_website": "www.hollard.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-29 13:55:36",
+        "updated_at": "2020-07-03 17:32:31"
+    },
+    {
+        "insurer_id": "10",
+        "insurer_company_name": "Sanlam General Insurance Ghana Limited",
+        "insurer_company_email": "sandra.fiagbedzi@sahaminsurance.com",
+        "insurer_abbrv": "SGIGL",
+        "insurer_company_website": "www.sahaminsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-30 15:41:30",
+        "updated_at": "2022-08-10 11:25:57"
+    },
+    {
+        "insurer_id": "11",
+        "insurer_company_name": "Vanguard Assurance Company Limited",
+        "insurer_company_email": "kasuo@vanguardassurance.com",
+        "insurer_abbrv": "VACL",
+        "insurer_company_website": "www.vanguardassurance.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-07-01 11:12:04",
+        "updated_at": "2020-08-06 17:53:56"
+    },
+    {
+        "insurer_id": "12",
+        "insurer_company_name": "Bedrock Insurance Company",
+        "insurer_company_email": "info@bedrock.com",
+        "insurer_abbrv": "BIC",
+        "insurer_company_website": "www.bedrockinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-07-02 12:39:45",
+        "updated_at": "2020-07-02 12:39:45"
+    },
+    {
+        "insurer_id": "13",
+        "insurer_company_name": "Aureol Insurance Company",
+        "insurer_company_email": "arthur.rogers-wright@aureolinsurance.com",
+        "insurer_abbrv": "AIC",
+        "insurer_company_website": "www.aureolinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-07-13 14:29:27",
+        "updated_at": "2020-07-13 14:29:27"
+    },
+    {
+        "insurer_id": "14",
+        "insurer_company_name": "Best Assurance Company",
+        "insurer_company_email": "cadjei-mensah@bestassurance.com.gh",
+        "insurer_abbrv": "BAC",
+        "insurer_company_website": "www.bestassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-07-16 19:13:42",
+        "updated_at": "2020-07-24 07:54:18"
+    },
+    {
+        "insurer_id": "15",
+        "insurer_company_name": "Loyalty Insurance Company",
+        "insurer_company_email": "reinsurance@loyaltyinsurancegh.com",
+        "insurer_abbrv": "LIC",
+        "insurer_company_website": "www.loyaltyinsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-07-28 09:33:47",
+        "updated_at": "2020-07-28 09:33:47"
+    },
+    {
+        "insurer_id": "16",
+        "insurer_company_name": "REINSURER TEST",
+        "insurer_company_email": "test@reinsurance.com",
+        "insurer_abbrv": "RT",
+        "insurer_company_website": "www.reinsurancetest.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-07-29 11:47:46",
+        "updated_at": "2020-08-02 22:36:46"
+    },
+    {
+        "insurer_id": "17",
+        "insurer_company_name": "RegencyNem Insurance Company",
+        "insurer_company_email": "m.agbleke@regencynem.com",
+        "insurer_abbrv": "RIC",
+        "insurer_company_website": "www.regencynem.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-07-30 15:14:22",
+        "updated_at": "2020-07-30 15:16:35"
+    },
+    {
+        "insurer_id": "18",
+        "insurer_company_name": "Ghana Union Assurance Company",
+        "insurer_company_email": "nmotor@ghanaunionassurance.com",
+        "insurer_abbrv": "GUAC",
+        "insurer_company_website": "www.ghanaunionassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-03 09:47:13",
+        "updated_at": "2020-08-03 09:47:13"
+    },
+    {
+        "insurer_id": "19",
+        "insurer_company_name": "Coronation Insurance (Ghana) Limited",
+        "insurer_company_email": "infoghana@wapic.com",
+        "insurer_abbrv": "CI(L",
+        "insurer_company_website": "www.wapic.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-07 09:04:08",
+        "updated_at": "2021-02-26 11:10:05"
+    },
+    {
+        "insurer_id": "20",
+        "insurer_company_name": "Activa International Insurance Company",
+        "insurer_company_email": "info@visalre.com",
+        "insurer_abbrv": "AIIC",
+        "insurer_company_website": "www.activa-gh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-19 12:12:39",
+        "updated_at": "2020-10-15 13:24:42"
+    },
+    {
+        "insurer_id": "21",
+        "insurer_company_name": "Nsia Insurance Company",
+        "insurer_company_email": "felix.kina@nsiainsurance.com.gh",
+        "insurer_abbrv": "NIC",
+        "insurer_company_website": "www.nsiainsurance.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-25 09:22:51",
+        "updated_at": "2020-08-25 09:22:51"
+    },
+    {
+        "insurer_id": "22",
+        "insurer_company_name": "Phoenix Insurance Company Limited",
+        "insurer_company_email": "info@phoenixinsurancegh.com",
+        "insurer_abbrv": "PICL",
+        "insurer_company_website": "www.phoenixinsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-27 12:19:38",
+        "updated_at": "2020-08-27 12:19:38"
+    },
+    {
+        "insurer_id": "23",
+        "insurer_company_name": "Donewell Insurance Company",
+        "insurer_company_email": "info@donewellinsurance.com",
+        "insurer_abbrv": "DIC",
+        "insurer_company_website": "www.donewellinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-28 15:38:41",
+        "updated_at": "2020-08-28 15:38:41"
+    },
+    {
+        "insurer_id": "24",
+        "insurer_company_name": "Enterprise Insurance Company",
+        "insurer_company_email": "Esi.Agbolosu@enterprisegroup.com.gh",
+        "insurer_abbrv": "EIC",
+        "insurer_company_website": "www.enterprisegroup.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-01 10:25:57",
+        "updated_at": "2020-10-21 13:18:44"
+    },
+    {
+        "insurer_id": "25",
+        "insurer_company_name": "Sri Lanka Insurance Corporation Limited",
+        "insurer_company_email": "na@gmail.com",
+        "insurer_abbrv": "SLICL",
+        "insurer_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-27 14:03:04",
+        "updated_at": "2020-10-27 14:03:04"
+    },
+    {
+        "insurer_id": "26",
+        "insurer_company_name": "Ghana Reinsurance Company",
+        "insurer_company_email": "info@ghanare.com",
+        "insurer_abbrv": "GRC",
+        "insurer_company_website": "www.ghanare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-11-19 12:27:40",
+        "updated_at": "2020-11-19 12:27:40"
+    },
+    {
+        "insurer_id": "27",
+        "insurer_company_name": "Islamic Insurance Company Ltd",
+        "insurer_company_email": "expertsinsconst62@gmail.com",
+        "insurer_abbrv": "IICL",
+        "insurer_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-23 10:57:30",
+        "updated_at": "2021-03-23 10:57:30"
+    },
+    {
+        "insurer_id": "28",
+        "insurer_company_name": "Imperial General Assurance Company",
+        "insurer_company_email": "roklah@imperialgeneral.com",
+        "insurer_abbrv": "IGAC",
+        "insurer_company_website": "www.imperialgen.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-04-07 16:03:22",
+        "updated_at": "2021-04-07 16:03:22"
+    },
+    {
+        "insurer_id": "29",
+        "insurer_company_name": "Insurance Company of Africa",
+        "insurer_company_email": "jwolo@icaliberia.com",
+        "insurer_abbrv": "ICOA",
+        "insurer_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-05-12 13:57:10",
+        "updated_at": "2021-05-12 13:57:10"
+    },
+    {
+        "insurer_id": "30",
+        "insurer_company_name": "Sierra Leone Insurance Company Ltd",
+        "insurer_company_email": "jjmetzger2016@gmail.com",
+        "insurer_abbrv": "SLICL",
+        "insurer_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-07-09 09:43:20",
+        "updated_at": "2021-07-09 09:43:20"
+    },
+    {
+        "insurer_id": "31",
+        "insurer_company_name": "Joycelyn Insurance",
+        "insurer_company_email": "info@joyc.com",
+        "insurer_abbrv": "JI",
+        "insurer_company_website": "www.ghc.com",
+        "delete_status": "DELETED",
+        "created_at": "2021-07-23 11:14:05",
+        "updated_at": "2021-07-23 11:18:59"
+    },
+    {
+        "insurer_id": "32",
+        "insurer_company_name": "Sic Insurance Company",
+        "insurer_company_email": "reinsure@sic-gh.com",
+        "insurer_abbrv": "SIC",
+        "insurer_company_website": "www.sic.com",
+        "delete_status": "DELETED",
+        "created_at": "2021-09-28 16:20:01",
+        "updated_at": "2021-10-04 10:23:23"
+    },
+    {
+        "insurer_id": "33",
+        "insurer_company_name": "Provident Insurance",
+        "insurer_company_email": "kate.carr@providentgh.com",
+        "insurer_abbrv": "PI",
+        "insurer_company_website": "www.providentgh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-04 16:56:58",
+        "updated_at": "2021-10-04 16:56:58"
+    },
+    {
+        "insurer_id": "34",
+        "insurer_company_name": "Serene Insurance Company Ltd",
+        "insurer_company_email": "kingsley.akuoko-boakye@sereneinsurance.com",
+        "insurer_abbrv": "SICL",
+        "insurer_company_website": "n/a",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-11-15 13:50:40",
+        "updated_at": "2021-11-15 13:50:40"
+    },
+    {
+        "insurer_id": "35",
+        "insurer_company_name": "Palm Insurance Corporation",
+        "insurer_company_email": "insurancepalm@gmail.com",
+        "insurer_abbrv": "PIC",
+        "insurer_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-12-20 12:11:36",
+        "updated_at": "2021-12-20 12:11:36"
+    },
+    {
+        "insurer_id": "36",
+        "insurer_company_name": "Quality Insurance Company Limited",
+        "insurer_company_email": "m.oseibonsu@qicghana.com",
+        "insurer_abbrv": "QICL",
+        "insurer_company_website": "m.oseibonsu@qicghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-19 14:59:36",
+        "updated_at": "2022-01-19 14:59:36"
+    },
+    {
+        "insurer_id": "37",
+        "insurer_company_name": "Waica Reinsurance Corporation",
+        "insurer_company_email": "info@waicare.com",
+        "insurer_abbrv": "WRC",
+        "insurer_company_website": "www.waicare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-21 11:39:26",
+        "updated_at": "2022-01-21 11:39:26"
+    },
+    {
+        "insurer_id": "38",
+        "insurer_company_name": "Star Assurance Company",
+        "insurer_company_email": "corporateunit@starassurance.com",
+        "insurer_abbrv": "SAC",
+        "insurer_company_website": "www.starassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-02-24 11:56:48",
+        "updated_at": "2022-09-12 10:00:40"
+    },
+    {
+        "insurer_id": "39",
+        "insurer_company_name": "Sunshine Insurance Company",
+        "insurer_company_email": "dangonsirimang@yahoo.co.uk",
+        "insurer_abbrv": "SIC",
+        "insurer_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-04-19 17:00:57",
+        "updated_at": "2022-04-19 17:00:57"
+    },
+    {
+        "insurer_id": "40",
+        "insurer_company_name": "Gn Reinsurance Company",
+        "insurer_company_email": "underwriting@gnreinsurance.com",
+        "insurer_abbrv": "GRC",
+        "insurer_company_website": "www.gnreinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-05-31 22:23:07",
+        "updated_at": "2022-05-31 22:23:07"
+    },
+    {
+        "insurer_id": "41",
+        "insurer_company_name": "Prime Insurance Company Limited",
+        "insurer_company_email": "info@primeinsuranceghana.com",
+        "insurer_abbrv": "PICL",
+        "insurer_company_website": "primeinsuranceghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-10-13 17:45:52",
+        "updated_at": "2022-10-13 17:45:52"
+    }
+]

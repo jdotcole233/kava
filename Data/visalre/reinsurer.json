@@ -1,0 +1,542 @@
+[
+    {
+        "reinsurer_id": "1",
+        "re_company_name": "Vanguard Assurance Company",
+        "re_company_email": "vanguard@gmail.com",
+        "re_abbrv": "VAC",
+        "re_company_website": "vanguard.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-06-20 01:27:32",
+        "updated_at": "2020-06-20 01:27:51"
+    },
+    {
+        "reinsurer_id": "2",
+        "re_company_name": "Ghana International Insurance",
+        "re_company_email": "jdotcole233@gmail.com",
+        "re_abbrv": "GII",
+        "re_company_website": "gii.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-06-21 08:56:37",
+        "updated_at": "2020-08-11 09:14:08"
+    },
+    {
+        "reinsurer_id": "3",
+        "re_company_name": "Waica Reinsurance Corporation",
+        "re_company_email": "info@waicare.com",
+        "re_abbrv": "WRC",
+        "re_company_website": "www.waicare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 11:49:29",
+        "updated_at": "2020-06-22 11:49:29"
+    },
+    {
+        "reinsurer_id": "4",
+        "re_company_name": "Ghana Reinsurance Company",
+        "re_company_email": "info@ghanare.com",
+        "re_abbrv": "GRC",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 12:01:12",
+        "updated_at": "2020-06-22 12:01:12"
+    },
+    {
+        "reinsurer_id": "5",
+        "re_company_name": "GN Reinsurance Company",
+        "re_company_email": "underwriting@gnreinsurance.com",
+        "re_abbrv": "GRC",
+        "re_company_website": "www.gnreinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 16:06:53",
+        "updated_at": "2020-06-24 13:00:00"
+    },
+    {
+        "reinsurer_id": "6",
+        "re_company_name": "Mainstream Reinsurance Company",
+        "re_company_email": "afariwaa@mainstream-gh.com",
+        "re_abbrv": "MRC",
+        "re_company_website": "www.mainstreamre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 16:08:05",
+        "updated_at": "2020-07-03 12:26:32"
+    },
+    {
+        "reinsurer_id": "7",
+        "re_company_name": "Nouvelle Compagnie Africane De Reassurance",
+        "re_company_email": "aminata.camara@nca-re.net",
+        "re_abbrv": "NCADR",
+        "re_company_website": "www.nca-re.net",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 16:10:40",
+        "updated_at": "2020-07-27 09:26:20"
+    },
+    {
+        "reinsurer_id": "8",
+        "re_company_name": "Aveni Reinsurance Company",
+        "re_company_email": "info@aveni-re.com",
+        "re_abbrv": "ARC",
+        "re_company_website": "www.avenire.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-22 16:12:25",
+        "updated_at": "2020-06-22 16:12:25"
+    },
+    {
+        "reinsurer_id": "9",
+        "re_company_name": "RegencyNem Insurance Company",
+        "re_company_email": "info@regencynem.com",
+        "re_abbrv": "RIC",
+        "re_company_website": "www.regnem.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 14:32:56",
+        "updated_at": "2020-07-27 21:47:18"
+    },
+    {
+        "reinsurer_id": "10",
+        "re_company_name": "Best Assurance Company",
+        "re_company_email": "info@bestassurance.com",
+        "re_abbrv": "BAC",
+        "re_company_website": "www.bestassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 14:34:41",
+        "updated_at": "2020-06-26 14:34:41"
+    },
+    {
+        "reinsurer_id": "11",
+        "re_company_name": "Imperial General Assurance Company",
+        "re_company_email": "roklah@imperialgeneral.com",
+        "re_abbrv": "IGAC",
+        "re_company_website": "www.imperialgen.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 14:36:57",
+        "updated_at": "2020-07-27 21:21:44"
+    },
+    {
+        "reinsurer_id": "12",
+        "re_company_name": "Loyalty Insurance Company",
+        "re_company_email": "info@loyaltyinsurance.com",
+        "re_abbrv": "LIC",
+        "re_company_website": "www.loyaltyinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 14:42:45",
+        "updated_at": "2020-06-26 14:42:45"
+    },
+    {
+        "reinsurer_id": "13",
+        "re_company_name": "Donewell Insurance Company",
+        "re_company_email": "info@donewellinsurance.com",
+        "re_abbrv": "DIC",
+        "re_company_website": "www.donewellinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 14:47:36",
+        "updated_at": "2020-06-26 14:47:36"
+    },
+    {
+        "reinsurer_id": "14",
+        "re_company_name": "Sunu Assurance Company",
+        "re_company_email": "info@sunuassurance.com",
+        "re_abbrv": "SAC",
+        "re_company_website": "www.sunuassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 14:59:51",
+        "updated_at": "2020-06-26 15:00:18"
+    },
+    {
+        "reinsurer_id": "15",
+        "re_company_name": "Millennium Insurance Company",
+        "re_company_email": "info@millenniuminsurance.com",
+        "re_abbrv": "MIC",
+        "re_company_website": "www.millenniuminsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 15:00:46",
+        "updated_at": "2020-06-26 15:00:46"
+    },
+    {
+        "reinsurer_id": "16",
+        "re_company_name": "Activa International Insurance Company",
+        "re_company_email": "info@activa-gh.com",
+        "re_abbrv": "AIIC",
+        "re_company_website": "www.activa-gh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 15:01:58",
+        "updated_at": "2020-06-26 15:01:58"
+    },
+    {
+        "reinsurer_id": "17",
+        "re_company_name": "Priority Insurance Company",
+        "re_company_email": "info@priority.com",
+        "re_abbrv": "PIC",
+        "re_company_website": "www.priority.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-26 15:04:29",
+        "updated_at": "2020-06-26 15:04:29"
+    },
+    {
+        "reinsurer_id": "18",
+        "re_company_name": "Taiping General Insurance Company Ltd",
+        "re_company_email": "info@taiping.com",
+        "re_abbrv": "TGICL",
+        "re_company_website": "www.taiping.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-28 07:45:06",
+        "updated_at": "2020-06-28 07:45:06"
+    },
+    {
+        "reinsurer_id": "19",
+        "re_company_name": "Unique Insurance Company",
+        "re_company_email": "info@uniqueinsurance.com",
+        "re_abbrv": "UIC",
+        "re_company_website": "www.uniqueinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-28 09:05:38",
+        "updated_at": "2020-06-28 09:05:38"
+    },
+    {
+        "reinsurer_id": "20",
+        "re_company_name": "Star Assurance Company",
+        "re_company_email": "corporateunit@starassurance.com",
+        "re_abbrv": "SAC",
+        "re_company_website": "www.starassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-29 13:32:50",
+        "updated_at": "2020-08-06 09:59:02"
+    },
+    {
+        "reinsurer_id": "21",
+        "re_company_name": "GLICO GENERAL INSURANCE COMPANY",
+        "re_company_email": "reinsurance@glicogeneral.com",
+        "re_abbrv": "GGIC",
+        "re_company_website": "www.glicogen.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-29 13:33:07",
+        "updated_at": "2020-07-03 13:56:06"
+    },
+    {
+        "reinsurer_id": "22",
+        "re_company_name": "Sanlam Insurance Company",
+        "re_company_email": "info@gh.sanlam.com",
+        "re_abbrv": "SIC",
+        "re_company_website": "www.gh.sanlam.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-06-30 15:41:51",
+        "updated_at": "2022-08-08 10:03:40"
+    },
+    {
+        "reinsurer_id": "23",
+        "re_company_name": "REINSURER TEST",
+        "re_company_email": "test@reinsurance.com",
+        "re_abbrv": "RT",
+        "re_company_website": "www.reinsurancetest.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-07-21 17:55:16",
+        "updated_at": "2020-07-21 17:55:16"
+    },
+    {
+        "reinsurer_id": "24",
+        "re_company_name": "Stiff Reinsurance",
+        "re_company_email": "ebaidoo79@gmail.com",
+        "re_abbrv": "SR",
+        "re_company_website": "www.stiff.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-07-21 18:29:09",
+        "updated_at": "2020-07-21 18:29:09"
+    },
+    {
+        "reinsurer_id": "25",
+        "re_company_name": "ZEP-RE (PTA Reinsurance Company)",
+        "re_company_email": "bakinsika@zep-re.com",
+        "re_abbrv": "Z(RC",
+        "re_company_website": "www.zep-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-07 11:17:32",
+        "updated_at": "2020-08-07 11:17:32"
+    },
+    {
+        "reinsurer_id": "26",
+        "re_company_name": "Coronation Insurance (Ghana) Limited",
+        "re_company_email": "infoghana@coronation.com",
+        "re_abbrv": "CI(L",
+        "re_company_website": "www.coronation.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-11 09:50:01",
+        "updated_at": "2022-01-26 13:54:10"
+    },
+    {
+        "reinsurer_id": "27",
+        "re_company_name": "Wapic Insurance (Ghana) Limited",
+        "re_company_email": "infoghana@wapic.com",
+        "re_abbrv": "WI(L",
+        "re_company_website": "www.wapic.com",
+        "delete_status": "DELETED",
+        "created_at": "2020-08-11 09:51:23",
+        "updated_at": "2020-08-11 09:52:20"
+    },
+    {
+        "reinsurer_id": "28",
+        "re_company_name": "Nsia Insurance Company",
+        "re_company_email": "felix.kina@nsiainsurance.com.gh",
+        "re_abbrv": "NIC",
+        "re_company_website": "www.nsiainsurance.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-27 12:07:33",
+        "updated_at": "2020-08-27 12:07:33"
+    },
+    {
+        "reinsurer_id": "29",
+        "re_company_name": "Phoenix Insurance Company Limited",
+        "re_company_email": "info@phoenixinsurancegh.com",
+        "re_abbrv": "PICL",
+        "re_company_website": "www.phoenixinsurancegh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-27 12:23:30",
+        "updated_at": "2020-08-27 12:23:30"
+    },
+    {
+        "reinsurer_id": "30",
+        "re_company_name": "Vanguard Assurance Company",
+        "re_company_email": "kasuo@vanguardassurance.com",
+        "re_abbrv": "VAC",
+        "re_company_website": "vanguard.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-08-28 09:22:56",
+        "updated_at": "2020-08-28 09:22:56"
+    },
+    {
+        "reinsurer_id": "31",
+        "re_company_name": "Bedrock Insurance Company",
+        "re_company_email": "info@bedrock.com",
+        "re_abbrv": "BIC",
+        "re_company_website": "www.bedrockinsurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-10-09 13:19:54",
+        "updated_at": "2020-10-09 13:19:54"
+    },
+    {
+        "reinsurer_id": "32",
+        "re_company_name": "Enterprise Insurance Company",
+        "re_company_email": "Esi.Agbolosu@enterprisegroup.com.gh",
+        "re_abbrv": "EIC",
+        "re_company_website": "www.enterprisegroup.com.gh",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-11-11 09:33:37",
+        "updated_at": "2020-11-11 09:33:37"
+    },
+    {
+        "reinsurer_id": "33",
+        "re_company_name": "Serene Insurance Company Ltd",
+        "re_company_email": "kingsley.akuoko-boakye@sereneinsurance.com",
+        "re_abbrv": "SICL",
+        "re_company_website": "n/a",
+        "delete_status": "NOT DELETED",
+        "created_at": "2020-12-01 10:12:03",
+        "updated_at": "2020-12-01 10:12:03"
+    },
+    {
+        "reinsurer_id": "34",
+        "re_company_name": "Africa Reinsurance Corporation",
+        "re_company_email": "kehinde.omotayo@africa-re.com",
+        "re_abbrv": "ARC",
+        "re_company_website": "n/a",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-01-08 13:41:08",
+        "updated_at": "2021-10-18 16:16:12"
+    },
+    {
+        "reinsurer_id": "35",
+        "re_company_name": "Kenya Reinsurance Company",
+        "re_company_email": "internationalfacultative@kenyare.co.ke",
+        "re_abbrv": "KRC",
+        "re_company_website": "www.Kenya RE.co.ke",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-01-22 13:48:21",
+        "updated_at": "2021-01-22 13:48:21"
+    },
+    {
+        "reinsurer_id": "36",
+        "re_company_name": "Continental Reinsurance PLC",
+        "re_company_email": "info@continental-re.com",
+        "re_abbrv": "CRP",
+        "re_company_website": "www.continental-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-12 11:35:32",
+        "updated_at": "2021-03-12 11:35:32"
+    },
+    {
+        "reinsurer_id": "37",
+        "re_company_name": "CICA REINSURANCE COMPANY",
+        "re_company_email": "cica-re@cica-re.com",
+        "re_abbrv": "CRC",
+        "re_company_website": "www.cica-re.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-17 10:42:15",
+        "updated_at": "2021-03-17 10:42:15"
+    },
+    {
+        "reinsurer_id": "38",
+        "re_company_name": "GIC Re South Africa Ltd",
+        "re_company_email": "reinsurance@gicresa.co.za",
+        "re_abbrv": "GRSAL",
+        "re_company_website": "www.gicresa.co.za",
+        "delete_status": "DELETED",
+        "created_at": "2021-03-17 10:46:22",
+        "updated_at": "2021-03-17 10:46:22"
+    },
+    {
+        "reinsurer_id": "39",
+        "re_company_name": "GIC Re South Africa Ltd",
+        "re_company_email": "reinsurance@gicresa.co.za",
+        "re_abbrv": "GRSAL",
+        "re_company_website": "www.gicresa.co.za",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-17 10:46:56",
+        "updated_at": "2021-03-17 10:46:56"
+    },
+    {
+        "reinsurer_id": "40",
+        "re_company_name": "Sava Re",
+        "re_company_email": "info@sava-re.si",
+        "re_abbrv": "SR",
+        "re_company_website": "www.sava-re.si",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-03-17 10:50:23",
+        "updated_at": "2021-03-17 10:50:23"
+    },
+    {
+        "reinsurer_id": "41",
+        "re_company_name": "FBS Reinsurance Company Ltd",
+        "re_company_email": "oluwatayo.morebise@fbsre.ng",
+        "re_abbrv": "FRCL",
+        "re_company_website": "www.fbsre.ng",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-04-01 09:32:21",
+        "updated_at": "2021-04-01 09:32:21"
+    },
+    {
+        "reinsurer_id": "42",
+        "re_company_name": "Kuwait Reinsurance Company",
+        "re_company_email": "info@kuwaitre.com",
+        "re_abbrv": "KRC",
+        "re_company_website": "www.kuwaitre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-04-06 10:26:11",
+        "updated_at": "2021-04-06 10:26:11"
+    },
+    {
+        "reinsurer_id": "43",
+        "re_company_name": "VSK Insurance JSC",
+        "re_company_email": "info@vsk.ru",
+        "re_abbrv": "VIJ",
+        "re_company_website": "www.vsk.ru",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-04-06 10:51:41",
+        "updated_at": "2021-04-06 10:51:41"
+    },
+    {
+        "reinsurer_id": "44",
+        "re_company_name": "Senegal Reinsurance Company",
+        "re_company_email": "info@senre.com",
+        "re_abbrv": "SRC",
+        "re_company_website": "www.senre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-04-06 11:50:56",
+        "updated_at": "2021-04-06 11:53:56"
+    },
+    {
+        "reinsurer_id": "45",
+        "re_company_name": "Oman Reinsurance Company",
+        "re_company_email": "info@omanre.com",
+        "re_abbrv": "ORC",
+        "re_company_website": "www.omanre.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-05-04 14:47:29",
+        "updated_at": "2021-05-04 14:47:29"
+    },
+    {
+        "reinsurer_id": "46",
+        "re_company_name": "Soglasie",
+        "re_company_email": "soglasie@gmail.com",
+        "re_abbrv": "S",
+        "re_company_website": "na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-05-04 14:49:49",
+        "updated_at": "2021-05-04 14:49:49"
+    },
+    {
+        "reinsurer_id": "47",
+        "re_company_name": "Ghana Union Assurance Company",
+        "re_company_email": "nmotor@ghanaunionassurance.com",
+        "re_abbrv": "GUAC",
+        "re_company_website": "www.ghanaunionassurance.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-06-07 16:11:59",
+        "updated_at": "2021-06-07 16:11:59"
+    },
+    {
+        "reinsurer_id": "48",
+        "re_company_name": "SIC Insurance Company",
+        "re_company_email": "reinsure@sic-gh.com",
+        "re_abbrv": "SIC",
+        "re_company_website": "www.sic.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-09-28 16:05:15",
+        "updated_at": "2022-03-15 14:50:00"
+    },
+    {
+        "reinsurer_id": "49",
+        "re_company_name": "Swan Reinsurance PCC",
+        "re_company_email": "salisam53@gmail.com",
+        "re_abbrv": "SRP",
+        "re_company_website": "Na",
+        "delete_status": "NOT DELETED",
+        "created_at": "2021-10-11 10:38:18",
+        "updated_at": "2021-10-11 10:38:18"
+    },
+    {
+        "reinsurer_id": "50",
+        "re_company_name": "Ghana Reinsurance Company",
+        "re_company_email": "info@ghanare.com",
+        "re_abbrv": "GRC",
+        "re_company_website": "www.ghanare.com",
+        "delete_status": "DELETED",
+        "created_at": "2021-11-03 14:04:33",
+        "updated_at": "2021-11-03 14:24:34"
+    },
+    {
+        "reinsurer_id": "51",
+        "re_company_name": "Quality Insurance Company Limited",
+        "re_company_email": "m.oseibonsu@qicghana.com",
+        "re_abbrv": "QICL",
+        "re_company_website": "m.oseibonsu@qicghana.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-19 14:55:28",
+        "updated_at": "2022-01-19 14:59:10"
+    },
+    {
+        "reinsurer_id": "52",
+        "re_company_name": "Ethiopian Reinsurance Company",
+        "re_company_email": "underwriting@ethiopianre.com",
+        "re_abbrv": "ERC",
+        "re_company_website": "n/a",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-01-25 08:50:31",
+        "updated_at": "2022-01-25 08:50:31"
+    },
+    {
+        "reinsurer_id": "53",
+        "re_company_name": "Provident Insurance",
+        "re_company_email": "kate.carr@providentgh.com",
+        "re_abbrv": "PI",
+        "re_company_website": "www.providentgh.com",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-02-04 10:04:15",
+        "updated_at": "2022-02-04 10:04:15"
+    },
+    {
+        "reinsurer_id": "54",
+        "re_company_name": "Africa Specialty Risks",
+        "re_company_email": "Genevieve.Ahinful@asr-re.com",
+        "re_abbrv": "ASR",
+        "re_company_website": "NA",
+        "delete_status": "NOT DELETED",
+        "created_at": "2022-07-22 14:42:07",
+        "updated_at": "2022-07-22 14:42:07"
+    }
+]
