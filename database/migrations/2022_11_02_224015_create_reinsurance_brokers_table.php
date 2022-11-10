@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateReBrokersTable extends Migration
+return new class extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,10 @@ class CreateReBrokersTable extends Migration
      */
     public function up()
     {
-        Schema::create('re_borkers', function (Blueprint $table) {
+        Schema::create('reinsurance_brokers', function (Blueprint $table) {
             $table->id('re_broker_id');
             $table->string('re_broker_email', 100);
             $table->string('re_broker_abbrv', 200)->nullable();
-            $table->string('re_broker_email', 100);
             $table->string('re_broker_website', 100)->nullable();
             $table->enum('delete_status', ['DELETED', 'NOT DELETED'])->default('NOT DELETED');
             $table->timestamps();
@@ -31,6 +30,6 @@ class CreateReBrokersTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('re_borkers');
+        Schema::dropIfExists('reinsurance_brokers');
     }
-}
+};

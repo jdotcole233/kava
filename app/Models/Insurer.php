@@ -5,6 +5,7 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasOne;
+use Illuminate\Database\Eloquent\Relations\MorphOne;
 
 class Insurer extends Model
 {
@@ -40,7 +41,7 @@ class Insurer extends Model
      {
          return $this->hasMany(Remainder::class, 'insurersinsurer_id', 'insurer_id');
      }
-     
+
     public function treaty_programs(): HasMany
     {
         return $this->hasMany(TreatyProgram::class, 'treaty_programstreaty_program_id', 'treaty_program_id')
@@ -52,5 +53,10 @@ class Insurer extends Model
         return $this->hasMany(Treaty::class, 'insurersinsurer_id', 'insurer_id')
         ->where('delete_status', '=', 'NOT DELETED')
         ->orderBy('created_at', 'asc');
+    }
+
+    public function user () : MorphOne
+    {
+        return $this->morphOne('App\User', 'clientable');
     }
 }
