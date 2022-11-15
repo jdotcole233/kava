@@ -7,7 +7,18 @@
         "insurer_company_website": "hollard.com.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-12 10:21:27",
-        "updated_at": "2021-02-12 10:21:27"
+        "updated_at": "2021-02-12 10:21:27",
+        "address": {
+            "insurer_address_id": "2",
+            "insurersinsurer_id": "2",
+            "suburb": "Airport Residential Area, Accra",
+            "street": "11 Patrice Lumumba St,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-12 10:21:27",
+            "updated_at": "2021-02-12 10:21:27"
+        }
     },
     {
         "insurer_id": "3",
@@ -17,7 +28,18 @@
         "insurer_company_website": "https://vanguardassurance.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 11:30:30",
-        "updated_at": "2021-02-15 11:30:30"
+        "updated_at": "2021-02-15 11:30:30",
+        "address": {
+            "insurer_address_id": "3",
+            "insurersinsurer_id": "3",
+            "suburb": "Ridge-Accra",
+            "street": "No.25 Independence Avenue,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 11:30:30",
+            "updated_at": "2021-02-15 11:30:30"
+        }
     },
     {
         "insurer_id": "4",
@@ -27,7 +49,18 @@
         "insurer_company_website": "https://phoenixinsurancegh.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 12:03:13",
-        "updated_at": "2021-02-15 12:03:13"
+        "updated_at": "2021-02-15 12:03:13",
+        "address":  {
+            "insurer_address_id": "4",
+            "insurersinsurer_id": "4",
+            "suburb": "Ringway Estates - Accra",
+            "street": "House No. 244/3, 6th",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 12:03:13",
+            "updated_at": "2021-02-15 12:03:13"
+        }
     },
     {
         "insurer_id": "5",
@@ -37,7 +70,18 @@
         "insurer_company_website": "https://www.enterprisegroup.net.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 21:32:53",
-        "updated_at": "2021-04-23 18:16:55"
+        "updated_at": "2021-04-23 18:16:55",
+        "address": {
+            "insurer_address_id": "5",
+            "insurersinsurer_id": "5",
+            "suburb": "Ridge, Accra",
+            "street": "Advantage Place,  7th Avenue Mayor Road,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 21:32:53",
+            "updated_at": "2021-04-23 18:16:55"
+        }
     },
     {
         "insurer_id": "6",
@@ -47,7 +91,18 @@
         "insurer_company_website": "ghanaunionassurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 21:39:30",
-        "updated_at": "2021-02-15 21:39:30"
+        "updated_at": "2021-02-15 21:39:30",
+        "address": {
+            "insurer_address_id": "6",
+            "insurersinsurer_id": "6",
+            "suburb": "Osu, Accra",
+            "street": "F828/1 Ring Road East,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 21:39:30",
+            "updated_at": "2021-02-15 21:39:30"
+        }
     },
     {
         "insurer_id": "7",
@@ -57,7 +112,18 @@
         "insurer_company_website": "https://loyaltyinsurancegh.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 21:44:19",
-        "updated_at": "2021-02-15 21:44:19"
+        "updated_at": "2021-02-15 21:44:19",
+        "address":  {
+            "insurer_address_id": "7",
+            "insurersinsurer_id": "7",
+            "suburb": "Achimota, Accra,",
+            "street": "No. 3, Justice A. Brobbey Avenue Mile 7,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 21:44:19",
+            "updated_at": "2021-02-15 21:44:19"
+        }
     },
     {
         "insurer_id": "8",
@@ -67,7 +133,18 @@
         "insurer_company_website": "https://sereneinsurance.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 21:50:20",
-        "updated_at": "2021-02-15 21:50:20"
+        "updated_at": "2021-02-15 21:50:20",
+        "address": {
+            "insurer_address_id": "8",
+            "insurersinsurer_id": "8",
+            "suburb": "Ridge, Accra",
+            "street": "4th Floor SU Tower",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 21:50:20",
+            "updated_at": "2021-02-15 21:50:20"
+        }
     },
     {
         "insurer_id": "9",
@@ -77,7 +154,18 @@
         "insurer_company_website": "http://bestassurance.com.gh/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-15 21:57:47",
-        "updated_at": "2021-02-15 21:57:47"
+        "updated_at": "2021-02-15 21:57:47",
+        "address": {
+            "insurer_address_id": "9",
+            "insurersinsurer_id": "9",
+            "suburb": "East Legon, Accra",
+            "street": "84 Boundary Road,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-15 21:57:47",
+            "updated_at": "2021-02-15 21:57:47"
+        }
     },
     {
         "insurer_id": "10",
@@ -87,7 +175,18 @@
         "insurer_company_website": "https://www.coronationinsurance.com.ng/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-18 12:25:03",
-        "updated_at": "2021-02-18 12:25:03"
+        "updated_at": "2021-02-18 12:25:03",
+        "address": {
+            "insurer_address_id": "10",
+            "insurersinsurer_id": "10",
+            "suburb": "Airport Residential, Accra",
+            "street": "35, Aviation Road",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-18 12:25:03",
+            "updated_at": "2021-02-18 12:25:03"
+        }
     },
     {
         "insurer_id": "14",
@@ -97,7 +196,18 @@
         "insurer_company_website": "starassurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-18 12:41:06",
-        "updated_at": "2021-02-18 12:41:06"
+        "updated_at": "2021-02-18 12:41:06",
+        "address": {
+            "insurer_address_id": "11",
+            "insurersinsurer_id": "14",
+            "suburb": "Accra",
+            "street": "1st Floor Stanbic Heights, Airport City",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-02-18 12:41:06",
+            "updated_at": "2021-02-18 12:41:06"
+        }
     },
     {
         "insurer_id": "15",
@@ -107,7 +217,18 @@
         "insurer_company_website": "https://www.providentgh.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-03-02 17:21:10",
-        "updated_at": "2021-03-02 17:21:10"
+        "updated_at": "2021-03-02 17:21:10",
+        "address": {
+            "insurer_address_id": "12",
+            "insurersinsurer_id": "15",
+            "suburb": "Ring Road Central, Accra",
+            "street": "Provident Towers",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-03-02 17:21:10",
+            "updated_at": "2021-03-02 17:21:10"
+        }
     },
     {
         "insurer_id": "16",
@@ -117,7 +238,18 @@
         "insurer_company_website": "https://glicogen.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-03-03 13:23:40",
-        "updated_at": "2021-03-03 13:23:40"
+        "updated_at": "2021-03-03 13:23:40",
+        "address": {
+            "insurer_address_id": "13",
+            "insurersinsurer_id": "16",
+            "suburb": "Adabraka, Accra",
+            "street": "House # 47 Kwame Nkrumah Avenue",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-03-03 13:23:40",
+            "updated_at": "2021-03-03 13:23:40"
+        }
     },
     {
         "insurer_id": "17",
@@ -127,7 +259,18 @@
         "insurer_company_website": "+233545195671",
         "delete_status": "NOT DELETED",
         "created_at": "2021-04-13 20:38:06",
-        "updated_at": "2022-08-24 09:08:41"
+        "updated_at": "2022-08-24 09:08:41",
+        "address":  {
+            "insurer_address_id": "14",
+            "insurersinsurer_id": "17",
+            "suburb": "Ridge, Accra",
+            "street": "Hse. No. 18 Dr. Isert Street,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-04-13 20:38:06",
+            "updated_at": "2022-08-24 09:08:41"
+        }
     },
     {
         "insurer_id": "18",
@@ -137,7 +280,18 @@
         "insurer_company_website": "https://www.nsiainsurance.com.gh/about-nsia.html",
         "delete_status": "NOT DELETED",
         "created_at": "2021-04-15 16:16:29",
-        "updated_at": "2021-04-15 16:16:29"
+        "updated_at": "2021-04-15 16:16:29",
+        "address": {
+            "insurer_address_id": "15",
+            "insurersinsurer_id": "18",
+            "suburb": "Tesano, Accra",
+            "street": "Justice D. E. Annan, Street, .",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-04-15 16:16:29",
+            "updated_at": "2021-04-15 16:16:29"
+        }
     },
     {
         "insurer_id": "19",
@@ -147,7 +301,18 @@
         "insurer_company_website": "http://uicghana.org/Home",
         "delete_status": "NOT DELETED",
         "created_at": "2021-04-29 11:51:10",
-        "updated_at": "2021-04-29 11:51:10"
+        "updated_at": "2021-04-29 11:51:10",
+        "address": {
+            "insurer_address_id": "16",
+            "insurersinsurer_id": "19",
+            "suburb": "Ring Road Central, Accra",
+            "street": "No 86 North Ridge",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-04-29 11:51:10",
+            "updated_at": "2021-04-29 11:51:10"
+        }
     },
     {
         "insurer_id": "20",
@@ -157,7 +322,18 @@
         "insurer_company_website": "http://www.sic-gh.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-05-12 16:51:22",
-        "updated_at": "2021-05-12 16:51:22"
+        "updated_at": "2021-05-12 16:51:22",
+        "address": {
+            "insurer_address_id": "17",
+            "insurersinsurer_id": "20",
+            "suburb": "Osu, Accra",
+            "street": "28/29 Ring Road East,",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-05-12 16:51:22",
+            "updated_at": "2021-05-12 16:51:22"
+        }
     },
     {
         "insurer_id": "21",
@@ -167,7 +343,18 @@
         "insurer_company_website": "millenniuminsurancegh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-06-22 20:57:30",
-        "updated_at": "2021-06-22 20:57:30"
+        "updated_at": "2021-06-22 20:57:30",
+        "address":  {
+            "insurer_address_id": "18",
+            "insurersinsurer_id": "21",
+            "suburb": "Accra",
+            "street": "8th Avenue Extension, Dr Isert Street, North Ridge.",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-06-22 20:57:30",
+            "updated_at": "2021-06-22 20:57:30"
+        }
     },
     {
         "insurer_id": "22",
@@ -177,7 +364,18 @@
         "insurer_company_website": "www.donewellinsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-08-17 17:01:04",
-        "updated_at": "2021-08-17 17:01:04"
+        "updated_at": "2021-08-17 17:01:04",
+        "address": {
+            "insurer_address_id": "19",
+            "insurersinsurer_id": "22",
+            "suburb": "Osu, , Accra, Ghana",
+            "street": "Sir Charles Quist St",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-08-17 17:01:04",
+            "updated_at": "2021-08-17 17:01:04"
+        }
     },
     {
         "insurer_id": "23",
@@ -187,7 +385,18 @@
         "insurer_company_website": "www.sunuassurancesghana.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-02-18 16:45:59",
-        "updated_at": "2022-02-18 16:45:59"
+        "updated_at": "2022-02-18 16:45:59",
+        "address": {
+            "insurer_address_id": "20",
+            "insurersinsurer_id": "23",
+            "suburb": "Dzorwulu, Accra",
+            "street": "No. C70/14 George Bush Highway (N1)",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-02-18 16:45:59",
+            "updated_at": "2022-02-18 16:45:59"
+        }
     },
     {
         "insurer_id": "26",
@@ -197,7 +406,18 @@
         "insurer_company_website": "https://priorityinsuranceghana.net/",
         "delete_status": "NOT DELETED",
         "created_at": "2022-08-15 15:36:08",
-        "updated_at": "2022-08-15 15:36:08"
+        "updated_at": "2022-08-15 15:36:08",
+        "address": {
+            "insurer_address_id": "23",
+            "insurersinsurer_id": "26",
+            "suburb": "Avenor Junction, Accra",
+            "street": "Priority House, No. C502/1.",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-08-15 15:36:08",
+            "updated_at": "2022-08-15 15:36:08"
+        }
     },
     {
         "insurer_id": "27",
@@ -207,6 +427,17 @@
         "insurer_company_website": "https://imperialgeneral.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2022-10-17 11:38:53",
-        "updated_at": "2022-10-17 11:38:53"
+        "updated_at": "2022-10-17 11:38:53",
+        "address":  {
+            "insurer_address_id": "24",
+            "insurersinsurer_id": "27",
+            "suburb": "Ring Road Central Accra",
+            "street": "Wofaz Plaza, No. 42",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-10-17 11:38:53",
+            "updated_at": "2022-10-17 11:38:53"
+        }
     }
 ]
