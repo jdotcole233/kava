@@ -1,44 +1,5 @@
 [
     {
-        "reinsurer_representative_id": "1",
-        "reinsurersreinsurer_id": "1",
-        "rep_first_name": "Andie",
-        "rep_last_name": "Wright",
-        "rep_primary_phonenumber": "233503848404",
-        "rep_secondary_phonenumber": null,
-        "rep_email": "jdotcole233@gmail.com",
-        "position": "Underwriter",
-        "delete_status": "DELETED",
-        "created_at": "2021-02-10 00:14:54",
-        "updated_at": "2021-02-15 17:58:45"
-    },
-    {
-        "reinsurer_representative_id": "2",
-        "reinsurersreinsurer_id": "1",
-        "rep_first_name": "Kwame",
-        "rep_last_name": "Ato",
-        "rep_primary_phonenumber": "233506339157",
-        "rep_secondary_phonenumber": null,
-        "rep_email": "esi@staff.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2021-02-10 11:42:52",
-        "updated_at": "2021-02-15 17:58:49"
-    },
-    {
-        "reinsurer_representative_id": "3",
-        "reinsurersreinsurer_id": "1",
-        "rep_first_name": "Frank",
-        "rep_last_name": "Anim",
-        "rep_primary_phonenumber": "23325254524",
-        "rep_secondary_phonenumber": null,
-        "rep_email": "esi@staff.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2021-02-10 11:43:15",
-        "updated_at": "2021-02-15 17:58:54"
-    },
-    {
         "reinsurer_representative_id": "4",
         "reinsurersreinsurer_id": "1",
         "rep_first_name": "Edem",
@@ -271,19 +232,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-02-25 10:45:02",
         "updated_at": "2021-02-25 10:45:02"
-    },
-    {
-        "reinsurer_representative_id": "22",
-        "reinsurersreinsurer_id": "2",
-        "rep_first_name": "Tracy",
-        "rep_last_name": "Osei-Aidoo",
-        "rep_primary_phonenumber": "+233243822537",
-        "rep_secondary_phonenumber": null,
-        "rep_email": "tsoaidoo@waicare.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2021-02-25 10:45:52",
-        "updated_at": "2021-04-19 14:08:00"
     },
     {
         "reinsurer_representative_id": "23",

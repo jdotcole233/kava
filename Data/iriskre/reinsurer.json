@@ -340,16 +340,6 @@
         "updated_at": "2022-04-27 08:46:39"
     },
     {
-        "reinsurer_id": "44",
-        "re_company_name": "W-SAFE REINSURANCE LIMITED",
-        "re_company_email": "kwaku@w-safe.ltd",
-        "re_abbrv": "WRL",
-        "re_company_website": "wsafere.ltd",
-        "delete_status": "DELETED",
-        "created_at": "2022-07-19 19:42:21",
-        "updated_at": "2022-07-20 10:07:00"
-    },
-    {
         "reinsurer_id": "45",
         "re_company_name": "W-SAFE REINSURANCE LIMITED",
         "re_company_email": "kwaku@w-safe.ltd",
@@ -358,16 +348,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2022-07-20 09:50:25",
         "updated_at": "2022-07-20 09:50:25"
-    },
-    {
-        "reinsurer_id": "46",
-        "re_company_name": "W SAFE REINSURNACE LIMITED",
-        "re_company_email": "kwaku@w-safe.ltd",
-        "re_abbrv": "WSRL",
-        "re_company_website": "w-safere.ltd",
-        "delete_status": "DELETED",
-        "created_at": "2022-07-20 09:59:34",
-        "updated_at": "2022-07-20 10:06:56"
     },
     {
         "reinsurer_id": "47",
