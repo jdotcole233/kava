@@ -18,7 +18,10 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-12 10:21:27",
             "updated_at": "2021-02-12 10:21:27"
-        }
+        },
+        "associates": [
+
+        ]
     },
     {
         "insurer_id": "3",
@@ -39,7 +42,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 11:30:30",
             "updated_at": "2021-02-15 11:30:30"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "4",
@@ -60,7 +64,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 12:03:13",
             "updated_at": "2021-02-15 12:03:13"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "5",
@@ -81,7 +86,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 21:32:53",
             "updated_at": "2021-04-23 18:16:55"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "6",
@@ -102,7 +108,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 21:39:30",
             "updated_at": "2021-02-15 21:39:30"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "7",
@@ -123,7 +130,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 21:44:19",
             "updated_at": "2021-02-15 21:44:19"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "8",
@@ -144,7 +152,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 21:50:20",
             "updated_at": "2021-02-15 21:50:20"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "9",
@@ -165,7 +174,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-15 21:57:47",
             "updated_at": "2021-02-15 21:57:47"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "10",
@@ -186,7 +196,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-18 12:25:03",
             "updated_at": "2021-02-18 12:25:03"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "13",
+                "insurersinsurer_id": "10",
+                "assoc_first_name": "Nelson",
+                "assoc_last_name": "Opare",
+                "assoc_primary_phonenumber": "0242330989",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "opare.nelson@coronationinsurance.com.ng",
+                "position": "Officer",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-02-18 12:26:46",
+                "updated_at": "2021-02-18 12:26:46"
+            }
+        ]
     },
     {
         "insurer_id": "14",
@@ -207,7 +232,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-02-18 12:41:06",
             "updated_at": "2021-02-18 12:41:06"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "14",
+                "insurersinsurer_id": "14",
+                "assoc_first_name": "Esther",
+                "assoc_last_name": "Opoku",
+                "assoc_primary_phonenumber": "+233243446430",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "eopoku@starassurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-02-18 12:44:01",
+                "updated_at": "2021-02-18 12:44:01"
+            }
+        ]
     },
     {
         "insurer_id": "15",
@@ -228,7 +268,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-02 17:21:10",
             "updated_at": "2021-03-02 17:21:10"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "16",
@@ -249,7 +290,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-03 13:23:40",
             "updated_at": "2021-03-03 13:23:40"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "17",
@@ -270,7 +312,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-13 20:38:06",
             "updated_at": "2022-08-24 09:08:41"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "15",
+                "insurersinsurer_id": "17",
+                "assoc_first_name": "Sandra",
+                "assoc_last_name": "Fiagbedzi",
+                "assoc_primary_phonenumber": "+233545195671",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "sandra.fiagbedzi@sahaminsurance.com",
+                "position": "Officer",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-13 20:40:03",
+                "updated_at": "2021-04-13 20:40:03"
+            }
+        ]
     },
     {
         "insurer_id": "18",
@@ -291,7 +348,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-15 16:16:29",
             "updated_at": "2021-04-15 16:16:29"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "16",
+                "insurersinsurer_id": "18",
+                "assoc_first_name": "Josephine",
+                "assoc_last_name": "Quaye",
+                "assoc_primary_phonenumber": "+233244965753",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "josephine.quaye@nsiainsurance.com.gh",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-15 16:16:46",
+                "updated_at": "2021-04-15 16:16:46"
+            }
+        ]
     },
     {
         "insurer_id": "19",
@@ -312,7 +384,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-29 11:51:10",
             "updated_at": "2021-04-29 11:51:10"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "17",
+                "insurersinsurer_id": "19",
+                "assoc_first_name": "Francis",
+                "assoc_last_name": "Antwi",
+                "assoc_primary_phonenumber": "+233244921559",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "francis.antwi@uicghana.com",
+                "position": "Officer",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-29 11:51:31",
+                "updated_at": "2021-04-29 11:51:31"
+            }
+        ]
     },
     {
         "insurer_id": "20",
@@ -333,7 +420,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-05-12 16:51:22",
             "updated_at": "2021-05-12 16:51:22"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "21",
@@ -354,7 +442,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-06-22 20:57:30",
             "updated_at": "2021-06-22 20:57:30"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "22",
@@ -375,7 +464,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-08-17 17:01:04",
             "updated_at": "2021-08-17 17:01:04"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "18",
+                "insurersinsurer_id": "22",
+                "assoc_first_name": "Kwaku",
+                "assoc_last_name": "Addo",
+                "assoc_primary_phonenumber": "0501450996",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "kaddo@donewellinsurance.com",
+                "position": "Officer",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-08-17 17:02:15",
+                "updated_at": "2021-08-17 17:02:15"
+            }
+        ]
     },
     {
         "insurer_id": "23",
@@ -396,7 +500,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-02-18 16:45:59",
             "updated_at": "2022-02-18 16:45:59"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "19",
+                "insurersinsurer_id": "23",
+                "assoc_first_name": "Alex",
+                "assoc_last_name": "Akrofi Darko",
+                "assoc_primary_phonenumber": "+233548288746",
+                "assoc_secondary_phonenumber": null,
+                "assoc_email": "alex.darko@sunu-group.com",
+                "position": "Officer",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-18 16:47:43",
+                "updated_at": "2022-02-18 16:47:43"
+            }
+        ]
     },
     {
         "insurer_id": "26",
@@ -417,7 +536,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-08-15 15:36:08",
             "updated_at": "2022-08-15 15:36:08"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "27",
@@ -438,6 +558,7 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-10-17 11:38:53",
             "updated_at": "2022-10-17 11:38:53"
-        }
+        },
+        "associates":[]
     }
 ]
