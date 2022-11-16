@@ -7,7 +7,18 @@
         "re_company_website": "waicareinsurance@waicare.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-09-16 11:25:56",
-        "updated_at": "2020-10-23 11:25:34"
+        "updated_at": "2020-10-23 11:25:34",
+        "address": {
+            "reinsurer_address_id": "13",
+            "reinsurersreinsurer_id": "13",
+            "street": "2nd Floor, Maritime House, Wallace Johnson St.",
+            "suburb": "Freetown",
+            "region": "Freetown",
+            "country": "Sierra Leone",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-09-16 11:25:56",
+            "updated_at": "2020-10-23 11:25:34"
+        }
     },
     {
         "reinsurer_id": "19",
@@ -17,7 +28,18 @@
         "re_company_website": "www.continental-re.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-09-22 11:52:42",
-        "updated_at": "2020-09-22 11:52:42"
+        "updated_at": "2020-09-22 11:52:42",
+        "address": {
+            "reinsurer_address_id": "19",
+            "reinsurersreinsurer_id": "19",
+            "street": "Continental Re Center (3rd -5th floors), 17, Olosa Street",
+            "suburb": "Victoria Island",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-09-22 11:52:42",
+            "updated_at": "2020-09-22 11:52:42"
+        }
     },
     {
         "reinsurer_id": "23",
@@ -27,7 +49,18 @@
         "re_company_website": "www.ghanare.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 09:25:30",
-        "updated_at": "2022-10-18 18:08:20"
+        "updated_at": "2022-10-18 18:08:20",
+        "address": {
+            "reinsurer_address_id": "23",
+            "reinsurersreinsurer_id": "23",
+            "street": "Sudan Rd. Ridge",
+            "suburb": "Accra",
+            "region": "Greater Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 09:25:30",
+            "updated_at": "2022-10-18 18:08:20"
+        }
     },
     {
         "reinsurer_id": "34",
@@ -37,7 +70,18 @@
         "re_company_website": "www.africa-re.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 10:40:49",
-        "updated_at": "2021-11-26 11:35:14"
+        "updated_at": "2021-11-26 11:35:14",
+        "address": {
+            "reinsurer_address_id": "28",
+            "reinsurersreinsurer_id": "34",
+            "street": "Plot 1679 Karimu Kotun Street",
+            "suburb": "Victoria Island",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 10:40:49",
+            "updated_at": "2021-11-26 11:35:14"
+        }
     },
     {
         "reinsurer_id": "35",
@@ -47,7 +91,18 @@
         "re_company_website": "mainstream-gh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 10:45:09",
-        "updated_at": "2021-11-24 12:09:59"
+        "updated_at": "2021-11-24 12:09:59",
+        "address": {
+            "reinsurer_address_id": "29",
+            "reinsurersreinsurer_id": "35",
+            "street": "Nii Nortey Omaboe St.",
+            "suburb": "Osu",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 10:45:09",
+            "updated_at": "2021-11-24 12:09:59"
+        }
     },
     {
         "reinsurer_id": "36",
@@ -57,7 +112,18 @@
         "re_company_website": "n/a",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 10:50:54",
-        "updated_at": "2020-10-12 12:04:31"
+        "updated_at": "2020-10-12 12:04:31",
+        "address": {
+            "reinsurer_address_id": "30",
+            "reinsurersreinsurer_id": "36",
+            "street": "No. 62 Kinshasha Avenue",
+            "suburb": "Accra North",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 10:50:54",
+            "updated_at": "2020-10-12 12:04:31"
+        }
     },
     {
         "reinsurer_id": "37",
@@ -67,7 +133,18 @@
         "re_company_website": "www.aveni-re.com/site/en/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 10:59:37",
-        "updated_at": "2020-10-12 12:05:29"
+        "updated_at": "2020-10-12 12:05:29",
+        "address": {
+            "reinsurer_address_id": "31",
+            "reinsurersreinsurer_id": "37",
+            "street": "Immeuble CRRAE-UMOA 01",
+            "suburb": "Abidjan",
+            "region": "Abidjan",
+            "country": "C\u00f4te d'Ivoire",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 10:59:37",
+            "updated_at": "2020-10-12 12:05:29"
+        }
     },
     {
         "reinsurer_id": "38",
@@ -77,7 +154,18 @@
         "re_company_website": "www.zep-re.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 11:13:21",
-        "updated_at": "2020-10-12 12:20:56"
+        "updated_at": "2020-10-12 12:20:56",
+        "address": {
+            "reinsurer_address_id": "32",
+            "reinsurersreinsurer_id": "38",
+            "street": "Longonot Road, Upper Hill",
+            "suburb": "Nairobi",
+            "region": "Nairobi",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 11:13:21",
+            "updated_at": "2020-10-12 12:20:56"
+        }
     },
     {
         "reinsurer_id": "39",
@@ -87,7 +175,18 @@
         "re_company_website": "www.cica-re.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 11:21:41",
-        "updated_at": "2020-10-12 12:08:01"
+        "updated_at": "2020-10-12 12:08:01",
+        "address": {
+            "reinsurer_address_id": "33",
+            "reinsurersreinsurer_id": "39",
+            "street": "Cit\u00e9 OUA Lom\u00e9 2",
+            "suburb": "Lome",
+            "region": "Lome",
+            "country": "Togo",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 11:21:41",
+            "updated_at": "2020-10-12 12:08:01"
+        }
     },
     {
         "reinsurer_id": "40",
@@ -97,7 +196,18 @@
         "re_company_website": "nigeriare.com.ng",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 11:32:07",
-        "updated_at": "2020-10-12 12:10:54"
+        "updated_at": "2020-10-12 12:10:54",
+        "address": {
+            "reinsurer_address_id": "34",
+            "reinsurersreinsurer_id": "40",
+            "street": "Reinsurance House 46 Marina.",
+            "suburb": "Lagos",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 11:32:07",
+            "updated_at": "2020-10-12 12:10:54"
+        }
     },
     {
         "reinsurer_id": "41",
@@ -107,7 +217,18 @@
         "re_company_website": "www.nca-re.net",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 11:42:00",
-        "updated_at": "2020-10-12 11:50:16"
+        "updated_at": "2020-10-12 11:50:16",
+        "address": {
+            "reinsurer_address_id": "35",
+            "reinsurersreinsurer_id": "41",
+            "street": "NCA Re building - Riviera route ABATTA",
+            "suburb": "Cocody",
+            "region": "Abidjan",
+            "country": "C\u00f4te d'Ivoire",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 11:42:00",
+            "updated_at": "2020-10-12 11:50:16"
+        }
     },
     {
         "reinsurer_id": "42",
@@ -117,7 +238,18 @@
         "re_company_website": "sen-re.com/en/home-senre-eng/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 11:59:17",
-        "updated_at": "2020-12-18 11:18:48"
+        "updated_at": "2020-12-18 11:18:48",
+        "address": {
+            "reinsurer_address_id": "36",
+            "reinsurersreinsurer_id": "42",
+            "street": "39, Avenue Georges Pompidou, BP",
+            "suburb": "386 Dakar",
+            "region": "Dakar",
+            "country": "Senegal",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 11:59:17",
+            "updated_at": "2020-12-18 11:18:48"
+        }
     },
     {
         "reinsurer_id": "43",
@@ -127,7 +259,18 @@
         "re_company_website": "www.emeritusre.com/regional-centres/malawi/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 12:50:12",
-        "updated_at": "2020-10-12 14:02:40"
+        "updated_at": "2020-10-12 14:02:40",
+        "address": {
+            "reinsurer_address_id": "37",
+            "reinsurersreinsurer_id": "43",
+            "street": "No. 5 Sharpe Road, Namiwawa",
+            "suburb": "Private Bag 157, Blantyre",
+            "region": "Malawi",
+            "country": "Malawi",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 12:50:12",
+            "updated_at": "2020-10-12 14:02:40"
+        }
     },
     {
         "reinsurer_id": "44",
@@ -137,7 +280,18 @@
         "re_company_website": "www.emeritusre.com/regional-centres/mozambique/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 12:58:28",
-        "updated_at": "2021-12-14 12:40:25"
+        "updated_at": "2021-12-14 12:40:25",
+        "address": {
+            "reinsurer_address_id": "38",
+            "reinsurersreinsurer_id": "44",
+            "street": "Av. Da Marginal No 141/8",
+            "suburb": "Bairro da Costa do Sol",
+            "region": "Maputo",
+            "country": "Mozambique",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 12:58:28",
+            "updated_at": "2021-12-14 12:40:25"
+        }
     },
     {
         "reinsurer_id": "45",
@@ -147,7 +301,18 @@
         "re_company_website": "www.emeritusre.com/regional-centres/botswana/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 13:10:28",
-        "updated_at": "2020-10-12 13:58:51"
+        "updated_at": "2020-10-12 13:58:51",
+        "address": {
+            "reinsurer_address_id": "39",
+            "reinsurersreinsurer_id": "45",
+            "street": "Plot 115, Unit 6, Kgale Mews",
+            "suburb": "Gaborone International Finance Park,",
+            "region": "Gaborone",
+            "country": "Botswana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 13:10:28",
+            "updated_at": "2020-10-12 13:58:51"
+        }
     },
     {
         "reinsurer_id": "49",
@@ -157,7 +322,18 @@
         "re_company_website": "www.tan-re.co.tz",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 13:31:00",
-        "updated_at": "2021-12-13 04:56:01"
+        "updated_at": "2021-12-13 04:56:01",
+        "address": {
+            "reinsurer_address_id": "40",
+            "reinsurersreinsurer_id": "49",
+            "street": "8th Floor TAN-RE House, Longido Street,Plot No. 406 near PCCB HQ",
+            "suburb": "Upanga",
+            "region": "Dar es salaam",
+            "country": "Tanzania, United Republic of",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 13:31:00",
+            "updated_at": "2021-12-13 04:56:01"
+        }
     },
     {
         "reinsurer_id": "50",
@@ -167,7 +343,18 @@
         "re_company_website": "scg-re.ga",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 13:46:22",
-        "updated_at": "2020-10-12 11:40:26"
+        "updated_at": "2020-10-12 11:40:26",
+        "address": {
+            "reinsurer_address_id": "41",
+            "reinsurersreinsurer_id": "50",
+            "street": "2455, Boulevard HASSAN II (opposite L\u00e9on Mba International Airport)",
+            "suburb": "BP: 6757",
+            "region": "Libreville",
+            "country": "Gabon",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 13:46:22",
+            "updated_at": "2020-10-12 11:40:26"
+        }
     },
     {
         "reinsurer_id": "51",
@@ -177,7 +364,18 @@
         "re_company_website": "www.starassurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 14:09:34",
-        "updated_at": "2020-10-12 11:36:20"
+        "updated_at": "2020-10-12 11:36:20",
+        "address": {
+            "reinsurer_address_id": "42",
+            "reinsurersreinsurer_id": "51",
+            "street": "1st Floor Stanbic Heights 215 South Liberation Link",
+            "suburb": "Airport City",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-08 14:09:34",
+            "updated_at": "2020-10-12 11:36:20"
+        }
     },
     {
         "reinsurer_id": "52",
@@ -187,7 +385,18 @@
         "re_company_website": "www.ethiopianre.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 18:24:11",
-        "updated_at": "2020-10-12 11:31:04"
+        "updated_at": "2020-10-12 11:31:04",
+        "address": {
+            "reinsurer_address_id": "43",
+            "reinsurersreinsurer_id": "52",
+            "street": "Bole Sub City Africa Avenue Bahru",
+            "suburb": "Abraham Commercial Center",
+            "region": "Addis Ababa",
+            "country": "Ethiopia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 18:24:11",
+            "updated_at": "2020-10-12 11:31:04"
+        }
     },
     {
         "reinsurer_id": "53",
@@ -197,7 +406,18 @@
         "re_company_website": "www.chubb.com/tn-en/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 18:30:03",
-        "updated_at": "2020-10-12 11:25:55"
+        "updated_at": "2020-10-12 11:25:55",
+        "address": {
+            "reinsurer_address_id": "44",
+            "reinsurersreinsurer_id": "53",
+            "street": "Immeuble \u00ab Blue Center \u00bb, RDC, Rue du Lac de Constance, Les Berges du Lac, 1053 Tunis",
+            "suburb": "ACE American Insurance Company, Tunisia Branch  A Chubb Entity",
+            "region": "Tunis",
+            "country": "Tunisia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 18:30:03",
+            "updated_at": "2020-10-12 11:25:55"
+        }
     },
     {
         "reinsurer_id": "54",
@@ -207,7 +427,18 @@
         "re_company_website": "unisoninsurance.net",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 18:36:06",
-        "updated_at": "2020-10-12 11:15:59"
+        "updated_at": "2020-10-12 11:15:59",
+        "address": {
+            "reinsurer_address_id": "45",
+            "reinsurersreinsurer_id": "54",
+            "street": "601-602, 6th Floor, \"AURUM\"\u200b, Near Vasna H.P. Petrol Pump, Makrand Desai Road",
+            "suburb": "Vadora",
+            "region": "Gujarat",
+            "country": "India",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 18:36:06",
+            "updated_at": "2020-10-12 11:15:59"
+        }
     },
     {
         "reinsurer_id": "55",
@@ -217,7 +448,18 @@
         "re_company_website": "www.sic-gh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 19:34:23",
-        "updated_at": "2020-10-11 21:57:18"
+        "updated_at": "2020-10-11 21:57:18",
+        "address": {
+            "reinsurer_address_id": "46",
+            "reinsurersreinsurer_id": "55",
+            "street": "28/29 Ring Road East",
+            "suburb": "Osu",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 19:34:23",
+            "updated_at": "2020-10-11 21:57:18"
+        }
     },
     {
         "reinsurer_id": "56",
@@ -227,7 +469,18 @@
         "re_company_website": "ghana@sunu-group.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 19:39:18",
-        "updated_at": "2020-10-12 11:15:01"
+        "updated_at": "2020-10-12 11:15:01",
+        "address": {
+            "reinsurer_address_id": "47",
+            "reinsurersreinsurer_id": "56",
+            "street": "No. C70/14 George Bush Highway (N1)",
+            "suburb": "Dzorwulu Accra Near Petroleum Commission",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 19:39:18",
+            "updated_at": "2020-10-12 11:15:01"
+        }
     },
     {
         "reinsurer_id": "57",
@@ -237,7 +490,18 @@
         "re_company_website": "phoenixinsurancegh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 19:42:32",
-        "updated_at": "2020-10-12 12:14:00"
+        "updated_at": "2020-10-12 12:14:00",
+        "address": {
+            "reinsurer_address_id": "48",
+            "reinsurersreinsurer_id": "57",
+            "street": "House No. 244/3, 6th Ringway Estates.",
+            "suburb": "Ringway Estates",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 19:42:32",
+            "updated_at": "2020-10-12 12:14:00"
+        }
     },
     {
         "reinsurer_id": "58",
@@ -247,7 +511,18 @@
         "re_company_website": "www.regencynem.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 19:46:20",
-        "updated_at": "2020-10-13 17:48:53"
+        "updated_at": "2020-10-13 17:48:53",
+        "address": {
+            "reinsurer_address_id": "49",
+            "reinsurersreinsurer_id": "58",
+            "street": "65 Patrice Lumumba Road",
+            "suburb": "Airport Residential Area.",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 19:46:20",
+            "updated_at": "2020-10-13 17:48:53"
+        }
     },
     {
         "reinsurer_id": "59",
@@ -257,7 +532,18 @@
         "re_company_website": "Hollard.com.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 19:49:47",
-        "updated_at": "2020-10-13 12:31:16"
+        "updated_at": "2020-10-13 12:31:16",
+        "address": {
+            "reinsurer_address_id": "50",
+            "reinsurersreinsurer_id": "59",
+            "street": "11 Patrice Lumumba Road",
+            "suburb": "Airport Residential Area Postal",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 19:49:47",
+            "updated_at": "2020-10-13 12:31:16"
+        }
     },
     {
         "reinsurer_id": "60",
@@ -267,7 +553,18 @@
         "re_company_website": "activa-ghana.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 20:16:09",
-        "updated_at": "2020-10-11 22:01:27"
+        "updated_at": "2020-10-11 22:01:27",
+        "address": {
+            "reinsurer_address_id": "51",
+            "reinsurersreinsurer_id": "60",
+            "street": "Grant House, No. 5 Farrar Avenue, Barnes Road",
+            "suburb": "Adjacent Holy Spirit Cathedral, Adabraka",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 20:16:09",
+            "updated_at": "2020-10-11 22:01:27"
+        }
     },
     {
         "reinsurer_id": "61",
@@ -277,7 +574,18 @@
         "re_company_website": "glicogen.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 20:20:05",
-        "updated_at": "2020-10-11 21:43:06"
+        "updated_at": "2020-10-11 21:43:06",
+        "address": {
+            "reinsurer_address_id": "52",
+            "reinsurersreinsurer_id": "61",
+            "street": "GLICO House # 47 Kwame Nkrumah Avenue P. O. Box GP 4251",
+            "suburb": "Adabraka",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 20:20:05",
+            "updated_at": "2020-10-11 21:43:06"
+        }
     },
     {
         "reinsurer_id": "62",
@@ -287,7 +595,18 @@
         "re_company_website": "www.enterprisegroup.net.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 20:23:14",
-        "updated_at": "2020-10-11 21:41:58"
+        "updated_at": "2020-10-11 21:41:58",
+        "address": {
+            "reinsurer_address_id": "53",
+            "reinsurersreinsurer_id": "62",
+            "street": "Advantage Place, 7th Avenue Mayor Road",
+            "suburb": "Osu",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 20:23:14",
+            "updated_at": "2020-10-11 21:41:58"
+        }
     },
     {
         "reinsurer_id": "63",
@@ -297,7 +616,18 @@
         "re_company_website": "ghanaunionassurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 20:41:50",
-        "updated_at": "2020-10-11 21:41:29"
+        "updated_at": "2020-10-11 21:41:29",
+        "address": {
+            "reinsurer_address_id": "54",
+            "reinsurersreinsurer_id": "63",
+            "street": "F828/1 Ring Road East, OSU P.O. Box 1322 Accra",
+            "suburb": "Osu",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 20:41:50",
+            "updated_at": "2020-10-11 21:41:29"
+        }
     },
     {
         "reinsurer_id": "64",
@@ -307,7 +637,18 @@
         "re_company_website": "www.wapic.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 21:11:28",
-        "updated_at": "2021-03-03 11:22:31"
+        "updated_at": "2021-03-03 11:22:31",
+        "address": {
+            "reinsurer_address_id": "55",
+            "reinsurersreinsurer_id": "64",
+            "street": "Aviation Road Airport Kofi Annan Street",
+            "suburb": "Near Nyaho Medical Center, H/No. 35 Aviation Road Airport Kofi Annan Street",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 21:11:28",
+            "updated_at": "2021-03-03 11:22:31"
+        }
     },
     {
         "reinsurer_id": "65",
@@ -317,7 +658,18 @@
         "re_company_website": "www.loyaltyinsurancegh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 21:16:53",
-        "updated_at": "2020-10-11 21:40:09"
+        "updated_at": "2020-10-11 21:40:09",
+        "address": {
+            "reinsurer_address_id": "56",
+            "reinsurersreinsurer_id": "65",
+            "street": "No.12 Cruickshank Street, Ambassadorial Enclave",
+            "suburb": "West Ridge",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 21:16:53",
+            "updated_at": "2020-10-11 21:40:09"
+        }
     },
     {
         "reinsurer_id": "66",
@@ -327,7 +679,18 @@
         "re_company_website": "www.priorityinsuranceghana.net",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-11 21:22:26",
-        "updated_at": "2020-10-11 21:39:32"
+        "updated_at": "2020-10-11 21:39:32",
+        "address": {
+            "reinsurer_address_id": "57",
+            "reinsurersreinsurer_id": "66",
+            "street": "Priority House, No. C502/1. Avenor Junction",
+            "suburb": "Cantoments",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-11 21:22:26",
+            "updated_at": "2020-10-11 21:39:32"
+        }
     },
     {
         "reinsurer_id": "67",
@@ -337,7 +700,18 @@
         "re_company_website": "www.reinsurance.ceo",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 14:07:57",
-        "updated_at": "2020-10-12 14:07:57"
+        "updated_at": "2020-10-12 14:07:57",
+        "address": {
+            "reinsurer_address_id": "58",
+            "reinsurersreinsurer_id": "67",
+            "street": "London EC3N 3DS, United Kingdom",
+            "suburb": "London",
+            "region": "london",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 14:07:57",
+            "updated_at": "2020-10-12 14:07:57"
+        }
     },
     {
         "reinsurer_id": "68",
@@ -347,7 +721,18 @@
         "re_company_website": "www.providentgh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 14:14:07",
-        "updated_at": "2020-10-12 14:14:07"
+        "updated_at": "2020-10-12 14:14:07",
+        "address": {
+            "reinsurer_address_id": "59",
+            "reinsurersreinsurer_id": "68",
+            "street": "Provident Towers - Ring Road Central",
+            "suburb": "Accra",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 14:14:07",
+            "updated_at": "2020-10-12 14:14:07"
+        }
     },
     {
         "reinsurer_id": "69",
@@ -357,7 +742,18 @@
         "re_company_website": "bestassurance.com.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 14:38:22",
-        "updated_at": "2020-10-12 14:38:22"
+        "updated_at": "2020-10-12 14:38:22",
+        "address": {
+            "reinsurer_address_id": "60",
+            "reinsurersreinsurer_id": "69",
+            "street": "84 Boundary Road",
+            "suburb": "East Legon, Opposite American House",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 14:38:22",
+            "updated_at": "2020-10-12 14:38:22"
+        }
     },
     {
         "reinsurer_id": "70",
@@ -367,7 +763,18 @@
         "re_company_website": "www.sahaminsurance.com.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 14:46:58",
-        "updated_at": "2020-12-02 17:08:36"
+        "updated_at": "2020-12-02 17:08:36",
+        "address": {
+            "reinsurer_address_id": "61",
+            "reinsurersreinsurer_id": "70",
+            "street": "Hse. No. 18 Dr. Isert Street",
+            "suburb": "Ridge",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 14:46:58",
+            "updated_at": "2020-12-02 17:08:36"
+        }
     },
     {
         "reinsurer_id": "71",
@@ -377,7 +784,18 @@
         "re_company_website": "www.primeinsuranceghana.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 14:50:07",
-        "updated_at": "2020-10-12 14:50:07"
+        "updated_at": "2020-10-12 14:50:07",
+        "address": {
+            "reinsurer_address_id": "62",
+            "reinsurersreinsurer_id": "71",
+            "street": "2nd Floor, Platinum Place, Ridge-Accra. P. O. Box GP 21222",
+            "suburb": "Ridge",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 14:50:07",
+            "updated_at": "2020-10-12 14:50:07"
+        }
     },
     {
         "reinsurer_id": "72",
@@ -387,7 +805,18 @@
         "re_company_website": "uicghana.org",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 14:55:46",
-        "updated_at": "2020-10-12 14:55:46"
+        "updated_at": "2020-10-12 14:55:46",
+        "address": {
+            "reinsurer_address_id": "63",
+            "reinsurersreinsurer_id": "72",
+            "street": "No 86 North Ridge Ring Road Central, Accra",
+            "suburb": "Accra",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 14:55:46",
+            "updated_at": "2020-10-12 14:55:46"
+        }
     },
     {
         "reinsurer_id": "73",
@@ -397,7 +826,18 @@
         "re_company_website": "www.donewellinsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:00:12",
-        "updated_at": "2020-10-12 15:00:12"
+        "updated_at": "2020-10-12 15:00:12",
+        "address": {
+            "reinsurer_address_id": "64",
+            "reinsurersreinsurer_id": "73",
+            "street": "F333/1 Carl Quist Street, Kuku Hill",
+            "suburb": "Osu",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:00:12",
+            "updated_at": "2020-10-12 15:00:12"
+        }
     },
     {
         "reinsurer_id": "74",
@@ -407,7 +847,18 @@
         "re_company_website": "millenniuminsurancegh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:03:12",
-        "updated_at": "2020-10-12 15:03:12"
+        "updated_at": "2020-10-12 15:03:12",
+        "address": {
+            "reinsurer_address_id": "65",
+            "reinsurersreinsurer_id": "74",
+            "street": "8th Avenue Extension, Dr Isert Street,",
+            "suburb": "North Ridge",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:03:12",
+            "updated_at": "2020-10-12 15:03:12"
+        }
     },
     {
         "reinsurer_id": "75",
@@ -417,7 +868,18 @@
         "re_company_website": "bedrockinsurancegh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:29:46",
-        "updated_at": "2020-10-12 15:29:46"
+        "updated_at": "2020-10-12 15:29:46",
+        "address": {
+            "reinsurer_address_id": "66",
+            "reinsurersreinsurer_id": "75",
+            "street": "Tafawa Balewa St.",
+            "suburb": "North Ridge",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:29:46",
+            "updated_at": "2020-10-12 15:29:46"
+        }
     },
     {
         "reinsurer_id": "76",
@@ -427,7 +889,18 @@
         "re_company_website": "gsicgambia.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:32:57",
-        "updated_at": "2020-10-12 15:32:57"
+        "updated_at": "2020-10-12 15:32:57",
+        "address": {
+            "reinsurer_address_id": "67",
+            "reinsurersreinsurer_id": "76",
+            "street": "73A Gloucester Street",
+            "suburb": "Independence Drive, Banjul",
+            "region": "Banjul",
+            "country": "Gambia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:32:57",
+            "updated_at": "2020-10-12 15:32:57"
+        }
     },
     {
         "reinsurer_id": "77",
@@ -437,7 +910,18 @@
         "re_company_website": "www.nsiainsurance.com.gh",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:42:05",
-        "updated_at": "2020-10-12 15:42:05"
+        "updated_at": "2020-10-12 15:42:05",
+        "address": {
+            "reinsurer_address_id": "68",
+            "reinsurersreinsurer_id": "77",
+            "street": "NSIA Insurance Ltd 14/16 MAIN STREET, P. O. BOX GP 3114,",
+            "suburb": "TESANO \u200d",
+            "region": "ACCRA",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:42:05",
+            "updated_at": "2020-10-12 15:42:05"
+        }
     },
     {
         "reinsurer_id": "78",
@@ -447,7 +931,18 @@
         "re_company_website": "www.uaib.net",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:49:11",
-        "updated_at": "2020-10-16 11:47:54"
+        "updated_at": "2020-10-16 11:47:54",
+        "address": {
+            "reinsurer_address_id": "69",
+            "reinsurersreinsurer_id": "78",
+            "street": "# 318 Muritala Mohammed Way",
+            "suburb": "Ebute Metta, Yaba",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:49:11",
+            "updated_at": "2020-10-16 11:47:54"
+        }
     },
     {
         "reinsurer_id": "79",
@@ -457,7 +952,18 @@
         "re_company_website": "www.qicghana.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:52:04",
-        "updated_at": "2020-10-12 15:52:04"
+        "updated_at": "2020-10-12 15:52:04",
+        "address": {
+            "reinsurer_address_id": "70",
+            "reinsurersreinsurer_id": "79",
+            "street": "Quality House, Ring Road Central. P. O. Box MP 1252",
+            "suburb": "Mamprobi",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:52:04",
+            "updated_at": "2020-10-12 15:52:04"
+        }
     },
     {
         "reinsurer_id": "80",
@@ -467,7 +973,18 @@
         "re_company_website": "www.aureolinsurance.com/dnn/Home.aspx",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 15:55:30",
-        "updated_at": "2020-10-12 15:55:30"
+        "updated_at": "2020-10-12 15:55:30",
+        "address": {
+            "reinsurer_address_id": "71",
+            "reinsurersreinsurer_id": "80",
+            "street": "Kissy House 54 Siaka Stevens Street Freetown",
+            "suburb": "Siaka Stevens Street, Freetown",
+            "region": "Freetown",
+            "country": "Sierra Leone",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 15:55:30",
+            "updated_at": "2020-10-12 15:55:30"
+        }
     },
     {
         "reinsurer_id": "81",
@@ -477,7 +994,18 @@
         "re_company_website": "www.imperialgeneral.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 16:39:26",
-        "updated_at": "2020-10-12 16:39:26"
+        "updated_at": "2020-10-12 16:39:26",
+        "address":  {
+            "reinsurer_address_id": "72",
+            "reinsurersreinsurer_id": "81",
+            "street": "3rd Kuku Crescent Mainstream Hse.",
+            "suburb": "Osu",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-12 16:39:26",
+            "updated_at": "2020-10-12 16:39:26"
+        }    
     },
     {
         "reinsurer_id": "82",
@@ -487,7 +1015,18 @@
         "re_company_website": "www.emeritusre.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-16 11:31:54",
-        "updated_at": "2020-10-16 11:31:54"
+        "updated_at": "2020-10-16 11:31:54",
+        "address": {
+            "reinsurer_address_id": "73",
+            "reinsurersreinsurer_id": "82",
+            "street": "Suite 16B First Floor, Green City, Kelvin Siwale Road",
+            "suburb": "Arcades Area",
+            "region": "Lusaka",
+            "country": "Zambia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-10-16 11:31:54",
+            "updated_at": "2020-10-16 11:31:54"
+        }
     },
     {
         "reinsurer_id": "83",
@@ -497,7 +1036,18 @@
         "re_company_website": "https://kuwaitre.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-11-18 11:40:56",
-        "updated_at": "2021-03-15 19:33:15"
+        "updated_at": "2021-03-15 19:33:15",
+        "address": {
+            "reinsurer_address_id": "74",
+            "reinsurersreinsurer_id": "83",
+            "street": "Kuwait. Kuwait Re Tower, Al-Shuhada St.",
+            "suburb": "Al Kuwait",
+            "region": "Al Kuwait",
+            "country": "Kuwait",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-11-18 11:40:56",
+            "updated_at": "2021-03-15 19:33:15"
+        }
     },
     {
         "reinsurer_id": "84",
@@ -507,7 +1057,18 @@
         "re_company_website": "http://www.kenyare.co.ke",
         "delete_status": "NOT DELETED",
         "created_at": "2020-11-19 17:16:35",
-        "updated_at": "2020-11-19 17:16:35"
+        "updated_at": "2020-11-19 17:16:35",
+        "address": {
+            "reinsurer_address_id": "75",
+            "reinsurersreinsurer_id": "84",
+            "street": "15th Floor, Reinsurance Plaza, Taifa Road,",
+            "suburb": "Aga Khan Walk Nairobi",
+            "region": "Nairobi",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-11-19 17:16:35",
+            "updated_at": "2020-11-19 17:16:35"
+        }
     },
     {
         "reinsurer_id": "85",
@@ -517,7 +1078,18 @@
         "re_company_website": "www.omanre.com",
         "delete_status": "NOT DELETED",
         "created_at": "2020-11-20 15:52:03",
-        "updated_at": "2020-11-20 15:52:03"
+        "updated_at": "2020-11-20 15:52:03",
+        "address": {
+            "reinsurer_address_id": "76",
+            "reinsurersreinsurer_id": "85",
+            "street": "Hay Al Mina, Coral Building, 6th floor",
+            "suburb": "Al Khuwair South 114",
+            "region": "Muscat",
+            "country": "Oman",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-11-20 15:52:03",
+            "updated_at": "2020-11-20 15:52:03"
+        }
     },
     {
         "reinsurer_id": "86",
@@ -527,7 +1099,18 @@
         "re_company_website": "https://www.saudire.net",
         "delete_status": "NOT DELETED",
         "created_at": "2020-11-20 16:06:04",
-        "updated_at": "2020-11-20 16:06:04"
+        "updated_at": "2020-11-20 16:06:04",
+        "address": {
+            "reinsurer_address_id": "77",
+            "reinsurersreinsurer_id": "86",
+            "street": "Nothern Ring Rd,",
+            "suburb": "Al Wadi, Riyadh 13313",
+            "region": "Riyadh",
+            "country": "Saudi Arabia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-11-20 16:06:04",
+            "updated_at": "2020-11-20 16:06:04"
+        }
     },
     {
         "reinsurer_id": "87",
@@ -537,7 +1120,18 @@
         "re_company_website": "https://www.klapton.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-12-14 13:36:39",
-        "updated_at": "2020-12-14 13:36:39"
+        "updated_at": "2020-12-14 13:36:39",
+        "address": {
+            "reinsurer_address_id": "78",
+            "reinsurersreinsurer_id": "87",
+            "street": "Klapton Insurance Company Limited ACS, BP 69 Mutsamudu Anjouan Union of Comoros",
+            "suburb": "Mutsamudu",
+            "region": "Anjouan",
+            "country": "Comoros",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-12-14 13:36:39",
+            "updated_at": "2020-12-14 13:36:39"
+        }
     },
     {
         "reinsurer_id": "88",
@@ -547,7 +1141,18 @@
         "re_company_website": "n/a",
         "delete_status": "NOT DELETED",
         "created_at": "2020-12-14 13:43:31",
-        "updated_at": "2020-12-14 13:43:31"
+        "updated_at": "2020-12-14 13:43:31",
+        "address": {
+            "reinsurer_address_id": "79",
+            "reinsurersreinsurer_id": "88",
+            "street": "BP.42",
+            "suburb": "Antananarivo Antsahavola",
+            "region": "Antananarivo",
+            "country": "Madagascar",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-12-14 13:43:31",
+            "updated_at": "2020-12-14 13:43:31"
+        }
     },
     {
         "reinsurer_id": "89",
@@ -557,7 +1162,18 @@
         "re_company_website": "https://mukfin.co.za/",
         "delete_status": "NOT DELETED",
         "created_at": "2020-12-15 12:26:38",
-        "updated_at": "2020-12-15 12:26:38"
+        "updated_at": "2020-12-15 12:26:38",
+        "address": {
+            "reinsurer_address_id": "80",
+            "reinsurersreinsurer_id": "89",
+            "street": "Block G, 1st Floor Palms Office Park, 391 Main Ave Ferndale, 2194",
+            "suburb": "Randberg, Gauteng",
+            "region": "Gauteng",
+            "country": "South Africa",
+            "delete_status": "NOT DELETED",
+            "created_at": "2020-12-15 12:26:38",
+            "updated_at": "2020-12-15 12:26:38"
+        }
     },
     {
         "reinsurer_id": "90",
@@ -567,7 +1183,18 @@
         "re_company_website": "www.fbsre.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-03-01 10:15:04",
-        "updated_at": "2021-03-01 10:15:04"
+        "updated_at": "2021-03-01 10:15:04",
+        "address": {
+            "reinsurer_address_id": "81",
+            "reinsurersreinsurer_id": "90",
+            "street": "22 Dunukofia Street, Area 11, Garki, Abuja FCT",
+            "suburb": "Abuja",
+            "region": "Abuja",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-03-01 10:15:04",
+            "updated_at": "2021-03-01 10:15:04"
+        }
     },
     {
         "reinsurer_id": "91",
@@ -577,7 +1204,18 @@
         "re_company_website": "Swiss Reinsurance Company Limited",
         "delete_status": "NOT DELETED",
         "created_at": "2021-03-29 12:18:11",
-        "updated_at": "2021-03-29 12:18:11"
+        "updated_at": "2021-03-29 12:18:11",
+        "address": {
+            "reinsurer_address_id": "82",
+            "reinsurersreinsurer_id": "91",
+            "street": "Zurich",
+            "suburb": "Zurich",
+            "region": "Zurich",
+            "country": "Switzerland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-03-29 12:18:11",
+            "updated_at": "2021-03-29 12:18:11"
+        }
     },
     {
         "reinsurer_id": "92",
@@ -587,7 +1225,18 @@
         "re_company_website": "www.leppard.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-05-06 09:00:46",
-        "updated_at": "2021-05-06 09:00:46"
+        "updated_at": "2021-05-06 09:00:46",
+        "address": {
+            "reinsurer_address_id": "83",
+            "reinsurersreinsurer_id": "92",
+            "street": "N/A",
+            "suburb": "N/A",
+            "region": "Accra",
+            "country": "South Africa",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-05-06 09:00:46",
+            "updated_at": "2021-05-06 09:00:46"
+        }
     },
     {
         "reinsurer_id": "93",
@@ -597,7 +1246,18 @@
         "re_company_website": "www.vanguardassurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-06-08 16:37:39",
-        "updated_at": "2021-06-08 16:37:39"
+        "updated_at": "2021-06-08 16:37:39",
+        "address": {
+            "reinsurer_address_id": "84",
+            "reinsurersreinsurer_id": "93",
+            "street": "25 Independence Avenue, Rigde",
+            "suburb": "Accra",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-06-08 16:37:39",
+            "updated_at": "2021-06-08 16:37:39"
+        }
     },
     {
         "reinsurer_id": "94",
@@ -607,7 +1267,18 @@
         "re_company_website": "www.howden.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-07-29 16:23:17",
-        "updated_at": "2021-07-29 16:24:24"
+        "updated_at": "2021-07-29 16:24:24",
+        "address": {
+            "reinsurer_address_id": "85",
+            "reinsurersreinsurer_id": "94",
+            "street": "Accra",
+            "suburb": "Accra",
+            "region": "Greater Accra",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-07-29 16:23:17",
+            "updated_at": "2021-07-29 16:24:24"
+        }
     },
     {
         "reinsurer_id": "95",
@@ -617,7 +1288,18 @@
         "re_company_website": "www.chubb.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-08-03 12:34:13",
-        "updated_at": "2021-08-03 12:34:13"
+        "updated_at": "2021-08-03 12:34:13",
+        "address": {
+            "reinsurer_address_id": "86",
+            "reinsurersreinsurer_id": "95",
+            "street": "N/A",
+            "suburb": "N/A",
+            "region": "West Sandton",
+            "country": "South Africa",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-08-03 12:34:13",
+            "updated_at": "2021-08-03 12:34:13"
+        }
     },
     {
         "reinsurer_id": "96",
@@ -627,7 +1309,18 @@
         "re_company_website": "www.grandre.co.bw|",
         "delete_status": "NOT DELETED",
         "created_at": "2021-08-05 08:46:15",
-        "updated_at": "2021-08-05 08:46:15"
+        "updated_at": "2021-08-05 08:46:15",
+        "address": {
+            "reinsurer_address_id": "87",
+            "reinsurersreinsurer_id": "96",
+            "street": "Plot 50361, Block C",
+            "suburb": "Fairgrounds, Gaborone",
+            "region": "Fairgrounds, Gaborone",
+            "country": "Botswana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-08-05 08:46:15",
+            "updated_at": "2021-08-05 08:46:15"
+        }
     },
     {
         "reinsurer_id": "97",
@@ -637,7 +1330,18 @@
         "re_company_website": "www.centriq.co.za",
         "delete_status": "NOT DELETED",
         "created_at": "2021-09-14 11:16:31",
-        "updated_at": "2021-09-14 11:16:31"
+        "updated_at": "2021-09-14 11:16:31",
+        "address": {
+            "reinsurer_address_id": "88",
+            "reinsurersreinsurer_id": "97",
+            "street": "Northlands, 2116",
+            "suburb": "Northlands",
+            "region": "South Africa",
+            "country": "South Africa",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-09-14 11:16:31",
+            "updated_at": "2021-09-14 11:16:31"
+        }
     },
     {
         "reinsurer_id": "98",
@@ -647,7 +1351,18 @@
         "re_company_website": "www.kmdastur.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-09-17 11:21:58",
-        "updated_at": "2021-09-17 11:21:58"
+        "updated_at": "2021-09-17 11:21:58",
+        "address": {
+            "reinsurer_address_id": "89",
+            "reinsurersreinsurer_id": "98",
+            "street": "2nd Floor, Cambata Building, East, Wing, 42, Maharshi Karve Rd, Churchgate, Mumbai, Maharashtra 400020, India",
+            "suburb": "Churchgate",
+            "region": "Mumbai",
+            "country": "India",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-09-17 11:21:58",
+            "updated_at": "2021-09-17 11:21:58"
+        }
     },
     {
         "reinsurer_id": "99",
@@ -657,7 +1372,18 @@
         "re_company_website": "www.sereneinsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-09-20 18:26:16",
-        "updated_at": "2021-09-20 18:26:16"
+        "updated_at": "2021-09-20 18:26:16",
+        "address":  {
+            "reinsurer_address_id": "90",
+            "reinsurersreinsurer_id": "99",
+            "street": "First Floor, First Sky Tower Community 25 Junction, After Kpone Barrier",
+            "suburb": "Tema",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-09-20 18:26:16",
+            "updated_at": "2021-09-20 18:26:16"
+        }
     },
     {
         "reinsurer_id": "100",
@@ -667,7 +1393,18 @@
         "re_company_website": "www.shell.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-05 12:58:11",
-        "updated_at": "2021-10-05 12:58:11"
+        "updated_at": "2021-10-05 12:58:11",
+        "address": {
+            "reinsurer_address_id": "91",
+            "reinsurersreinsurer_id": "100",
+            "street": "Baarermatte CH-6340 Baar",
+            "suburb": "Baar",
+            "region": "Baar",
+            "country": "Switzerland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-10-05 12:58:11",
+            "updated_at": "2021-10-05 12:58:11"
+        }
     },
     {
         "reinsurer_id": "101",
@@ -677,7 +1414,18 @@
         "re_company_website": "www.africa-re.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-13 12:32:31",
-        "updated_at": "2021-11-26 11:35:36"
+        "updated_at": "2021-11-26 11:35:36",
+        "address": {
+            "reinsurer_address_id": "92",
+            "reinsurersreinsurer_id": "101",
+            "street": "Victoria Island",
+            "suburb": "Victoria Island",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-10-13 12:32:31",
+            "updated_at": "2021-11-26 11:35:36"
+        }
     },
     {
         "reinsurer_id": "102",
@@ -687,7 +1435,18 @@
         "re_company_website": "www.sanlam.co.ke",
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-20 12:18:04",
-        "updated_at": "2021-10-20 12:18:04"
+        "updated_at": "2021-10-20 12:18:04",
+        "address": {
+            "reinsurer_address_id": "93",
+            "reinsurersreinsurer_id": "102",
+            "street": "Sanlam Tower, Off Waiyaki Way, Westlands",
+            "suburb": "Nairobi",
+            "region": "Nairobi",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-10-20 12:18:04",
+            "updated_at": "2021-10-20 12:18:04"
+        }
     },
     {
         "reinsurer_id": "103",
@@ -697,7 +1456,18 @@
         "re_company_website": "www.scmaroc.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-28 15:45:02",
-        "updated_at": "2021-10-28 15:45:02"
+        "updated_at": "2021-10-28 15:45:02",
+        "address": {
+            "reinsurer_address_id": "94",
+            "reinsurersreinsurer_id": "103",
+            "street": "Tour Atlas, Place Zellaqa \u2013 B.P 13183 - Casablanca",
+            "suburb": "Casablanca",
+            "region": "Casablanca",
+            "country": "Morocco",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-10-28 15:45:02",
+            "updated_at": "2021-10-28 15:45:02"
+        }
     },
     {
         "reinsurer_id": "104",
@@ -707,7 +1477,18 @@
         "re_company_website": "www.edbroking.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-28 18:17:47",
-        "updated_at": "2021-10-28 18:17:47"
+        "updated_at": "2021-10-28 18:17:47",
+        "address": {
+            "reinsurer_address_id": "95",
+            "reinsurersreinsurer_id": "104",
+            "street": "130 Fenchurch Street, London EC3M 5DJ",
+            "suburb": "Fenchurch Street",
+            "region": "London",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-10-28 18:17:47",
+            "updated_at": "2021-10-28 18:17:47"
+        }
     },
     {
         "reinsurer_id": "105",
@@ -717,7 +1498,18 @@
         "re_company_website": "www.millire.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-02 12:53:55",
-        "updated_at": "2021-11-02 12:53:55"
+        "updated_at": "2021-11-02 12:53:55",
+        "address": {
+            "reinsurer_address_id": "96",
+            "reinsurersreinsurer_id": "105",
+            "street": "n/a",
+            "suburb": "n/a",
+            "region": "Turkey",
+            "country": "Turkey",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-02 12:53:55",
+            "updated_at": "2021-11-02 12:53:55"
+        }
     },
     {
         "reinsurer_id": "106",
@@ -727,7 +1519,18 @@
         "re_company_website": "https://www.trustre.com/en/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-03 16:01:01",
-        "updated_at": "2021-11-03 16:01:01"
+        "updated_at": "2021-11-03 16:01:01",
+        "address": {
+            "reinsurer_address_id": "97",
+            "reinsurersreinsurer_id": "106",
+            "street": "Contact UsTrust Tower P.O. Box 10002 Building 125, Road 1702 Diplomatic Area 317",
+            "suburb": "Diplomatic Area 317",
+            "region": "Manama",
+            "country": "Bahrain",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-03 16:01:01",
+            "updated_at": "2021-11-03 16:01:01"
+        }
     },
     {
         "reinsurer_id": "107",
@@ -737,7 +1540,18 @@
         "re_company_website": "https://www.munichre.com/en.html",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-03 16:33:34",
-        "updated_at": "2021-11-03 16:33:34"
+        "updated_at": "2021-11-03 16:33:34",
+        "address": {
+            "reinsurer_address_id": "98",
+            "reinsurersreinsurer_id": "107",
+            "street": "Munich Re K\u00f6niginstr. 107 80802 Munich",
+            "suburb": "Munich",
+            "region": "Munich",
+            "country": "Germany",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-03 16:33:34",
+            "updated_at": "2021-11-03 16:33:34"
+        }
     },
     {
         "reinsurer_id": "108",
@@ -747,7 +1561,18 @@
         "re_company_website": "https://www.heirsinsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-09 16:56:31",
-        "updated_at": "2021-11-09 16:56:31"
+        "updated_at": "2021-11-09 16:56:31",
+        "address": {
+            "reinsurer_address_id": "99",
+            "reinsurersreinsurer_id": "108",
+            "street": "Nigeria",
+            "suburb": "Nigeria",
+            "region": "Nogeria",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-09 16:56:31",
+            "updated_at": "2021-11-09 16:56:31"
+        }
     },
     {
         "reinsurer_id": "109",
@@ -757,7 +1582,18 @@
         "re_company_website": "www.gicresa.co.za",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-12 14:22:30",
-        "updated_at": "2021-11-12 14:22:30"
+        "updated_at": "2021-11-12 14:22:30",
+        "address": {
+            "reinsurer_address_id": "100",
+            "reinsurersreinsurer_id": "109",
+            "street": "South Africa",
+            "suburb": "SA",
+            "region": "South Africa",
+            "country": "South Africa",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-12 14:22:30",
+            "updated_at": "2021-11-12 14:22:30"
+        }
     },
     {
         "reinsurer_id": "110",
@@ -767,7 +1603,18 @@
         "re_company_website": "www.ghanare.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-17 17:33:11",
-        "updated_at": "2021-11-17 17:33:11"
+        "updated_at": "2021-11-17 17:33:11",
+        "address": {
+            "reinsurer_address_id": "101",
+            "reinsurersreinsurer_id": "110",
+            "street": "40/41 Senchi Street",
+            "suburb": "Accra",
+            "region": "Greater Accra",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-17 17:33:11",
+            "updated_at": "2021-11-17 17:33:11"
+        }
     },
     {
         "reinsurer_id": "112",
@@ -777,7 +1624,18 @@
         "re_company_website": "www.fbninsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-19 12:20:58",
-        "updated_at": "2021-11-19 12:20:58"
+        "updated_at": "2021-11-19 12:20:58",
+        "address": {
+            "reinsurer_address_id": "102",
+            "reinsurersreinsurer_id": "112",
+            "street": "NIPOST Building Marina",
+            "suburb": "34 Marina Rd",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-19 12:20:58",
+            "updated_at": "2021-11-19 12:20:58"
+        }
     },
     {
         "reinsurer_id": "113",
@@ -787,7 +1645,18 @@
         "re_company_website": "www.ccr.dz",
         "delete_status": "NOT DELETED",
         "created_at": "2021-11-22 07:11:32",
-        "updated_at": "2021-11-22 07:11:32"
+        "updated_at": "2021-11-22 07:11:32",
+        "address": {
+            "reinsurer_address_id": "103",
+            "reinsurersreinsurer_id": "113",
+            "street": "Ilot 2 n\u00b0133, Cit\u00e9 Administrative Plateau Ouled Fayet, Alger.",
+            "suburb": "Ilot 2 n\u00b0133, Cit\u00e9 Administrative Plateau Ouled Fayet, Alger.",
+            "region": "Ouled Fayet, Algeria",
+            "country": "Algeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-11-22 07:11:32",
+            "updated_at": "2021-11-22 07:11:32"
+        }
     },
     {
         "reinsurer_id": "114",
@@ -797,7 +1666,18 @@
         "re_company_website": "http://www.nascoinsurancegroup.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2021-12-13 03:05:41",
-        "updated_at": "2021-12-13 03:13:54"
+        "updated_at": "2021-12-13 03:13:54",
+        "address": {
+            "reinsurer_address_id": "104",
+            "reinsurersreinsurer_id": "114",
+            "street": "Nasco France 171 rue de Buzenval, 92380 Garches T +33 1 47 95 97 13   F +33 1 47 95 24 56 M +33 6 74 02 43 61",
+            "suburb": "171 Rue de Buzenval",
+            "region": "Garches",
+            "country": "France",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-12-13 03:05:41",
+            "updated_at": "2021-12-13 03:13:54"
+        }
     },
     {
         "reinsurer_id": "115",
@@ -807,7 +1687,18 @@
         "re_company_website": "www.amgs.africa",
         "delete_status": "NOT DELETED",
         "created_at": "2021-12-16 12:15:24",
-        "updated_at": "2021-12-16 12:15:24"
+        "updated_at": "2021-12-16 12:15:24",
+        "address": {
+            "reinsurer_address_id": "105",
+            "reinsurersreinsurer_id": "115",
+            "street": "Abidjan Riviera golf IV, villa 602B",
+            "suburb": "Abidjan",
+            "region": "Abidjan",
+            "country": "C\u00f4te d'Ivoire",
+            "delete_status": "NOT DELETED",
+            "created_at": "2021-12-16 12:15:24",
+            "updated_at": "2021-12-16 12:15:24"
+        }
     },
     {
         "reinsurer_id": "116",
@@ -817,7 +1708,18 @@
         "re_company_website": "www.tunisre.com.tn",
         "delete_status": "NOT DELETED",
         "created_at": "2022-01-01 07:56:19",
-        "updated_at": "2022-01-01 07:56:19"
+        "updated_at": "2022-01-01 07:56:19",
+        "address": {
+            "reinsurer_address_id": "106",
+            "reinsurersreinsurer_id": "116",
+            "street": "Tunisia",
+            "suburb": "Tunis",
+            "region": "Tunis",
+            "country": "Tunisia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-01-01 07:56:19",
+            "updated_at": "2022-01-01 07:56:19"
+        }
     },
     {
         "reinsurer_id": "117",
@@ -827,7 +1729,18 @@
         "re_company_website": "www.hiscox.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-01-13 10:05:07",
-        "updated_at": "2022-01-13 10:05:07"
+        "updated_at": "2022-01-13 10:05:07",
+        "address": {
+            "reinsurer_address_id": "107",
+            "reinsurersreinsurer_id": "117",
+            "street": "Bermuda",
+            "suburb": "Bermuda",
+            "region": "United Kingdom",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-01-13 10:05:07",
+            "updated_at": "2022-01-13 10:05:07"
+        }
     },
     {
         "reinsurer_id": "118",
@@ -837,7 +1750,18 @@
         "re_company_website": "https://www.seyrelimited.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-01-24 13:15:10",
-        "updated_at": "2022-02-01 11:39:12"
+        "updated_at": "2022-02-01 11:39:12",
+        "address": {
+            "reinsurer_address_id": "108",
+            "reinsurersreinsurer_id": "118",
+            "street": "Suite 14, Abis Centre 2",
+            "suburb": "Mahe",
+            "region": "Seychelles",
+            "country": "Seychelles",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-01-24 13:15:10",
+            "updated_at": "2022-02-01 11:39:12"
+        }
     },
     {
         "reinsurer_id": "119",
@@ -847,7 +1771,18 @@
         "re_company_website": "www.group-activa.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-01-31 17:16:06",
-        "updated_at": "2022-01-31 17:16:06"
+        "updated_at": "2022-01-31 17:16:06",
+        "address": {
+            "reinsurer_address_id": "109",
+            "reinsurersreinsurer_id": "119",
+            "street": "5TH STREET SINKOR LISCR -MONROVIA",
+            "suburb": "Sinkor",
+            "region": "Monrovia",
+            "country": "Liberia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-01-31 17:16:06",
+            "updated_at": "2022-01-31 17:16:06"
+        }
     },
     {
         "reinsurer_id": "120",
@@ -857,7 +1792,18 @@
         "re_company_website": "www.nsiainsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-02-23 17:12:30",
-        "updated_at": "2022-02-23 17:12:30"
+        "updated_at": "2022-02-23 17:12:30",
+        "address": {
+            "reinsurer_address_id": "110",
+            "reinsurersreinsurer_id": "120",
+            "street": "3, Elsie Femi Pearse Street",
+            "suburb": "Victoria Island. Lagos.",
+            "region": "Lagos",
+            "country": "Nigeria",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-02-23 17:12:30",
+            "updated_at": "2022-02-23 17:12:30"
+        } 
     },
     {
         "reinsurer_id": "121",
@@ -867,7 +1813,18 @@
         "re_company_website": "bershire@berkshire.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-02-24 13:04:22",
-        "updated_at": "2022-02-24 13:04:22"
+        "updated_at": "2022-02-24 13:04:22",
+        "address": {
+            "reinsurer_address_id": "111",
+            "reinsurersreinsurer_id": "121",
+            "street": "N/A",
+            "suburb": "N/A",
+            "region": "N/A",
+            "country": "United States of America",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-02-24 13:04:22",
+            "updated_at": "2022-02-24 13:04:22"
+        }
     },
     {
         "reinsurer_id": "122",
@@ -877,7 +1834,18 @@
         "re_company_website": "www.zep-re.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-02-27 15:14:08",
-        "updated_at": "2022-02-27 15:14:08"
+        "updated_at": "2022-02-27 15:14:08",
+        "address": {
+            "reinsurer_address_id": "112",
+            "reinsurersreinsurer_id": "122",
+            "street": "2nd Floor, Reinsurance House, Parliament Street",
+            "suburb": "Khartoum",
+            "region": "Khartoum",
+            "country": "Sudan",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-02-27 15:14:08",
+            "updated_at": "2022-02-27 15:14:08"
+        }
     },
     {
         "reinsurer_id": "123",
@@ -887,7 +1855,18 @@
         "re_company_website": "https://www.arig.net/",
         "delete_status": "NOT DELETED",
         "created_at": "2022-03-08 16:48:37",
-        "updated_at": "2022-03-08 16:48:37"
+        "updated_at": "2022-03-08 16:48:37",
+        "address": {
+            "reinsurer_address_id": "113",
+            "reinsurersreinsurer_id": "123",
+            "street": "Arig House Building 131, Road 1702 Diplomatic Area 317 Manama, Kingdom of Bahrain",
+            "suburb": "131, Road 1702 Diplomatic Area 317 Manama",
+            "region": "Manama",
+            "country": "Bahrain",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-03-08 16:48:37",
+            "updated_at": "2022-03-08 16:48:37"
+        }
     },
     {
         "reinsurer_id": "133",
@@ -897,7 +1876,18 @@
         "re_company_website": "https://w-safe.ltd/",
         "delete_status": "NOT DELETED",
         "created_at": "2022-04-11 11:53:05",
-        "updated_at": "2022-04-11 11:53:05"
+        "updated_at": "2022-04-11 11:53:05",
+        "address": {
+            "reinsurer_address_id": "115",
+            "reinsurersreinsurer_id": "133",
+            "street": "Asarebea Plaza",
+            "suburb": "East Legon",
+            "region": "Accra",
+            "country": "Ghana",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-04-11 11:53:05",
+            "updated_at": "2022-04-11 11:53:05"
+        }
     },
     {
         "reinsurer_id": "134",
@@ -907,7 +1897,18 @@
         "re_company_website": "zambia@zambia.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-05-20 12:53:34",
-        "updated_at": "2022-05-20 12:53:34"
+        "updated_at": "2022-05-20 12:53:34",
+        "address": {
+            "reinsurer_address_id": "116",
+            "reinsurersreinsurer_id": "134",
+            "street": "40/41 Senchi Street",
+            "suburb": "Accra",
+            "region": "Other",
+            "country": "Zambia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-05-20 12:53:34",
+            "updated_at": "2022-05-20 12:53:34"
+        }
     },
     {
         "reinsurer_id": "135",
@@ -917,7 +1918,18 @@
         "re_company_website": "https://namibre.com/",
         "delete_status": "NOT DELETED",
         "created_at": "2022-05-24 00:47:20",
-        "updated_at": "2022-05-24 00:47:20"
+        "updated_at": "2022-05-24 00:47:20",
+        "address": {
+            "reinsurer_address_id": "117",
+            "reinsurersreinsurer_id": "135",
+            "street": "NamibRe Building, Cnr Feld & Julius K. Nyerere Street No 39",
+            "suburb": "Ausspannplatz Windhoek",
+            "region": "Namibia",
+            "country": "Namibia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-05-24 00:47:20",
+            "updated_at": "2022-05-24 00:47:20"
+        }
     },
     {
         "reinsurer_id": "136",
@@ -927,7 +1939,18 @@
         "re_company_website": "www.grandre.co.zw",
         "delete_status": "NOT DELETED",
         "created_at": "2022-06-03 10:58:09",
-        "updated_at": "2022-06-03 10:58:09"
+        "updated_at": "2022-06-03 10:58:09",
+        "address": {
+            "reinsurer_address_id": "118",
+            "reinsurersreinsurer_id": "136",
+            "street": "40/41 Senchi Street",
+            "suburb": "Accra",
+            "region": "Other",
+            "country": "Zimbabwe",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-06-03 10:58:09",
+            "updated_at": "2022-06-03 10:58:09"
+        }
     },
     {
         "reinsurer_id": "137",
@@ -937,7 +1960,18 @@
         "re_company_website": "www.pinc@pincinsure.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-06-23 14:06:25",
-        "updated_at": "2022-06-23 14:06:25"
+        "updated_at": "2022-06-23 14:06:25",
+        "address": {
+            "reinsurer_address_id": "119",
+            "reinsurersreinsurer_id": "137",
+            "street": "-",
+            "suburb": "-",
+            "region": "-",
+            "country": "India",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-06-23 14:06:25",
+            "updated_at": "2022-06-23 14:06:25"
+        }
     },
     {
         "reinsurer_id": "138",
@@ -947,7 +1981,18 @@
         "re_company_website": "www.guardianreinsurance.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-06-23 14:14:37",
-        "updated_at": "2022-08-29 13:06:37"
+        "updated_at": "2022-08-29 13:06:37",
+        "address": {
+            "reinsurer_address_id": "120",
+            "reinsurersreinsurer_id": "138",
+            "street": "-",
+            "suburb": "-",
+            "region": "-",
+            "country": "Zambia",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-06-23 14:14:37",
+            "updated_at": "2022-08-29 13:06:37"
+        }
     },
     {
         "reinsurer_id": "139",
@@ -957,7 +2002,18 @@
         "re_company_website": "www.fremir.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-06-27 18:45:50",
-        "updated_at": "2022-06-27 18:45:50"
+        "updated_at": "2022-06-27 18:45:50",
+        "address": {
+            "reinsurer_address_id": "121",
+            "reinsurersreinsurer_id": "139",
+            "street": "5 Youssef El-Guindy Bab Al Louk",
+            "suburb": "Cairo",
+            "region": "Cairo",
+            "country": "Egypt",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-06-27 18:45:50",
+            "updated_at": "2022-06-27 18:45:50"
+        }
     },
     {
         "reinsurer_id": "140",
@@ -967,7 +2023,18 @@
         "re_company_website": "www.ArcRe.mu",
         "delete_status": "NOT DELETED",
         "created_at": "2022-06-28 09:44:16",
-        "updated_at": "2022-06-28 09:44:16"
+        "updated_at": "2022-06-28 09:44:16",
+        "address": {
+            "reinsurer_address_id": "122",
+            "reinsurersreinsurer_id": "140",
+            "street": "SVR House, Corner Farquhar & Antelme Ave, Q. Bornes,",
+            "suburb": "Mauritus",
+            "region": "Mauritus",
+            "country": "Mauritius",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-06-28 09:44:16",
+            "updated_at": "2022-06-28 09:44:16"
+        }
     },
     {
         "reinsurer_id": "141",
@@ -977,7 +2044,18 @@
         "re_company_website": "www.firstmutualholdings.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-07-07 12:21:28",
-        "updated_at": "2022-07-07 12:21:28"
+        "updated_at": "2022-07-07 12:21:28",
+        "address": {
+            "reinsurer_address_id": "123",
+            "reinsurersreinsurer_id": "141",
+            "street": "First Mutual Park, 100 Borrowdale Road, Borrowdale | Harare, Zimbabwe | P O Box CY 1912, Causeway, Harare",
+            "suburb": "Harare",
+            "region": "Harare",
+            "country": "Zimbabwe",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-07-07 12:21:28",
+            "updated_at": "2022-07-07 12:21:28"
+        }
     },
     {
         "reinsurer_id": "145",
@@ -987,7 +2065,18 @@
         "re_company_website": "www.ghanare.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-08-08 16:40:22",
-        "updated_at": "2022-10-18 18:00:36"
+        "updated_at": "2022-10-18 18:00:36",
+        "address": {
+            "reinsurer_address_id": "124",
+            "reinsurersreinsurer_id": "145",
+            "street": "Cameroon",
+            "suburb": "Yaounde",
+            "region": "Cameroon",
+            "country": "Cameroon",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-08-08 16:40:22",
+            "updated_at": "2022-10-18 18:00:36"
+        }
     },
     {
         "reinsurer_id": "146",
@@ -997,7 +2086,18 @@
         "re_company_website": "www.guardianreuganda.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-08-29 13:08:25",
-        "updated_at": "2022-08-29 13:08:25"
+        "updated_at": "2022-08-29 13:08:25",
+        "address": {
+            "reinsurer_address_id": "125",
+            "reinsurersreinsurer_id": "146",
+            "street": "-",
+            "suburb": "-",
+            "region": "-",
+            "country": "Uganda",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-08-29 13:08:25",
+            "updated_at": "2022-08-29 13:08:25"
+        }
     },
     {
         "reinsurer_id": "147",
@@ -1007,7 +2107,18 @@
         "re_company_website": "www.klaptonkenya.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-09-28 12:29:05",
-        "updated_at": "2022-09-28 12:29:05"
+        "updated_at": "2022-09-28 12:29:05",
+        "address": {
+            "reinsurer_address_id": "126",
+            "reinsurersreinsurer_id": "147",
+            "street": "Apple Adams",
+            "suburb": "Nairobi",
+            "region": "Nairobi",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-09-28 12:29:05",
+            "updated_at": "2022-09-28 12:29:05"
+        }
     },
     {
         "reinsurer_id": "148",
@@ -1017,7 +2128,18 @@
         "re_company_website": "www.klaptonre.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-10-12 16:18:17",
-        "updated_at": "2022-10-12 16:18:17"
+        "updated_at": "2022-10-12 16:18:17",
+        "address": {
+            "reinsurer_address_id": "127",
+            "reinsurersreinsurer_id": "148",
+            "street": "Kenya",
+            "suburb": "Nairobi",
+            "region": "Nairobi",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-10-12 16:18:17",
+            "updated_at": "2022-10-12 16:18:17"
+        }
     },
     {
         "reinsurer_id": "150",
@@ -1027,7 +2149,18 @@
         "re_company_website": "www.marsh.com",
         "delete_status": "NOT DELETED",
         "created_at": "2022-10-14 09:33:18",
-        "updated_at": "2022-10-14 09:33:18"
+        "updated_at": "2022-10-14 09:33:18",
+        "address": {
+            "reinsurer_address_id": "129",
+            "reinsurersreinsurer_id": "150",
+            "street": "London",
+            "suburb": "London",
+            "region": "London",
+            "country": "United Kingdom of Great Britain and Northern Ireland",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-10-14 09:33:18",
+            "updated_at": "2022-10-14 09:33:18"
+        }
     },
     {
         "reinsurer_id": "151",
@@ -1037,6 +2170,17 @@
         "re_company_website": "www.modern.co.ke",
         "delete_status": "NOT DELETED",
         "created_at": "2022-10-17 11:05:29",
-        "updated_at": "2022-10-17 11:05:29"
+        "updated_at": "2022-10-17 11:05:29",
+        "address": {
+            "reinsurer_address_id": "130",
+            "reinsurersreinsurer_id": "151",
+            "street": "Nairobi",
+            "suburb": "Nairobi",
+            "region": "Nairobi",
+            "country": "Kenya",
+            "delete_status": "NOT DELETED",
+            "created_at": "2022-10-17 11:05:29",
+            "updated_at": "2022-10-17 11:05:29"
+        }
     }
 ]
