@@ -10,16 +10,6 @@
         "updated_at": "2020-10-23 11:25:34"
     },
     {
-        "reinsurer_id": "18",
-        "re_company_name": "Loyalty",
-        "re_company_email": "francis@loyalty.com",
-        "re_abbrv": "L",
-        "re_company_website": "loyalty.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 11:51:37",
-        "updated_at": "2020-10-07 16:13:40"
-    },
-    {
         "reinsurer_id": "19",
         "re_company_name": "Continental Reinsurance Plc",
         "re_company_email": "tonibudo@continental-re.com",
@@ -30,36 +20,6 @@
         "updated_at": "2020-09-22 11:52:42"
     },
     {
-        "reinsurer_id": "20",
-        "re_company_name": "Star Assurance Limited",
-        "re_company_email": "senyo@kekgroup.net",
-        "re_abbrv": "SAL",
-        "re_company_website": "NA",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 11:53:08",
-        "updated_at": "2020-10-07 16:12:36"
-    },
-    {
-        "reinsurer_id": "21",
-        "re_company_name": "Africana Reinsurance Corporation",
-        "re_company_email": "ajayi.oluwatosin@africa-re.com",
-        "re_abbrv": "ARC",
-        "re_company_website": "www.africa-re.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 11:53:25",
-        "updated_at": "2020-10-08 10:20:53"
-    },
-    {
-        "reinsurer_id": "22",
-        "re_company_name": "Saham Insurance Company",
-        "re_company_email": "jdotcole233@gmail.com",
-        "re_abbrv": "SIC",
-        "re_company_website": "www.sahaminsurance.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-28 22:31:55",
-        "updated_at": "2020-10-07 16:12:32"
-    },
-    {
         "reinsurer_id": "23",
         "re_company_name": "Ghana Reinsurance Plc",
         "re_company_email": "info@ghanare.com",
@@ -68,46 +28,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 09:25:30",
         "updated_at": "2022-10-18 18:08:20"
-    },
-    {
-        "reinsurer_id": "24",
-        "re_company_name": "Ghana Re - Team I",
-        "re_company_email": "kappietu-ankrah@ghanare.com",
-        "re_abbrv": "GR-TI",
-        "re_company_website": "www.ghanare.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:28:24",
-        "updated_at": "2020-10-12 11:54:49"
-    },
-    {
-        "reinsurer_id": "25",
-        "re_company_name": "Ghana Re - Team II",
-        "re_company_email": "kappietu-ankrah@ghanare.com",
-        "re_abbrv": "GR-TI",
-        "re_company_website": "www.ghanare.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:50:54",
-        "updated_at": "2020-10-12 11:54:39"
-    },
-    {
-        "reinsurer_id": "26",
-        "re_company_name": "Ghana Re - Team III",
-        "re_company_email": "kappietu-ankrah@ghanare.com",
-        "re_abbrv": "GR-TI",
-        "re_company_website": "www.ghanare.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:55:57",
-        "updated_at": "2020-10-12 11:55:06"
-    },
-    {
-        "reinsurer_id": "27",
-        "re_company_name": "Ghana Re - English",
-        "re_company_email": "ENGLISH@ghanare.com",
-        "re_abbrv": "GR-E",
-        "re_company_website": "www.ghanare.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 10:00:06",
-        "updated_at": "2020-10-12 11:54:59"
     },
     {
         "reinsurer_id": "34",
@@ -970,16 +890,6 @@
         "updated_at": "2022-03-08 16:48:37"
     },
     {
-        "reinsurer_id": "124",
-        "re_company_name": "W-Safe Reinsurance Company Limited",
-        "re_company_email": "kwaku@w-safe.ltd",
-        "re_abbrv": "-RCL",
-        "re_company_website": "www.w-safe.ltd",
-        "delete_status": "DELETED",
-        "created_at": "2022-04-08 17:03:28",
-        "updated_at": "2022-04-08 17:11:38"
-    },
-    {
         "reinsurer_id": "133",
         "re_company_name": "W-Safe Reinsurance Company Ltd",
         "re_company_email": "kwaku@w-safe.ltd",
@@ -1108,16 +1018,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2022-10-12 16:18:17",
         "updated_at": "2022-10-12 16:18:17"
-    },
-    {
-        "reinsurer_id": "149",
-        "re_company_name": "Marsch Limited",
-        "re_company_email": "finproserviceteam@marsh.com",
-        "re_abbrv": "ML",
-        "re_company_website": "www.marsh.com",
-        "delete_status": "DELETED",
-        "created_at": "2022-10-14 09:28:21",
-        "updated_at": "2022-10-14 09:32:12"
     },
     {
         "reinsurer_id": "150",

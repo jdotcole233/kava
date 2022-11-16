@@ -11,17 +11,6 @@
         "updated_at": "2020-10-23 11:25:34"
     },
     {
-        "reinsurer_address_id": "18",
-        "reinsurersreinsurer_id": "18",
-        "street": "mile 7 park",
-        "suburb": "accra",
-        "region": "greater accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 11:51:37",
-        "updated_at": "2020-10-07 16:13:40"
-    },
-    {
         "reinsurer_address_id": "19",
         "reinsurersreinsurer_id": "19",
         "street": "Continental Re Center (3rd -5th floors), 17, Olosa Street",
@@ -33,39 +22,6 @@
         "updated_at": "2020-09-22 11:52:42"
     },
     {
-        "reinsurer_address_id": "20",
-        "reinsurersreinsurer_id": "20",
-        "street": "Senchi Street",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 11:53:08",
-        "updated_at": "2020-10-07 16:12:36"
-    },
-    {
-        "reinsurer_address_id": "21",
-        "reinsurersreinsurer_id": "21",
-        "street": "Kotun street",
-        "suburb": "victoria island",
-        "region": "Lagos",
-        "country": "Nigeria",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 11:53:25",
-        "updated_at": "2020-10-08 10:20:53"
-    },
-    {
-        "reinsurer_address_id": "22",
-        "reinsurersreinsurer_id": "22",
-        "street": "Hse No. 11",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-28 22:31:55",
-        "updated_at": "2020-10-07 16:12:32"
-    },
-    {
         "reinsurer_address_id": "23",
         "reinsurersreinsurer_id": "23",
         "street": "Sudan Rd. Ridge",
@@ -75,50 +31,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-08 09:25:30",
         "updated_at": "2022-10-18 18:08:20"
-    },
-    {
-        "reinsurer_address_id": "24",
-        "reinsurersreinsurer_id": "24",
-        "street": "Sudan Rd. Ridge",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:28:24",
-        "updated_at": "2020-10-12 11:54:49"
-    },
-    {
-        "reinsurer_address_id": "25",
-        "reinsurersreinsurer_id": "25",
-        "street": "Sudan Rd. Ridge",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:50:54",
-        "updated_at": "2020-10-12 11:54:39"
-    },
-    {
-        "reinsurer_address_id": "26",
-        "reinsurersreinsurer_id": "26",
-        "street": "Sudan Rd. Ridge",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:55:57",
-        "updated_at": "2020-10-12 11:55:06"
-    },
-    {
-        "reinsurer_address_id": "27",
-        "reinsurersreinsurer_id": "27",
-        "street": "Sudan Rd. Ridge",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 10:00:06",
-        "updated_at": "2020-10-12 11:54:59"
     },
     {
         "reinsurer_address_id": "28",
@@ -1067,17 +979,6 @@
         "updated_at": "2022-03-08 16:48:37"
     },
     {
-        "reinsurer_address_id": "114",
-        "reinsurersreinsurer_id": "124",
-        "street": "East Legon",
-        "suburb": "Accra",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2022-04-08 17:03:28",
-        "updated_at": "2022-04-08 17:11:38"
-    },
-    {
         "reinsurer_address_id": "115",
         "reinsurersreinsurer_id": "133",
         "street": "Asarebea Plaza",
@@ -1219,17 +1120,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2022-10-12 16:18:17",
         "updated_at": "2022-10-12 16:18:17"
-    },
-    {
-        "reinsurer_address_id": "128",
-        "reinsurersreinsurer_id": "149",
-        "street": "London",
-        "suburb": "London",
-        "region": "London",
-        "country": "United Kingdom of Great Britain and Northern Ireland",
-        "delete_status": "DELETED",
-        "created_at": "2022-10-14 09:28:21",
-        "updated_at": "2022-10-14 09:32:12"
     },
     {
         "reinsurer_address_id": "129",

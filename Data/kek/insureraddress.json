@@ -11,17 +11,6 @@
         "updated_at": "2020-10-27 15:40:12"
     },
     {
-        "insurer_address_id": "12",
-        "insurersinsurer_id": "15",
-        "suburb": "na",
-        "street": "na",
-        "region": "na",
-        "country": "Sierra Leone",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-16 10:46:45",
-        "updated_at": "2020-10-12 16:42:47"
-    },
-    {
         "insurer_address_id": "14",
         "insurersinsurer_id": "19",
         "suburb": "Accra",
@@ -31,50 +20,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-09-16 17:47:47",
         "updated_at": "2020-09-16 17:47:47"
-    },
-    {
-        "insurer_address_id": "17",
-        "insurersinsurer_id": "22",
-        "suburb": "victoria island",
-        "street": "Kotun street",
-        "region": "Lagos",
-        "country": "Nigeria",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 12:03:59",
-        "updated_at": "2020-10-08 17:57:36"
-    },
-    {
-        "insurer_address_id": "18",
-        "insurersinsurer_id": "23",
-        "suburb": "East Legon",
-        "street": "24th road",
-        "region": "Greater Accraa",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-22 12:23:54",
-        "updated_at": "2020-10-12 16:43:42"
-    },
-    {
-        "insurer_address_id": "20",
-        "insurersinsurer_id": "28",
-        "suburb": "Accra",
-        "street": "1st Floor, Stanbic Heights Building | South Liberation Link \u2013 Airport City",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-09-29 12:35:55",
-        "updated_at": "2020-10-12 16:44:07"
-    },
-    {
-        "insurer_address_id": "21",
-        "insurersinsurer_id": "29",
-        "suburb": "Accra",
-        "street": "Sudan Rd. Ridge",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-08 09:28:04",
-        "updated_at": "2020-10-08 09:28:34"
     },
     {
         "insurer_address_id": "22",
@@ -88,17 +33,6 @@
         "updated_at": "2021-03-16 18:23:58"
     },
     {
-        "insurer_address_id": "23",
-        "insurersinsurer_id": "31",
-        "suburb": "Airport Residential Area Postal",
-        "street": "11 Patrice Lumumba Road",
-        "region": "Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-11 21:35:24",
-        "updated_at": "2020-10-11 21:43:33"
-    },
-    {
         "insurer_address_id": "24",
         "insurersinsurer_id": "32",
         "suburb": "Airport Residential Area.",
@@ -108,17 +42,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-12 16:45:08",
         "updated_at": "2020-10-22 16:14:21"
-    },
-    {
-        "insurer_address_id": "25",
-        "insurersinsurer_id": "33",
-        "suburb": "Airport Residential Area Postal",
-        "street": "11 Patrice Lumumba Road",
-        "region": "Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-10-13 12:29:42",
-        "updated_at": "2020-10-13 12:31:25"
     },
     {
         "insurer_address_id": "26",
@@ -383,17 +306,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-10-16 15:00:20",
         "updated_at": "2020-11-02 15:22:50"
-    },
-    {
-        "insurer_address_id": "50",
-        "insurersinsurer_id": "66",
-        "suburb": "Bairro da Costa do Sol",
-        "street": "Av. Da Marginal No 141/8",
-        "region": "Maputo",
-        "country": "Mozambique",
-        "delete_status": "DELETED",
-        "created_at": "2020-12-02 10:35:39",
-        "updated_at": "2021-12-14 12:42:29"
     },
     {
         "insurer_address_id": "51",
@@ -770,17 +682,6 @@
         "updated_at": "2022-01-13 10:02:57"
     },
     {
-        "insurer_address_id": "85",
-        "insurersinsurer_id": "102",
-        "suburb": "Aggrey Street, Kisseman \u2013 Accra",
-        "street": "Along the Achimota School - GIMPA road. (Near Pure Fire Church)",
-        "region": "GREATER ACCRA",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2022-01-19 14:00:42",
-        "updated_at": "2022-01-19 17:32:51"
-    },
-    {
         "insurer_address_id": "86",
         "insurersinsurer_id": "103",
         "suburb": "Aggrey Street, Kisseman \u2013 Accra",
@@ -812,17 +713,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2022-02-23 17:19:11",
         "updated_at": "2022-02-23 17:19:11"
-    },
-    {
-        "insurer_address_id": "89",
-        "insurersinsurer_id": "106",
-        "suburb": "N/A",
-        "street": "N/A",
-        "region": "N/A",
-        "country": "United States of America",
-        "delete_status": "DELETED",
-        "created_at": "2022-02-24 11:52:44",
-        "updated_at": "2022-02-24 13:04:32"
     },
     {
         "insurer_address_id": "90",
