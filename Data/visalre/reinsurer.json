@@ -18,7 +18,87 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 11:49:29",
             "updated_at": "2020-06-22 11:49:29"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "2",
+                "reinsurersreinsurer_id": "3",
+                "rep_first_name": "Sunday Segun",
+                "rep_last_name": "Asake",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "ssasake@waicare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 11:59:21",
+                "updated_at": "2020-07-06 11:27:23"
+            },
+            {
+                "reinsurer_representative_id": "29",
+                "reinsurersreinsurer_id": "3",
+                "rep_first_name": "Kofi",
+                "rep_last_name": "Dwomoh",
+                "rep_primary_phonenumber": "233579752017",
+                "rep_secondary_phonenumber": "233579752017",
+                "rep_email": "kdwomoh@waicare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:15:59",
+                "updated_at": "2020-08-19 12:38:25"
+            },
+            {
+                "reinsurer_representative_id": "30",
+                "reinsurersreinsurer_id": "3",
+                "rep_first_name": "Tracy",
+                "rep_last_name": "Osei-Addo",
+                "rep_primary_phonenumber": "233243822537",
+                "rep_secondary_phonenumber": "233243822537",
+                "rep_email": "tsoaidoo@waicare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:18:58",
+                "updated_at": "2020-08-19 12:39:27"
+            },
+            {
+                "reinsurer_representative_id": "31",
+                "reinsurersreinsurer_id": "3",
+                "rep_first_name": "Clement",
+                "rep_last_name": "Owusu",
+                "rep_primary_phonenumber": "233244684127",
+                "rep_secondary_phonenumber": "233244684127",
+                "rep_email": "cowusu@waicare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:21:58",
+                "updated_at": "2020-08-19 12:40:00"
+            },
+            {
+                "reinsurer_representative_id": "51",
+                "reinsurersreinsurer_id": "3",
+                "rep_first_name": "Edward",
+                "rep_last_name": "Duamroh",
+                "rep_primary_phonenumber": "233244731004",
+                "rep_secondary_phonenumber": "233244731004",
+                "rep_email": "eduamroh@waicare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-30 11:05:38",
+                "updated_at": "2020-08-19 12:40:34"
+            },
+            {
+                "reinsurer_representative_id": "99",
+                "reinsurersreinsurer_id": "3",
+                "rep_first_name": "Abena Animuwaah",
+                "rep_last_name": "Asiedu",
+                "rep_primary_phonenumber": "+233240000000",
+                "rep_secondary_phonenumber": "+233240000000",
+                "rep_email": "aasiedu@waicare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-06-03 10:08:27",
+                "updated_at": "2021-06-03 10:08:27"
+            }
+        ]
     },
     {
         "reinsurer_id": "4",
@@ -39,7 +119,256 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 12:01:12",
             "updated_at": "2020-06-22 12:01:12"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "105",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "AUGUSTINE",
+                "rep_last_name": "JOY QUAINOO",
+                "rep_primary_phonenumber": "2334974633",
+                "rep_secondary_phonenumber": "2334974633",
+                "rep_email": "ajquainoo@ghanare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-11-03 14:08:57",
+                "updated_at": "2021-11-03 14:08:57"
+            },
+            {
+                "reinsurer_representative_id": "119",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Bernard Fausta",
+                "rep_last_name": "Abekah",
+                "rep_primary_phonenumber": "0248793855",
+                "rep_secondary_phonenumber": "0248793855",
+                "rep_email": "info@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-01 11:37:13",
+                "updated_at": "2022-02-01 11:37:13"
+            },
+            {
+                "reinsurer_representative_id": "120",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Team",
+                "rep_last_name": "II",
+                "rep_primary_phonenumber": "0243248444",
+                "rep_secondary_phonenumber": "0243248444",
+                "rep_email": "info@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-01 11:39:38",
+                "updated_at": "2022-02-01 11:39:38"
+            },
+            {
+                "reinsurer_representative_id": "142",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Sylvester",
+                "rep_last_name": "Axheampong",
+                "rep_primary_phonenumber": "0541655211",
+                "rep_secondary_phonenumber": "0541655211",
+                "rep_email": "sacheampong@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-15 14:51:03",
+                "updated_at": "2022-03-15 14:51:03"
+            },
+            {
+                "reinsurer_representative_id": "3",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Alex",
+                "rep_last_name": "Kyerematen",
+                "rep_primary_phonenumber": "23324681640",
+                "rep_secondary_phonenumber": "23324681640",
+                "rep_email": "akyerematen@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 12:04:08",
+                "updated_at": "2020-08-19 12:08:53"
+            },
+            {
+                "reinsurer_representative_id": "28",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Priscilla",
+                "rep_last_name": "Assan",
+                "rep_primary_phonenumber": "233244233045",
+                "rep_secondary_phonenumber": "233244233045",
+                "rep_email": "passan@ghanare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:08:39",
+                "updated_at": "2020-08-19 12:09:29"
+            },
+            {
+                "reinsurer_representative_id": "32",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Samuel",
+                "rep_last_name": "Quarshie-Doku",
+                "rep_primary_phonenumber": "233274128166",
+                "rep_secondary_phonenumber": "233274128166",
+                "rep_email": "squarshie-doku@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:23:30",
+                "updated_at": "2020-08-19 12:10:04"
+            },
+            {
+                "reinsurer_representative_id": "33",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Kwame",
+                "rep_last_name": "Afrani",
+                "rep_primary_phonenumber": "233269151162",
+                "rep_secondary_phonenumber": "233269151162",
+                "rep_email": "kaafrani@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:24:39",
+                "updated_at": "2020-08-19 12:10:40"
+            },
+            {
+                "reinsurer_representative_id": "34",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Henry",
+                "rep_last_name": "Danso",
+                "rep_primary_phonenumber": "233244672773",
+                "rep_secondary_phonenumber": "233244672773",
+                "rep_email": "hdanso@ghanare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:26:06",
+                "updated_at": "2020-08-19 12:11:21"
+            },
+            {
+                "reinsurer_representative_id": "35",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Kwaku",
+                "rep_last_name": "Appietu-Ankrah",
+                "rep_primary_phonenumber": "233248725731",
+                "rep_secondary_phonenumber": "233248725731",
+                "rep_email": "kappietu-ankrah@ghanare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-02 21:29:22",
+                "updated_at": "2020-08-19 12:12:10"
+            },
+            {
+                "reinsurer_representative_id": "37",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Daniel",
+                "rep_last_name": "Acquaye",
+                "rep_primary_phonenumber": "233265116070",
+                "rep_secondary_phonenumber": "233265116070",
+                "rep_email": "dacquaye@ghanare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-06 11:25:34",
+                "updated_at": "2020-08-19 12:21:17"
+            },
+            {
+                "reinsurer_representative_id": "38",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Richard",
+                "rep_last_name": "Bediako",
+                "rep_primary_phonenumber": "233261094072",
+                "rep_secondary_phonenumber": "233261094072",
+                "rep_email": "rbediako@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-13 16:30:17",
+                "updated_at": "2020-08-19 12:21:53"
+            },
+            {
+                "reinsurer_representative_id": "39",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Stephen",
+                "rep_last_name": "Abekah",
+                "rep_primary_phonenumber": "233na",
+                "rep_secondary_phonenumber": "233na",
+                "rep_email": "skabekah@ghanare.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-16 08:33:38",
+                "updated_at": "2020-07-16 08:33:38"
+            },
+            {
+                "reinsurer_representative_id": "40",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Esther",
+                "rep_last_name": "Siale",
+                "rep_primary_phonenumber": "233243618190",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "eesiale@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-17 08:46:44",
+                "updated_at": "2020-08-19 12:22:19"
+            },
+            {
+                "reinsurer_representative_id": "41",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Mawuli",
+                "rep_last_name": "Boti",
+                "rep_primary_phonenumber": "233542683394",
+                "rep_secondary_phonenumber": "233542683394",
+                "rep_email": "mjboti@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-17 08:59:34",
+                "updated_at": "2020-08-19 12:22:48"
+            },
+            {
+                "reinsurer_representative_id": "42",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Alfred",
+                "rep_last_name": "Klutsey",
+                "rep_primary_phonenumber": "233243266494",
+                "rep_secondary_phonenumber": "233243266494",
+                "rep_email": "asklutsey@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-17 09:01:19",
+                "updated_at": "2020-08-19 12:23:38"
+            },
+            {
+                "reinsurer_representative_id": "70",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Team",
+                "rep_last_name": "One",
+                "rep_primary_phonenumber": "233244233045",
+                "rep_secondary_phonenumber": "23346861640",
+                "rep_email": "TEAM_I@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-01-05 16:06:46",
+                "updated_at": "2021-01-05 16:06:46"
+            },
+            {
+                "reinsurer_representative_id": "71",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Team",
+                "rep_last_name": "Two",
+                "rep_primary_phonenumber": "2333248444",
+                "rep_secondary_phonenumber": "2334672773",
+                "rep_email": "TEAM_II@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-01-05 16:07:57",
+                "updated_at": "2021-01-05 16:07:57"
+            },
+            {
+                "reinsurer_representative_id": "72",
+                "reinsurersreinsurer_id": "4",
+                "rep_first_name": "Team",
+                "rep_last_name": "Three",
+                "rep_primary_phonenumber": "233320387602",
+                "rep_secondary_phonenumber": "233267035928",
+                "rep_email": "TEAM_III@ghanare.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-01-05 16:09:04",
+                "updated_at": "2021-02-08 12:55:52"
+            }
+        ]
     },
     {
         "reinsurer_id": "5",
@@ -60,7 +389,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 16:06:53",
             "updated_at": "2020-06-24 13:00:00"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "11",
+                "reinsurersreinsurer_id": "5",
+                "rep_first_name": "Nana Ama",
+                "rep_last_name": "Tweneboaah-Ansah",
+                "rep_primary_phonenumber": "233242738009",
+                "rep_secondary_phonenumber": "233242738009",
+                "rep_email": "ama.tweneboaah-ansah@gnreinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:41:59",
+                "updated_at": "2020-08-19 12:35:12"
+            },
+            {
+                "reinsurer_representative_id": "12",
+                "reinsurersreinsurer_id": "5",
+                "rep_first_name": "Abena",
+                "rep_last_name": "Obuobi",
+                "rep_primary_phonenumber": "233243704030",
+                "rep_secondary_phonenumber": "233501522370",
+                "rep_email": "abena.obuobi@gnreinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:59:22",
+                "updated_at": "2020-08-19 12:35:52"
+            },
+            {
+                "reinsurer_representative_id": "13",
+                "reinsurersreinsurer_id": "5",
+                "rep_first_name": "GN",
+                "rep_last_name": "Re",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "underwriting@gnreinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 19:01:56",
+                "updated_at": "2020-06-22 19:01:56"
+            }
+        ]
     },
     {
         "reinsurer_id": "6",
@@ -81,7 +451,126 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 16:08:05",
             "updated_at": "2020-07-03 12:26:32"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "49",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Robert",
+                "rep_last_name": "Hammond",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "robert@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "DELETED",
+                "created_at": "2020-07-23 14:56:17",
+                "updated_at": "2022-08-19 08:40:15"
+            },
+            {
+                "reinsurer_representative_id": "50",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Adwoa",
+                "rep_last_name": "Anokye-Mensah",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "adwoa@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-23 14:58:09",
+                "updated_at": "2020-07-23 14:58:09"
+            },
+            {
+                "reinsurer_representative_id": "100",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Wendy",
+                "rep_last_name": ".",
+                "rep_primary_phonenumber": "+233240000000",
+                "rep_secondary_phonenumber": "+233240000000",
+                "rep_email": "wendy@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-06-03 10:10:25",
+                "updated_at": "2021-06-03 10:10:25"
+            },
+            {
+                "reinsurer_representative_id": "101",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Irene",
+                "rep_last_name": ".",
+                "rep_primary_phonenumber": "+233240000000",
+                "rep_secondary_phonenumber": "+233240000000",
+                "rep_email": "irene@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-06-03 10:12:12",
+                "updated_at": "2021-06-03 10:12:12"
+            },
+            {
+                "reinsurer_representative_id": "106",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Maxwell",
+                "rep_last_name": "Amo-Sam",
+                "rep_primary_phonenumber": "0302788326",
+                "rep_secondary_phonenumber": "0302788326",
+                "rep_email": "maxwell@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-12-06 09:09:30",
+                "updated_at": "2021-12-06 09:34:32"
+            },
+            {
+                "reinsurer_representative_id": "148",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Frank",
+                "rep_last_name": "Donkor",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "frank@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-08-19 08:42:15",
+                "updated_at": "2022-08-19 08:42:15"
+            },
+            {
+                "reinsurer_representative_id": "149",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Carlyne",
+                "rep_last_name": "Laryea",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "carlyne@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-08-19 08:43:23",
+                "updated_at": "2022-08-19 08:43:23"
+            },
+            {
+                "reinsurer_representative_id": "4",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "James",
+                "rep_last_name": "Acquah",
+                "rep_primary_phonenumber": "000000",
+                "rep_secondary_phonenumber": "1111111",
+                "rep_email": "acquah@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:32:00",
+                "updated_at": "2020-06-22 18:32:00"
+            },
+            {
+                "reinsurer_representative_id": "5",
+                "reinsurersreinsurer_id": "6",
+                "rep_first_name": "Esther",
+                "rep_last_name": "Kwakye",
+                "rep_primary_phonenumber": "222222",
+                "rep_secondary_phonenumber": "222222",
+                "rep_email": "estherk@mainstream-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:32:54",
+                "updated_at": "2020-06-22 18:32:54"
+            }
+        ]
     },
     {
         "reinsurer_id": "7",
@@ -102,7 +591,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 16:10:40",
             "updated_at": "2020-07-27 09:26:20"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "6",
+                "reinsurersreinsurer_id": "7",
+                "rep_first_name": "Awa",
+                "rep_last_name": "Harouna",
+                "rep_primary_phonenumber": "00\u00a0225 59 43 66 85",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "awa.harouna@nca-re.net",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:34:20",
+                "updated_at": "2020-06-22 18:34:20"
+            },
+            {
+                "reinsurer_representative_id": "7",
+                "reinsurersreinsurer_id": "7",
+                "rep_first_name": "Eugene",
+                "rep_last_name": "Assande",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "eugene.assande@nca-re.net",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:35:20",
+                "updated_at": "2020-06-22 18:35:20"
+            },
+            {
+                "reinsurer_representative_id": "8",
+                "reinsurersreinsurer_id": "7",
+                "rep_first_name": "Demola",
+                "rep_last_name": "Bukola",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "demola.bukola@nca-re.net",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:36:34",
+                "updated_at": "2020-06-22 18:36:34"
+            }
+        ]
     },
     {
         "reinsurer_id": "8",
@@ -123,7 +653,35 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 16:12:25",
             "updated_at": "2020-06-22 16:12:25"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "9",
+                "reinsurersreinsurer_id": "8",
+                "rep_first_name": "Ademola",
+                "rep_last_name": "Olowosuna",
+                "rep_primary_phonenumber": "(225) 59 82 50 23",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "aolowosuna@aveni-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:38:21",
+                "updated_at": "2020-06-22 18:38:21"
+            },
+            {
+                "reinsurer_representative_id": "10",
+                "reinsurersreinsurer_id": "8",
+                "rep_first_name": "Tajudeen",
+                "rep_last_name": "Salami",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "tsalami@aveni-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-22 18:39:13",
+                "updated_at": "2020-06-22 18:39:13"
+            }
+        ]
     },
     {
         "reinsurer_id": "9",
@@ -144,7 +702,74 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 14:32:56",
             "updated_at": "2020-07-27 21:47:18"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "22",
+                "reinsurersreinsurer_id": "9",
+                "rep_first_name": "Charles",
+                "rep_last_name": "Baba",
+                "rep_primary_phonenumber": "125454",
+                "rep_secondary_phonenumber": "121545",
+                "rep_email": "c.baba@regencynem.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:54:46"
+            },
+            {
+                "reinsurer_representative_id": "44",
+                "reinsurersreinsurer_id": "9",
+                "rep_first_name": "Lawrence",
+                "rep_last_name": "Omoya",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "l.omoya@regencynem.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-20 15:10:21",
+                "updated_at": "2020-07-20 15:10:21"
+            },
+            {
+                "reinsurer_representative_id": "45",
+                "reinsurersreinsurer_id": "9",
+                "rep_first_name": "Michael",
+                "rep_last_name": "Agbleke",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "m.agbleke@regencynem.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-20 15:14:45",
+                "updated_at": "2020-07-20 15:14:45"
+            },
+            {
+                "reinsurer_representative_id": "88",
+                "reinsurersreinsurer_id": "9",
+                "rep_first_name": "Charles",
+                "rep_last_name": "Baba",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "c.baba@regencynem.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:37:46",
+                "updated_at": "2021-04-01 13:37:46"
+            },
+            {
+                "reinsurer_representative_id": "89",
+                "reinsurersreinsurer_id": "9",
+                "rep_first_name": "Lawrence",
+                "rep_last_name": "Omoya",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "l.omoya@regencynem.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:39:25",
+                "updated_at": "2021-04-01 13:39:25"
+            }
+               
+        ]
     },
     {
         "reinsurer_id": "10",
@@ -186,7 +811,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 14:36:57",
             "updated_at": "2020-07-27 21:21:44"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "90",
+                "reinsurersreinsurer_id": "10",
+                "rep_first_name": "Kofi",
+                "rep_last_name": "Lartey",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "klartey@bestassurance.com.gh",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:40:53",
+                "updated_at": "2021-04-01 13:40:53"
+            },
+            {
+                "reinsurer_representative_id": "91",
+                "reinsurersreinsurer_id": "10",
+                "rep_first_name": "Charles",
+                "rep_last_name": "Adjei-Mensah",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "cadjei-mensah@bestassurance.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:42:01",
+                "updated_at": "2021-04-01 13:42:01"
+            },
+            {
+                "reinsurer_representative_id": "21",
+                "reinsurersreinsurer_id": "10",
+                "rep_first_name": "Charles",
+                "rep_last_name": "Adjei-Mensah",
+                "rep_primary_phonenumber": "455",
+                "rep_secondary_phonenumber": "11234",
+                "rep_email": "cadjei-mensah@bestassurance.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:53:49",
+                "updated_at": "2020-06-26 15:53:49"
+            }
+        ]
     },
     {
         "reinsurer_id": "12",
@@ -207,7 +873,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 14:42:45",
             "updated_at": "2020-06-26 14:42:45"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "19",
+                "reinsurersreinsurer_id": "12",
+                "rep_first_name": "Francis",
+                "rep_last_name": "Kumah",
+                "rep_primary_phonenumber": "45454",
+                "rep_secondary_phonenumber": "12445",
+                "rep_email": "francis.kumah@loyaltyinsurancegh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:52:17",
+                "updated_at": "2020-06-26 15:52:17"
+            }
+        ]
     },
     {
         "reinsurer_id": "13",
@@ -228,7 +909,35 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 14:47:36",
             "updated_at": "2020-06-26 14:47:36"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "145",
+                "reinsurersreinsurer_id": "13",
+                "rep_first_name": "Nana Yaw",
+                "rep_last_name": "Dwomoh",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "nyodwomoh@donewellinsurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-07-27 10:47:02",
+                "updated_at": "2022-07-27 10:47:02"
+            },
+            {
+                "reinsurer_representative_id": "18",
+                "reinsurersreinsurer_id": "13",
+                "rep_first_name": "Osman",
+                "rep_last_name": "Rashid",
+                "rep_primary_phonenumber": "457",
+                "rep_secondary_phonenumber": "787",
+                "rep_email": "reinsurance@donewellinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:49:55",
+                "updated_at": "2020-06-26 15:49:55"
+            }
+        ]
     },
     {
         "reinsurer_id": "14",
@@ -249,7 +958,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 14:59:51",
             "updated_at": "2020-06-26 15:00:18"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "17",
+                "reinsurersreinsurer_id": "14",
+                "rep_first_name": "Alex",
+                "rep_last_name": "Akrofi",
+                "rep_primary_phonenumber": "12",
+                "rep_secondary_phonenumber": "45",
+                "rep_email": "alex.darko@sunu-group.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:49:03",
+                "updated_at": "2020-06-26 15:49:03"
+            }
+        ]
     },
     {
         "reinsurer_id": "15",
@@ -270,7 +994,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 15:00:46",
             "updated_at": "2020-06-26 15:00:46"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "114",
+                "reinsurersreinsurer_id": "15",
+                "rep_first_name": "Magdalene",
+                "rep_last_name": "Addo",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "maddo@millenniuminsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 11:05:55",
+                "updated_at": "2022-01-14 11:05:55"
+            },
+            {
+                "reinsurer_representative_id": "115",
+                "reinsurersreinsurer_id": "15",
+                "rep_first_name": "Terry",
+                "rep_last_name": "Amartey",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "tamartey@millenniuminsurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 11:07:04",
+                "updated_at": "2022-01-14 11:07:04"
+            },
+            {
+                "reinsurer_representative_id": "16",
+                "reinsurersreinsurer_id": "15",
+                "rep_first_name": "Jessie",
+                "rep_last_name": "Afram",
+                "rep_primary_phonenumber": "46464343",
+                "rep_secondary_phonenumber": "46636466",
+                "rep_email": "jaffram@millenniuminsurancegh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:48:08",
+                "updated_at": "2020-07-20 15:42:04"
+            }
+        ]
     },
     {
         "reinsurer_id": "16",
@@ -291,7 +1056,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 15:01:58",
             "updated_at": "2020-06-26 15:01:58"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "126",
+                "reinsurersreinsurer_id": "16",
+                "rep_first_name": "Reinsurance",
+                "rep_last_name": "Team",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "riga@group-activa.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-22 09:29:58",
+                "updated_at": "2022-02-22 09:29:58"
+            }
+        ]
     },
     {
         "reinsurer_id": "17",
@@ -312,7 +1092,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 15:04:29",
             "updated_at": "2020-06-26 15:04:29"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "14",
+                "reinsurersreinsurer_id": "17",
+                "rep_first_name": "Patrick",
+                "rep_last_name": "Blankson",
+                "rep_primary_phonenumber": "0000000",
+                "rep_secondary_phonenumber": "000000",
+                "rep_email": "salisam53@gmail.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-26 15:43:32",
+                "updated_at": "2020-06-26 15:43:32"
+            }
+        ]
     },
     {
         "reinsurer_id": "18",
@@ -333,7 +1128,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-28 07:45:06",
             "updated_at": "2020-06-28 07:45:06"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "23",
+                "reinsurersreinsurer_id": "18",
+                "rep_first_name": "Zhang",
+                "rep_last_name": "Gy",
+                "rep_primary_phonenumber": "000011122",
+                "rep_secondary_phonenumber": "4521678",
+                "rep_email": "zhangyt@tpi.cntaiping.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-28 07:49:17",
+                "updated_at": "2020-06-28 07:49:17"
+            }
+        ]
     },
     {
         "reinsurer_id": "19",
@@ -354,7 +1164,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-28 09:05:38",
             "updated_at": "2020-06-28 09:05:38"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "24",
+                "reinsurersreinsurer_id": "19",
+                "rep_first_name": "Francis",
+                "rep_last_name": "Antwi",
+                "rep_primary_phonenumber": "234456",
+                "rep_secondary_phonenumber": "345667",
+                "rep_email": "francis.antwi@uicghana.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-28 09:06:56",
+                "updated_at": "2020-06-28 09:06:56"
+            }
+        ]
     },
     {
         "reinsurer_id": "20",
@@ -375,7 +1200,88 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-29 13:32:50",
             "updated_at": "2020-08-06 09:59:02"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "26",
+                "reinsurersreinsurer_id": "20",
+                "rep_first_name": "Ann-Marian",
+                "rep_last_name": "Owusu",
+                "rep_primary_phonenumber": "45677",
+                "rep_secondary_phonenumber": "345677",
+                "rep_email": "abrobbey@starassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-29 13:35:32",
+                "updated_at": "2020-06-29 13:35:32"
+            },
+            {
+                "reinsurer_representative_id": "132",
+                "reinsurersreinsurer_id": "20",
+                "rep_first_name": "Vasty",
+                "rep_last_name": "Asante",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "vasante@starassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:06:02",
+                "updated_at": "2022-03-14 10:06:02"
+            },
+            {
+                "reinsurer_representative_id": "133",
+                "reinsurersreinsurer_id": "20",
+                "rep_first_name": "Solomon",
+                "rep_last_name": "Aboagye",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "saboagye@starassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:07:16",
+                "updated_at": "2022-03-14 10:07:16"
+            },
+            {
+                "reinsurer_representative_id": "134",
+                "reinsurersreinsurer_id": "20",
+                "rep_first_name": "Esther",
+                "rep_last_name": "Opoku",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "eopoku@starassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:07:49",
+                "updated_at": "2022-03-14 10:07:49"
+            },
+            {
+                "reinsurer_representative_id": "135",
+                "reinsurersreinsurer_id": "20",
+                "rep_first_name": "Corporate",
+                "rep_last_name": "Unit",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "corporateunit@starassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:10:01",
+                "updated_at": "2022-03-14 10:10:01"
+            },
+            {
+                "reinsurer_representative_id": "136",
+                "reinsurersreinsurer_id": "20",
+                "rep_first_name": "Farida",
+                "rep_last_name": "Assam",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "fassam@starassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:11:23",
+                "updated_at": "2022-03-14 10:11:23"
+            }
+
+        ]
     },
     {
         "reinsurer_id": "21",
@@ -396,7 +1302,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-29 13:33:07",
             "updated_at": "2020-07-03 13:56:06"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "25",
+                "reinsurersreinsurer_id": "21",
+                "rep_first_name": "Edem",
+                "rep_last_name": "Ahiagbedeh",
+                "rep_primary_phonenumber": "67895",
+                "rep_secondary_phonenumber": "345678",
+                "rep_email": "reinsurance@glicogeneral.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-29 13:34:10",
+                "updated_at": "2020-06-29 13:34:10"
+            }
+        ]
     },
     {
         "reinsurer_id": "22",
@@ -417,7 +1338,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-30 15:41:51",
             "updated_at": "2022-08-08 10:03:40"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "84",
+                "reinsurersreinsurer_id": "22",
+                "rep_first_name": "Selorm",
+                "rep_last_name": "Domeh",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "selorm.domeh@sahaminsurance.com",
+                "position": "Underwriter",
+                "delete_status": "DELETED",
+                "created_at": "2021-04-01 13:29:55",
+                "updated_at": "2022-08-19 08:34:59"
+            },
+            {
+                "reinsurer_representative_id": "146",
+                "reinsurersreinsurer_id": "22",
+                "rep_first_name": "Sandra",
+                "rep_last_name": "Fiagbedzi",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "sandra.fiagbedzi@gh.sanlam.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-08-19 08:37:17",
+                "updated_at": "2022-08-19 08:37:17"
+            },
+            {
+                "reinsurer_representative_id": "147",
+                "reinsurersreinsurer_id": "22",
+                "rep_first_name": "Audrey",
+                "rep_last_name": "Ankrah",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "audrey.ankrah@gh.sanlam.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-08-19 08:38:34",
+                "updated_at": "2022-08-19 08:38:34"
+            }
+        ]
     },
     {
         "reinsurer_id": "25",
@@ -438,7 +1400,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-07 11:17:32",
             "updated_at": "2020-08-07 11:17:32"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "53",
+                "reinsurersreinsurer_id": "25",
+                "rep_first_name": "Tigist",
+                "rep_last_name": "Shiferaw",
+                "rep_primary_phonenumber": "251973049409",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "tshiferaw@zep-re.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-07 11:19:18",
+                "updated_at": "2020-08-07 11:19:18"
+            },
+            {
+                "reinsurer_representative_id": "54",
+                "reinsurersreinsurer_id": "25",
+                "rep_first_name": "N\u2019guessan",
+                "rep_last_name": "Isidore Koffi",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "ikoffi@zep-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-07 11:20:29",
+                "updated_at": "2020-08-07 11:20:29"
+            },
+            {
+                "reinsurer_representative_id": "55",
+                "reinsurersreinsurer_id": "25",
+                "rep_first_name": "Charles",
+                "rep_last_name": "Obae",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "cobae@zep-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-07 11:21:14",
+                "updated_at": "2020-08-07 11:21:14"
+            }
+        ]
     },
     {
         "reinsurer_id": "26",
@@ -459,7 +1462,61 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-11 09:50:01",
             "updated_at": "2022-01-26 13:54:10"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "60",
+                "reinsurersreinsurer_id": "26",
+                "rep_first_name": "Nelson",
+                "rep_last_name": "Opare",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "Opare.Nelson@coronationinsurance.com.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-13 16:10:34",
+                "updated_at": "2020-08-13 16:10:34"
+            },
+            {
+                "reinsurer_representative_id": "118",
+                "reinsurersreinsurer_id": "26",
+                "rep_first_name": "Abayomi",
+                "rep_last_name": "Ogunshola",
+                "rep_primary_phonenumber": "233233044602",
+                "rep_secondary_phonenumber": "233233044602",
+                "rep_email": "Abayomi.Ogunshola@coronationinsurance.com.ng",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-26 14:31:45",
+                "updated_at": "2022-01-26 14:31:45"
+            },
+            {
+                "reinsurer_representative_id": "150",
+                "reinsurersreinsurer_id": "26",
+                "rep_first_name": "Bismark",
+                "rep_last_name": "Ahia-Nettey",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "Bismark.Ahia-Nettey@coronationinsurance.com.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-08-19 08:47:20",
+                "updated_at": "2022-08-19 08:47:20"
+            },
+            {
+                "reinsurer_representative_id": "151",
+                "reinsurersreinsurer_id": "26",
+                "rep_first_name": "Emmanuel",
+                "rep_last_name": "Abagna",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "Emmanuel.Abagna@coronationinsurance.com.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-08-19 08:48:49",
+                "updated_at": "2022-08-19 08:48:49"
+            }
+        ]
     },
     {
         "reinsurer_id": "28",
@@ -480,7 +1537,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-27 12:07:33",
             "updated_at": "2020-08-27 12:07:33"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "63",
+                "reinsurersreinsurer_id": "28",
+                "rep_first_name": "Josephine",
+                "rep_last_name": "Quaye",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "josephine.quaye@nsiainsurance.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-27 12:34:07",
+                "updated_at": "2020-08-27 12:34:07"
+            },
+            {
+                "reinsurer_representative_id": "111",
+                "reinsurersreinsurer_id": "28",
+                "rep_first_name": "Norrender",
+                "rep_last_name": "Debrah",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "norrender.debrah@nsiainsurance.com.gh",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 11:01:38",
+                "updated_at": "2022-01-14 11:01:38"
+            },
+            {
+                "reinsurer_representative_id": "112",
+                "reinsurersreinsurer_id": "28",
+                "rep_first_name": "Felix",
+                "rep_last_name": "Kina",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "felix.kina@nsiainsurance.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 11:02:16",
+                "updated_at": "2022-01-14 11:02:16"
+            }
+        ]
     },
     {
         "reinsurer_id": "29",
@@ -501,7 +1599,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-27 12:23:30",
             "updated_at": "2020-08-27 12:23:30"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "62",
+                "reinsurersreinsurer_id": "29",
+                "rep_first_name": "Mark Rudy",
+                "rep_last_name": "Lekey",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "mlekey@phoenixinsurancegh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-27 12:29:40",
+                "updated_at": "2021-08-27 14:21:12"
+            },
+            {
+                "reinsurer_representative_id": "109",
+                "reinsurersreinsurer_id": "29",
+                "rep_first_name": "Phoebe",
+                "rep_last_name": "Asare",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "pasare@phoenixinsurancegh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 10:57:22",
+                "updated_at": "2022-01-14 10:57:22"
+            },
+            {
+                "reinsurer_representative_id": "110",
+                "reinsurersreinsurer_id": "29",
+                "rep_first_name": "Bernice",
+                "rep_last_name": "Gabby",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "bgabby@phoenixinsurancegh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 10:58:14",
+                "updated_at": "2022-01-14 10:58:14"
+            }
+        ]
     },
     {
         "reinsurer_id": "30",
@@ -522,7 +1661,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-28 09:22:56",
             "updated_at": "2020-08-28 09:22:56"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "64",
+                "reinsurersreinsurer_id": "30",
+                "rep_first_name": "Kofi",
+                "rep_last_name": "Asuo",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "kasuo@vanguardassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-28 09:23:58",
+                "updated_at": "2020-08-28 09:23:58"
+            },
+            {
+                "reinsurer_representative_id": "107",
+                "reinsurersreinsurer_id": "30",
+                "rep_first_name": "Samuel",
+                "rep_last_name": "Azong",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "sazong@vanguardassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 10:54:34",
+                "updated_at": "2022-01-14 10:54:34"
+            },
+            {
+                "reinsurer_representative_id": "108",
+                "reinsurersreinsurer_id": "30",
+                "rep_first_name": "David",
+                "rep_last_name": "Avor",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "mdavor@vanguardassurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-14 10:55:47",
+                "updated_at": "2022-01-14 10:55:47"
+            }
+        ]
     },
     {
         "reinsurer_id": "31",
@@ -543,7 +1723,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-10-09 13:19:54",
             "updated_at": "2020-10-09 13:19:54"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "65",
+                "reinsurersreinsurer_id": "31",
+                "rep_first_name": "Eugene",
+                "rep_last_name": "Ametepe",
+                "rep_primary_phonenumber": "233501474079",
+                "rep_secondary_phonenumber": "233501474079",
+                "rep_email": "eametepe@bedrockinsurancegh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-10-09 13:21:22",
+                "updated_at": "2020-10-09 13:21:22"
+            }
+        ]
     },
     {
         "reinsurer_id": "32",
@@ -564,7 +1759,61 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-11-11 09:33:37",
             "updated_at": "2020-11-11 09:33:37"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "66",
+                "reinsurersreinsurer_id": "32",
+                "rep_first_name": "Esi Sena",
+                "rep_last_name": "Agbolosu",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "Esi.Agbolosu@enterprisegroup.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-11-11 09:52:49",
+                "updated_at": "2020-11-11 09:52:49"
+            },
+            {
+                "reinsurer_representative_id": "85",
+                "reinsurersreinsurer_id": "32",
+                "rep_first_name": "Kevin",
+                "rep_last_name": "Frempong-Boakye",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "Kevin.Frempong-Boakye@enterprisegroup.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:31:59",
+                "updated_at": "2021-04-01 13:31:59"
+            },
+            {
+                "reinsurer_representative_id": "86",
+                "reinsurersreinsurer_id": "32",
+                "rep_first_name": "Afua",
+                "rep_last_name": "Owusu",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "Afua.Owusu@enterprisegroup.com.gh",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:33:21",
+                "updated_at": "2021-04-01 13:33:21"
+            },
+            {
+                "reinsurer_representative_id": "87",
+                "reinsurersreinsurer_id": "32",
+                "rep_first_name": "Ellen",
+                "rep_last_name": "Boatemaa",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "ellen.boatemaa@enteprisegroup.com.gh",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:34:36",
+                "updated_at": "2021-04-01 13:34:36"
+            }
+        ]
     },
     {
         "reinsurer_id": "33",
@@ -585,7 +1834,61 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-12-01 10:12:03",
             "updated_at": "2020-12-01 10:12:03"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "159",
+                "reinsurersreinsurer_id": "33",
+                "rep_first_name": "Michael",
+                "rep_last_name": "Agbleke",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "michael.agbleke@sereneinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:55:51",
+                "updated_at": "2022-09-12 09:55:51"
+            },
+            {
+                "reinsurer_representative_id": "68",
+                "reinsurersreinsurer_id": "33",
+                "rep_first_name": "Maxwell",
+                "rep_last_name": "Marfo",
+                "rep_primary_phonenumber": "233208567143",
+                "rep_secondary_phonenumber": "233208567143",
+                "rep_email": "maxwell.marfo@sereneinsurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-12-01 10:13:21",
+                "updated_at": "2020-12-01 10:13:21"
+            },
+            {
+                "reinsurer_representative_id": "69",
+                "reinsurersreinsurer_id": "33",
+                "rep_first_name": "Patience",
+                "rep_last_name": "Ahiataku",
+                "rep_primary_phonenumber": "2330502410520",
+                "rep_secondary_phonenumber": "2330502410520",
+                "rep_email": "patience.ahiataku@sereneinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-12-01 10:14:32",
+                "updated_at": "2020-12-01 10:14:32"
+            },
+            {
+                "reinsurer_representative_id": "82",
+                "reinsurersreinsurer_id": "33",
+                "rep_first_name": "Kingsley",
+                "rep_last_name": "Akuokko-Boakye",
+                "rep_primary_phonenumber": "233000000000",
+                "rep_secondary_phonenumber": "233000000000",
+                "rep_email": "kingsley.akuoko-boakye@sereneinsurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 13:26:59",
+                "updated_at": "2021-04-01 13:26:59"
+            }
+        ]
     },
     {
         "reinsurer_id": "34",
@@ -606,7 +1909,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-01-08 13:41:08",
             "updated_at": "2021-10-18 16:16:12"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "73",
+                "reinsurersreinsurer_id": "34",
+                "rep_first_name": "Kehinde",
+                "rep_last_name": "Omotayo",
+                "rep_primary_phonenumber": "2348082389855",
+                "rep_secondary_phonenumber": "2349027193631",
+                "rep_email": "kehinde.omotayo@africa-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-01-08 13:42:25",
+                "updated_at": "2021-01-08 13:42:25"
+            }
+        ]
     },
     {
         "reinsurer_id": "35",
@@ -627,7 +1945,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-01-22 13:48:21",
             "updated_at": "2021-01-22 13:48:21"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "74",
+                "reinsurersreinsurer_id": "35",
+                "rep_first_name": "Longin",
+                "rep_last_name": "Nterere",
+                "rep_primary_phonenumber": "Na",
+                "rep_secondary_phonenumber": "Na",
+                "rep_email": "nterere@kenyare.co.ke",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-01-22 13:49:25",
+                "updated_at": "2021-01-22 13:49:25"
+            }
+        ]
     },
     {
         "reinsurer_id": "36",
@@ -648,7 +1981,75 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-12 11:35:32",
             "updated_at": "2021-03-12 11:35:32"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "75",
+                "reinsurersreinsurer_id": "36",
+                "rep_first_name": "Tairat",
+                "rep_last_name": "Onibudo",
+                "rep_primary_phonenumber": "+234802542031",
+                "rep_secondary_phonenumber": "+234 1 4622779/80",
+                "rep_email": "tonibudo@continental-re.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-03-12 11:37:25",
+                "updated_at": "2021-03-12 11:37:25"
+            },
+            {
+                "reinsurer_representative_id": "76",
+                "reinsurersreinsurer_id": "36",
+                "rep_first_name": "Emmanuel",
+                "rep_last_name": "Ajibade",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "eajibade@continental-re.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-03-12 11:38:49",
+                "updated_at": "2021-03-12 11:38:49"
+            },
+            {
+                "reinsurer_representative_id": "152",
+                "reinsurersreinsurer_id": "36",
+                "rep_first_name": "Elo-Oghene",
+                "rep_last_name": "Enebe",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "eenebe@continental-re.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:42:33",
+                "updated_at": "2022-09-12 09:42:33"
+            },
+            {
+                "reinsurer_representative_id": "157",
+                "reinsurersreinsurer_id": "36",
+                "rep_first_name": "Rachael",
+                "rep_last_name": "Adeboye",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "radeboye@continental-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:51:05",
+                "updated_at": "2022-09-12 09:51:05"
+            },
+            {
+                "reinsurer_representative_id": "158",
+                "reinsurersreinsurer_id": "36",
+                "rep_first_name": "Lagos Fac",
+                "rep_last_name": "UW Team",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "CReLagosUnderwritingTeam@continental-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:52:42",
+                "updated_at": "2022-09-12 09:52:42"
+            }
+
+        ]
     },
     {
         "reinsurer_id": "37",
@@ -669,7 +2070,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-17 10:42:15",
             "updated_at": "2021-03-17 10:42:15"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "77",
+                "reinsurersreinsurer_id": "37",
+                "rep_first_name": "Peter",
+                "rep_last_name": "Ajayi-Isuku",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "paisuku@cica-re.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-03-17 10:54:09",
+                "updated_at": "2021-03-17 10:54:09"
+            }
+        ]
     },
     {
         "reinsurer_id": "39",
@@ -690,7 +2106,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-17 10:46:56",
             "updated_at": "2021-03-17 10:46:56"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "92",
+                "reinsurersreinsurer_id": "39",
+                "rep_first_name": "Sam1",
+                "rep_last_name": "Sal1",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "samsali@visalre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-06 10:16:52",
+                "updated_at": "2021-04-06 10:16:52"
+            }
+        ]
     },
     {
         "reinsurer_id": "40",
@@ -711,7 +2142,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-17 10:50:23",
             "updated_at": "2021-03-17 10:50:23"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "93",
+                "reinsurersreinsurer_id": "40",
+                "rep_first_name": "Cole",
+                "rep_last_name": "Sali",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "samsali@visalre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-06 10:22:13",
+                "updated_at": "2021-04-06 10:22:13"
+            }
+        ]
     },
     {
         "reinsurer_id": "41",
@@ -732,7 +2178,113 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-01 09:32:21",
             "updated_at": "2021-04-01 09:32:21"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "153",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Jecinta",
+                "rep_last_name": "Enwereji",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "jecinta.enwereji@fbsre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:45:49",
+                "updated_at": "2022-09-12 09:45:49"
+            },
+            {
+                "reinsurer_representative_id": "154",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Olutobi",
+                "rep_last_name": "Osanaiye",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "olutobi.osanaiye@fbsre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:46:44",
+                "updated_at": "2022-09-12 09:46:44"
+            },
+            {
+                "reinsurer_representative_id": "155",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Habibu",
+                "rep_last_name": "Bello",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "habibu.bello@fbsre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:47:24",
+                "updated_at": "2022-09-12 09:47:24"
+            },
+            {
+                "reinsurer_representative_id": "156",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Rosemary",
+                "rep_last_name": "Nosike",
+                "rep_primary_phonenumber": ".",
+                "rep_secondary_phonenumber": ".",
+                "rep_email": "rosemary.nosike@fbre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-09-12 09:48:14",
+                "updated_at": "2022-09-12 09:48:14"
+            },
+            {
+                "reinsurer_representative_id": "78",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Shola",
+                "rep_last_name": "Ajibade",
+                "rep_primary_phonenumber": "2348181965000",
+                "rep_secondary_phonenumber": "2348029562878",
+                "rep_email": "shola.ajibade@fbsre.ng",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 09:34:04",
+                "updated_at": "2021-04-01 09:34:04"
+            },
+            {
+                "reinsurer_representative_id": "79",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Gbolahan",
+                "rep_last_name": "Toru",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "gbolahan.toru@fbsre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 09:35:09",
+                "updated_at": "2021-04-01 09:35:09"
+            },
+            {
+                "reinsurer_representative_id": "80",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Oluwatayo",
+                "rep_last_name": "Morebise",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "oluwatayo.morebise@fbsre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 09:37:43",
+                "updated_at": "2021-04-01 09:37:43"
+            },
+            {
+                "reinsurer_representative_id": "81",
+                "reinsurersreinsurer_id": "41",
+                "rep_first_name": "Habibu",
+                "rep_last_name": "Bello",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "habibu.bello@fbsre.ng",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-01 09:38:31",
+                "updated_at": "2021-04-01 09:38:31"
+            }
+        ]
     },
     {
         "reinsurer_id": "42",
@@ -753,7 +2305,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-06 10:26:11",
             "updated_at": "2021-04-06 10:26:11"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "94",
+                "reinsurersreinsurer_id": "42",
+                "rep_first_name": "Sam",
+                "rep_last_name": "Sali",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "samsali@visalre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-06 10:27:01",
+                "updated_at": "2021-04-06 10:27:01"
+            }
+        ]
     },
     {
         "reinsurer_id": "43",
@@ -774,7 +2341,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-06 10:51:41",
             "updated_at": "2021-04-06 10:51:41"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "95",
+                "reinsurersreinsurer_id": "43",
+                "rep_first_name": "Sam",
+                "rep_last_name": "Sal1",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "samsali@visalre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-06 10:53:43",
+                "updated_at": "2021-04-06 10:53:43"
+            }
+        ]
     },
     {
         "reinsurer_id": "44",
@@ -795,7 +2377,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-06 11:50:56",
             "updated_at": "2021-04-06 11:53:56"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "96",
+                "reinsurersreinsurer_id": "44",
+                "rep_first_name": "Sam1",
+                "rep_last_name": "Sal1",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "samsali@visalre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-04-06 11:51:37",
+                "updated_at": "2021-04-06 11:51:37"
+            }
+        ]
     },
     {
         "reinsurer_id": "45",
@@ -816,7 +2413,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-05-04 14:47:29",
             "updated_at": "2021-05-04 14:47:29"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "97",
+                "reinsurersreinsurer_id": "45",
+                "rep_first_name": "reinsurer",
+                "rep_last_name": "oman",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "reinsurer@omanre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-05-04 14:48:01",
+                "updated_at": "2021-05-04 14:48:01"
+            }
+        ]
     },
     {
         "reinsurer_id": "46",
@@ -837,7 +2449,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-05-04 14:49:49",
             "updated_at": "2021-05-04 14:49:49"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "98",
+                "reinsurersreinsurer_id": "46",
+                "rep_first_name": "some",
+                "rep_last_name": "body",
+                "rep_primary_phonenumber": "na",
+                "rep_secondary_phonenumber": "na",
+                "rep_email": "somereinsurer@gmail.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-05-04 14:51:23",
+                "updated_at": "2021-05-04 14:51:23"
+            }
+        ]
     },
     {
         "reinsurer_id": "47",
@@ -858,7 +2485,74 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-06-07 16:11:59",
             "updated_at": "2021-06-07 16:11:59"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "102",
+                "reinsurersreinsurer_id": "47",
+                "rep_first_name": "Eric",
+                "rep_last_name": "Sarfo",
+                "rep_primary_phonenumber": "233265375693",
+                "rep_secondary_phonenumber": "233244117677",
+                "rep_email": "eric.sarfo@ghanaunionassurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-06-07 16:13:31",
+                "updated_at": "2021-06-07 16:13:31"
+            },
+            {
+                "reinsurer_representative_id": "137",
+                "reinsurersreinsurer_id": "47",
+                "rep_first_name": "Abena",
+                "rep_last_name": "Donkor",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "Abena.Donkor@ghanaunionassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:14:15",
+                "updated_at": "2022-03-14 10:14:15"
+            },
+            {
+                "reinsurer_representative_id": "138",
+                "reinsurersreinsurer_id": "47",
+                "rep_first_name": "Eunice",
+                "rep_last_name": "Antwi",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "eunice.antwi@ghanaunionassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:15:24",
+                "updated_at": "2022-03-14 10:15:24"
+            },
+            {
+                "reinsurer_representative_id": "139",
+                "reinsurersreinsurer_id": "47",
+                "rep_first_name": "Anana",
+                "rep_last_name": "Binfoh",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "anane.binfoh@ghanaunionassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:16:20",
+                "updated_at": "2022-03-14 10:16:20"
+            },
+            {
+                "reinsurer_representative_id": "140",
+                "reinsurersreinsurer_id": "47",
+                "rep_first_name": "Kwantwi",
+                "rep_last_name": "Binfoh",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "kwantwi.binfoh@ghanaunionassurance.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:17:45",
+                "updated_at": "2022-03-14 10:17:45"
+            }
+        ]
     },
     {
         "reinsurer_id": "48",
@@ -879,7 +2573,48 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-09-28 16:05:15",
             "updated_at": "2022-03-15 14:50:00"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "103",
+                "reinsurersreinsurer_id": "48",
+                "rep_first_name": "Paa Kwesi",
+                "rep_last_name": "Koranteng",
+                "rep_primary_phonenumber": "233541264615",
+                "rep_secondary_phonenumber": "233541264615",
+                "rep_email": "pkkoranteng@sic-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-09-28 17:05:09",
+                "updated_at": "2021-09-28 17:05:09"
+            },
+            {
+                "reinsurer_representative_id": "130",
+                "reinsurersreinsurer_id": "48",
+                "rep_first_name": "Clement",
+                "rep_last_name": "Obeng",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "caobeng@sic-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:03:18",
+                "updated_at": "2022-03-14 10:03:18"
+            },
+            {
+                "reinsurer_representative_id": "131",
+                "reinsurersreinsurer_id": "48",
+                "rep_first_name": "Reinsurance",
+                "rep_last_name": "Dept",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "ReinsuranceDepartment@sic-gh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:04:25",
+                "updated_at": "2022-03-14 10:04:25"
+            }
+        ]
     },
     {
         "reinsurer_id": "49",
@@ -900,7 +2635,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-10-11 10:38:18",
             "updated_at": "2021-10-11 10:38:18"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "104",
+                "reinsurersreinsurer_id": "49",
+                "rep_first_name": "Sam",
+                "rep_last_name": "Sali",
+                "rep_primary_phonenumber": "233265375693",
+                "rep_secondary_phonenumber": "233265375693",
+                "rep_email": "samsali@visalre.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-10-11 10:39:19",
+                "updated_at": "2021-10-11 10:39:19"
+            }
+        ]
     },
     {
         "reinsurer_id": "51",
@@ -921,7 +2671,75 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-01-19 14:55:28",
             "updated_at": "2022-01-19 14:59:10"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "116",
+                "reinsurersreinsurer_id": "51",
+                "rep_first_name": "Mary-Ann",
+                "rep_last_name": "Ose-Bonsu",
+                "rep_primary_phonenumber": "0261934274",
+                "rep_secondary_phonenumber": "0261934274",
+                "rep_email": "m.oseibonsu@qicghana.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-19 14:58:20",
+                "updated_at": "2022-01-19 14:58:20"
+            },
+            {
+                "reinsurer_representative_id": "122",
+                "reinsurersreinsurer_id": "51",
+                "rep_first_name": "Cecil",
+                "rep_last_name": "Ribeiro",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "c.ribeiro@qicghana.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-07 09:38:59",
+                "updated_at": "2022-02-07 09:38:59"
+            },
+            {
+                "reinsurer_representative_id": "123",
+                "reinsurersreinsurer_id": "51",
+                "rep_first_name": "Mabel",
+                "rep_last_name": "Adjei Mensah",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "m.mensah@qicghana.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-07 09:40:10",
+                "updated_at": "2022-02-07 09:40:10"
+            },
+            {
+                "reinsurer_representative_id": "124",
+                "reinsurersreinsurer_id": "51",
+                "rep_first_name": "Lydia",
+                "rep_last_name": "Frempong",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "l.frempong@qicghana.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-07 09:41:19",
+                "updated_at": "2022-02-07 09:41:19"
+            },
+            {
+                "reinsurer_representative_id": "125",
+                "reinsurersreinsurer_id": "51",
+                "rep_first_name": "Christian",
+                "rep_last_name": "Kosimbo",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "c.kosimbo@qicghana.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-07 09:42:26",
+                "updated_at": "2022-02-07 09:42:26"
+            }
+
+        ]
     },
     {
         "reinsurer_id": "52",
@@ -942,7 +2760,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-01-25 08:50:31",
             "updated_at": "2022-01-25 08:50:31"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "117",
+                "reinsurersreinsurer_id": "52",
+                "rep_first_name": "Netsanet",
+                "rep_last_name": "Tadesse",
+                "rep_primary_phonenumber": "251911304222",
+                "rep_secondary_phonenumber": "251911304222",
+                "rep_email": "underwriting@ethiopianre.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-01-25 08:51:56",
+                "updated_at": "2022-01-25 08:51:56"
+            }
+        ]
     },
     {
         "reinsurer_id": "53",
@@ -963,7 +2796,61 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-02-04 10:04:15",
             "updated_at": "2022-02-04 10:04:15"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "121",
+                "reinsurersreinsurer_id": "53",
+                "rep_first_name": "Kate",
+                "rep_last_name": "Carr",
+                "rep_primary_phonenumber": "0501087234",
+                "rep_secondary_phonenumber": "0501087234",
+                "rep_email": "kate.carr@providentgh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-02-04 10:07:15",
+                "updated_at": "2022-02-04 10:07:15"
+            },
+            {
+                "reinsurer_representative_id": "127",
+                "reinsurersreinsurer_id": "53",
+                "rep_first_name": "Ellen",
+                "rep_last_name": "Amihere",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "Elle.Amihere@providentgh.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 09:59:17",
+                "updated_at": "2022-03-14 09:59:17"
+            },
+            {
+                "reinsurer_representative_id": "128",
+                "reinsurersreinsurer_id": "53",
+                "rep_first_name": "Anthony",
+                "rep_last_name": "Adu",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "Anthony.Adu@providentgh.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:01:01",
+                "updated_at": "2022-03-14 10:01:01"
+            },
+            {
+                "reinsurer_representative_id": "129",
+                "reinsurersreinsurer_id": "53",
+                "rep_first_name": "Kofi",
+                "rep_last_name": "Danso",
+                "rep_primary_phonenumber": "NA",
+                "rep_secondary_phonenumber": "NA",
+                "rep_email": "Kofi.Danso@providentgh.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-03-14 10:01:48",
+                "updated_at": "2022-03-14 10:01:48"
+            }
+        ]
     },
     {
         "reinsurer_id": "54",
@@ -984,6 +2871,34 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-07-22 14:42:07",
             "updated_at": "2022-07-22 14:42:07"
-        }
+        },
+        "associates":[
+            {
+                "reinsurer_representative_id": "143",
+                "reinsurersreinsurer_id": "54",
+                "rep_first_name": "Genevieve",
+                "rep_last_name": "Ahinful",
+                "rep_primary_phonenumber": "233265375693",
+                "rep_secondary_phonenumber": "233265375693",
+                "rep_email": "Genevieve.Ahinful@asr-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-07-22 14:43:03",
+                "updated_at": "2022-07-22 14:43:03"
+            },
+            {
+                "reinsurer_representative_id": "144",
+                "reinsurersreinsurer_id": "54",
+                "rep_first_name": "Martin",
+                "rep_last_name": "Boreham",
+                "rep_primary_phonenumber": "233265375693",
+                "rep_secondary_phonenumber": "233265375693",
+                "rep_email": "martin.boreham@asr-re.com",
+                "position": "Underwriter",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-07-22 14:43:54",
+                "updated_at": "2022-07-22 14:43:54"
+            }
+        ]
     }
 ]
