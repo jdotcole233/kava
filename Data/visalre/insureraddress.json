@@ -11,17 +11,6 @@
         "updated_at": "2020-07-16 12:18:31"
     },
     {
-        "insurer_address_id": "2",
-        "insurersinsurer_id": "2",
-        "suburb": "Spintex",
-        "street": "21st street",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-21 08:59:59",
-        "updated_at": "2020-08-06 17:53:04"
-    },
-    {
         "insurer_address_id": "3",
         "insurersinsurer_id": "3",
         "suburb": "Adabraka",
@@ -66,17 +55,6 @@
         "updated_at": "2020-08-11 09:37:05"
     },
     {
-        "insurer_address_id": "7",
-        "insurersinsurer_id": "7",
-        "suburb": "Airport",
-        "street": "sgfaafa",
-        "region": "Gretaer Accraa",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-26 10:16:58",
-        "updated_at": "2020-07-06 19:14:35"
-    },
-    {
         "insurer_address_id": "8",
         "insurersinsurer_id": "8",
         "suburb": "Osu",
@@ -108,17 +86,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-06-30 15:41:30",
         "updated_at": "2022-08-10 11:25:57"
-    },
-    {
-        "insurer_address_id": "11",
-        "insurersinsurer_id": "11",
-        "suburb": "accra",
-        "street": "accra",
-        "region": "accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-07-01 11:12:04",
-        "updated_at": "2020-08-06 17:53:56"
     },
     {
         "insurer_address_id": "12",
@@ -163,17 +130,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-07-28 09:33:47",
         "updated_at": "2020-07-28 09:33:47"
-    },
-    {
-        "insurer_address_id": "16",
-        "insurersinsurer_id": "16",
-        "suburb": "Test Area",
-        "street": "1st floor test",
-        "region": "Test",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-07-29 11:47:46",
-        "updated_at": "2020-08-02 22:36:46"
     },
     {
         "insurer_address_id": "17",
@@ -328,28 +284,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-07-09 09:43:20",
         "updated_at": "2021-07-09 09:43:20"
-    },
-    {
-        "insurer_address_id": "31",
-        "insurersinsurer_id": "31",
-        "suburb": "Na",
-        "street": "Danso Street",
-        "region": "Na",
-        "country": "Tanzania, United Republic Of",
-        "delete_status": "DELETED",
-        "created_at": "2021-07-23 11:14:05",
-        "updated_at": "2021-07-23 11:18:59"
-    },
-    {
-        "insurer_address_id": "32",
-        "insurersinsurer_id": "32",
-        "suburb": "Osu",
-        "street": "Ring Road",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2021-09-28 16:20:02",
-        "updated_at": "2021-10-04 10:23:23"
     },
     {
         "insurer_address_id": "33",

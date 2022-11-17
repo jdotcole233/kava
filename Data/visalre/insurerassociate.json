@@ -1,18 +1,5 @@
 [
     {
-        "insurer_associate_id": "1",
-        "insurersinsurer_id": "1",
-        "assoc_first_name": "Emmanuel",
-        "assoc_last_name": "Baidoo",
-        "assoc_primary_phonenumber": "0564111241",
-        "assoc_secondary_phonenumber": "05063322145",
-        "assoc_email": "emma@dev.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-20 01:12:09",
-        "updated_at": "2020-06-20 09:29:16"
-    },
-    {
         "insurer_associate_id": "2",
         "insurersinsurer_id": "1",
         "assoc_first_name": "David",
@@ -26,19 +13,6 @@
         "updated_at": "2020-09-17 10:13:23"
     },
     {
-        "insurer_associate_id": "3",
-        "insurersinsurer_id": "2",
-        "assoc_first_name": "John",
-        "assoc_last_name": "Marcovich",
-        "assoc_primary_phonenumber": "0503848404",
-        "assoc_secondary_phonenumber": "0503884486",
-        "assoc_email": "jdotcole233@gmail.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-21 10:59:32",
-        "updated_at": "2020-08-06 17:53:04"
-    },
-    {
         "insurer_associate_id": "4",
         "insurersinsurer_id": "6",
         "assoc_first_name": "Tom",
@@ -50,19 +24,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-06-24 17:20:25",
         "updated_at": "2020-06-24 18:37:48"
-    },
-    {
-        "insurer_associate_id": "5",
-        "insurersinsurer_id": "7",
-        "assoc_first_name": "Mubarik",
-        "assoc_last_name": "Ibrahim",
-        "assoc_primary_phonenumber": "0133423434",
-        "assoc_secondary_phonenumber": "124444",
-        "assoc_email": "ayindemubarik@yahoo.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-26 10:18:32",
-        "updated_at": "2020-07-06 19:14:35"
     },
     {
         "insurer_associate_id": "6",
@@ -128,19 +89,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-08-07 09:08:34",
         "updated_at": "2022-01-26 14:28:20"
-    },
-    {
-        "insurer_associate_id": "11",
-        "insurersinsurer_id": "18",
-        "assoc_first_name": "Sam",
-        "assoc_last_name": "Norman",
-        "assoc_primary_phonenumber": "NA",
-        "assoc_secondary_phonenumber": "NA",
-        "assoc_email": "samsali@visalre.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2020-08-14 11:23:16",
-        "updated_at": "2020-08-14 11:23:47"
     },
     {
         "insurer_associate_id": "12",
@@ -219,32 +167,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-07-09 09:45:51",
         "updated_at": "2021-07-09 09:45:51"
-    },
-    {
-        "insurer_associate_id": "18",
-        "insurersinsurer_id": "31",
-        "assoc_first_name": "Francis",
-        "assoc_last_name": "Opoku",
-        "assoc_primary_phonenumber": "233452121212",
-        "assoc_secondary_phonenumber": "233212121222",
-        "assoc_email": "frop@gh.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2021-07-23 11:17:17",
-        "updated_at": "2021-07-23 11:18:59"
-    },
-    {
-        "insurer_associate_id": "19",
-        "insurersinsurer_id": "32",
-        "assoc_first_name": "Paa Kwesi",
-        "assoc_last_name": "Koranteng",
-        "assoc_primary_phonenumber": "233541264615",
-        "assoc_secondary_phonenumber": null,
-        "assoc_email": "pkkoranteng@sic-gh.com",
-        "position": "Manager",
-        "delete_status": "DELETED",
-        "created_at": "2021-09-28 16:24:18",
-        "updated_at": "2021-10-04 10:23:23"
     },
     {
         "insurer_associate_id": "20",

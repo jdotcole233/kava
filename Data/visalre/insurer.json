@@ -9,16 +9,7 @@
         "created_at": "2020-06-20 00:37:29",
         "updated_at": "2020-07-16 12:18:31"
     },
-    {
-        "insurer_id": "2",
-        "insurer_company_name": "Bright Insurance Company",
-        "insurer_company_email": "jdotcole233@gmail.com",
-        "insurer_abbrv": "BIC",
-        "insurer_company_website": "bright.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-21 08:59:59",
-        "updated_at": "2020-08-06 17:53:04"
-    },
+    
     {
         "insurer_id": "3",
         "insurer_company_name": "GLICO GENERAL INSURANCE COMPANY",
@@ -50,26 +41,6 @@
         "updated_at": "2020-06-24 15:23:44"
     },
     {
-        "insurer_id": "6",
-        "insurer_company_name": "Enterprise Insurance Company",
-        "insurer_company_email": "info.insurance@enterprisegroup.com.gh",
-        "insurer_abbrv": "EIC",
-        "insurer_company_website": "WWW.enterprisegroup.com.gh",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-24 17:11:53",
-        "updated_at": "2020-08-11 09:37:05"
-    },
-    {
-        "insurer_id": "7",
-        "insurer_company_name": "Star Assurance Company",
-        "insurer_company_email": "ayindemubarik@yahoo.com",
-        "insurer_abbrv": "SAC",
-        "insurer_company_website": "www.starassurance.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-26 10:16:58",
-        "updated_at": "2020-07-06 19:14:35"
-    },
-    {
         "insurer_id": "8",
         "insurer_company_name": "SIC Insurance Company",
         "insurer_company_email": "reinsure@sic-gh.com",
@@ -98,16 +69,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-06-30 15:41:30",
         "updated_at": "2022-08-10 11:25:57"
-    },
-    {
-        "insurer_id": "11",
-        "insurer_company_name": "Vanguard Assurance Company Limited",
-        "insurer_company_email": "kasuo@vanguardassurance.com",
-        "insurer_abbrv": "VACL",
-        "insurer_company_website": "www.vanguardassurance.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-07-01 11:12:04",
-        "updated_at": "2020-08-06 17:53:56"
     },
     {
         "insurer_id": "12",
@@ -148,16 +109,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-07-28 09:33:47",
         "updated_at": "2020-07-28 09:33:47"
-    },
-    {
-        "insurer_id": "16",
-        "insurer_company_name": "REINSURER TEST",
-        "insurer_company_email": "test@reinsurance.com",
-        "insurer_abbrv": "RT",
-        "insurer_company_website": "www.reinsurancetest.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-07-29 11:47:46",
-        "updated_at": "2020-08-02 22:36:46"
     },
     {
         "insurer_id": "17",
@@ -298,26 +249,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-07-09 09:43:20",
         "updated_at": "2021-07-09 09:43:20"
-    },
-    {
-        "insurer_id": "31",
-        "insurer_company_name": "Joycelyn Insurance",
-        "insurer_company_email": "info@joyc.com",
-        "insurer_abbrv": "JI",
-        "insurer_company_website": "www.ghc.com",
-        "delete_status": "DELETED",
-        "created_at": "2021-07-23 11:14:05",
-        "updated_at": "2021-07-23 11:18:59"
-    },
-    {
-        "insurer_id": "32",
-        "insurer_company_name": "Sic Insurance Company",
-        "insurer_company_email": "reinsure@sic-gh.com",
-        "insurer_abbrv": "SIC",
-        "insurer_company_website": "www.sic.com",
-        "delete_status": "DELETED",
-        "created_at": "2021-09-28 16:20:01",
-        "updated_at": "2021-10-04 10:23:23"
     },
     {
         "insurer_id": "33",

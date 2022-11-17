@@ -1,27 +1,5 @@
 [
     {
-        "reinsurer_address_id": "1",
-        "reinsurersreinsurer_id": "1",
-        "street": "22nd Street",
-        "suburb": "East Legon",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-20 01:27:32",
-        "updated_at": "2020-06-20 01:27:51"
-    },
-    {
-        "reinsurer_address_id": "2",
-        "reinsurersreinsurer_id": "2",
-        "street": "24th Road",
-        "suburb": "East Legond",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-21 08:56:37",
-        "updated_at": "2020-08-11 09:14:08"
-    },
-    {
         "reinsurer_address_id": "3",
         "reinsurersreinsurer_id": "3",
         "street": "Atlantic Towers",
@@ -286,17 +264,6 @@
         "updated_at": "2022-01-26 13:54:10"
     },
     {
-        "reinsurer_address_id": "27",
-        "reinsurersreinsurer_id": "27",
-        "street": "35 Aviation Road",
-        "suburb": "Airport",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2020-08-11 09:51:23",
-        "updated_at": "2020-08-11 09:52:20"
-    },
-    {
         "reinsurer_address_id": "28",
         "reinsurersreinsurer_id": "28",
         "street": "14/16 Main Street, Tesano",
@@ -526,17 +493,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-11 10:38:18",
         "updated_at": "2021-10-11 10:38:18"
-    },
-    {
-        "reinsurer_address_id": "49",
-        "reinsurersreinsurer_id": "50",
-        "street": "Plot 24 Sudan Road",
-        "suburb": "Ridge",
-        "region": "Greater Accra",
-        "country": "Ghana",
-        "delete_status": "DELETED",
-        "created_at": "2021-11-03 14:04:33",
-        "updated_at": "2021-11-03 14:24:34"
     },
     {
         "reinsurer_address_id": "50",

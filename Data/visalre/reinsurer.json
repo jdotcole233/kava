@@ -1,25 +1,5 @@
 [
     {
-        "reinsurer_id": "1",
-        "re_company_name": "Vanguard Assurance Company",
-        "re_company_email": "vanguard@gmail.com",
-        "re_abbrv": "VAC",
-        "re_company_website": "vanguard.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-20 01:27:32",
-        "updated_at": "2020-06-20 01:27:51"
-    },
-    {
-        "reinsurer_id": "2",
-        "re_company_name": "Ghana International Insurance",
-        "re_company_email": "jdotcole233@gmail.com",
-        "re_abbrv": "GII",
-        "re_company_website": "gii.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-06-21 08:56:37",
-        "updated_at": "2020-08-11 09:14:08"
-    },
-    {
         "reinsurer_id": "3",
         "re_company_name": "Waica Reinsurance Corporation",
         "re_company_email": "info@waicare.com",
@@ -220,26 +200,6 @@
         "updated_at": "2022-08-08 10:03:40"
     },
     {
-        "reinsurer_id": "23",
-        "re_company_name": "REINSURER TEST",
-        "re_company_email": "test@reinsurance.com",
-        "re_abbrv": "RT",
-        "re_company_website": "www.reinsurancetest.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-07-21 17:55:16",
-        "updated_at": "2020-07-21 17:55:16"
-    },
-    {
-        "reinsurer_id": "24",
-        "re_company_name": "Stiff Reinsurance",
-        "re_company_email": "ebaidoo79@gmail.com",
-        "re_abbrv": "SR",
-        "re_company_website": "www.stiff.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-07-21 18:29:09",
-        "updated_at": "2020-07-21 18:29:09"
-    },
-    {
         "reinsurer_id": "25",
         "re_company_name": "ZEP-RE (PTA Reinsurance Company)",
         "re_company_email": "bakinsika@zep-re.com",
@@ -258,16 +218,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2020-08-11 09:50:01",
         "updated_at": "2022-01-26 13:54:10"
-    },
-    {
-        "reinsurer_id": "27",
-        "re_company_name": "Wapic Insurance (Ghana) Limited",
-        "re_company_email": "infoghana@wapic.com",
-        "re_abbrv": "WI(L",
-        "re_company_website": "www.wapic.com",
-        "delete_status": "DELETED",
-        "created_at": "2020-08-11 09:51:23",
-        "updated_at": "2020-08-11 09:52:20"
     },
     {
         "reinsurer_id": "28",
@@ -368,16 +318,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-03-17 10:42:15",
         "updated_at": "2021-03-17 10:42:15"
-    },
-    {
-        "reinsurer_id": "38",
-        "re_company_name": "GIC Re South Africa Ltd",
-        "re_company_email": "reinsurance@gicresa.co.za",
-        "re_abbrv": "GRSAL",
-        "re_company_website": "www.gicresa.co.za",
-        "delete_status": "DELETED",
-        "created_at": "2021-03-17 10:46:22",
-        "updated_at": "2021-03-17 10:46:22"
     },
     {
         "reinsurer_id": "39",
@@ -488,16 +428,6 @@
         "delete_status": "NOT DELETED",
         "created_at": "2021-10-11 10:38:18",
         "updated_at": "2021-10-11 10:38:18"
-    },
-    {
-        "reinsurer_id": "50",
-        "re_company_name": "Ghana Reinsurance Company",
-        "re_company_email": "info@ghanare.com",
-        "re_abbrv": "GRC",
-        "re_company_website": "www.ghanare.com",
-        "delete_status": "DELETED",
-        "created_at": "2021-11-03 14:04:33",
-        "updated_at": "2021-11-03 14:24:34"
     },
     {
         "reinsurer_id": "51",
