@@ -18,7 +18,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-20 00:37:29",
             "updated_at": "2020-07-16 12:18:31"
-        }
+        },
+        "associates": [
+            {
+                "insurer_associate_id": "2",
+                "insurersinsurer_id": "1",
+                "assoc_first_name": "David",
+                "assoc_last_name": "Avor",
+                "assoc_primary_phonenumber": "233207628947",
+                "assoc_secondary_phonenumber": "233207628947",
+                "assoc_email": "mdavor@vanguardassurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-06-20 09:29:38",
+                "updated_at": "2020-09-17 10:13:23"
+            }
+        ]
     },
     
     {
@@ -40,7 +55,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 11:46:34",
             "updated_at": "2020-06-24 13:18:58"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "4",
@@ -61,7 +77,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-22 19:09:08",
             "updated_at": "2020-09-15 15:07:21"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "14",
+                "insurersinsurer_id": "4",
+                "assoc_first_name": "Kofi",
+                "assoc_last_name": "Lartey",
+                "assoc_primary_phonenumber": "233501285821",
+                "assoc_secondary_phonenumber": "233501285821",
+                "assoc_email": "klartey@millenniuminsurancegh.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-09-17 08:47:32",
+                "updated_at": "2020-09-17 08:47:32"
+            }
+        ]
     },
     {
         "insurer_id": "5",
@@ -82,7 +113,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-24 15:23:44",
             "updated_at": "2020-06-24 15:23:44"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "8",
@@ -103,7 +135,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-29 13:18:56",
             "updated_at": "2020-07-03 12:54:09"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "9",
@@ -124,7 +157,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-29 13:55:36",
             "updated_at": "2020-07-03 17:32:31"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "10",
@@ -145,7 +179,35 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-30 15:41:30",
             "updated_at": "2022-08-10 11:25:57"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "12",
+                "insurersinsurer_id": "10",
+                "assoc_first_name": "Audrey",
+                "assoc_last_name": "Ankrah",
+                "assoc_primary_phonenumber": "233243212215",
+                "assoc_secondary_phonenumber": "233596918619",
+                "assoc_email": "audrey.ankrah@sahaminsurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-27 15:35:28",
+                "updated_at": "2020-08-27 15:35:28"
+            },
+            {
+                "insurer_associate_id": "13",
+                "insurersinsurer_id": "10",
+                "assoc_first_name": "Selorm",
+                "assoc_last_name": "Domey",
+                "assoc_primary_phonenumber": "233501689529",
+                "assoc_secondary_phonenumber": "233501689529",
+                "assoc_email": "selorm.domeh@sahaminsurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-27 16:01:23",
+                "updated_at": "2020-08-27 16:01:23"
+            }
+        ]
     },
     {
         "insurer_id": "12",
@@ -166,7 +228,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-07-02 12:39:45",
             "updated_at": "2020-07-02 12:39:45"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "13",
@@ -187,7 +250,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-07-13 14:29:27",
             "updated_at": "2020-07-13 14:29:27"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "14",
@@ -208,7 +272,35 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-07-16 19:13:42",
             "updated_at": "2020-07-24 07:54:18"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "22",
+                "insurersinsurer_id": "14",
+                "assoc_first_name": "Joanitta",
+                "assoc_last_name": "Boakye",
+                "assoc_primary_phonenumber": "233501522508",
+                "assoc_secondary_phonenumber": "233200000000",
+                "assoc_email": "joboakye@bestassurance.com.gh",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-10-31 10:24:17",
+                "updated_at": "2022-10-31 10:24:17"
+            },
+            {
+                "insurer_associate_id": "23",
+                "insurersinsurer_id": "14",
+                "assoc_first_name": "Martha",
+                "assoc_last_name": "Anomah",
+                "assoc_primary_phonenumber": "233501522508",
+                "assoc_secondary_phonenumber": "233501522508",
+                "assoc_email": "manomah@bestassurance.com.gh",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-10-31 10:25:24",
+                "updated_at": "2022-10-31 10:25:24"
+            }
+        ]
     },
     {
         "insurer_id": "15",
@@ -229,7 +321,36 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-07-28 09:33:47",
             "updated_at": "2020-07-28 09:33:47"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "7",
+                "insurersinsurer_id": "15",
+                "assoc_first_name": "Francis",
+                "assoc_last_name": "Kumah",
+                "assoc_primary_phonenumber": "2330548516449",
+                "assoc_secondary_phonenumber": "na",
+                "assoc_email": "francis.kumah@loyaltyinsurancegh.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-28 09:35:36",
+                "updated_at": "2020-07-28 09:35:36"
+            },
+            {
+                "insurer_associate_id": "15",
+                "insurersinsurer_id": "15",
+                "assoc_first_name": "Ernest",
+                "assoc_last_name": "Frimpong",
+                "assoc_primary_phonenumber": "233277498077",
+                "assoc_secondary_phonenumber": "233209032951",
+                "assoc_email": "ernest.frimpong@loyaltyinsurancegh.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-09-17 08:49:33",
+                "updated_at": "2020-09-17 08:49:33"
+            }
+
+        ]
     },
     {
         "insurer_id": "17",
@@ -250,7 +371,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-07-30 15:14:22",
             "updated_at": "2020-07-30 15:16:35"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "8",
+                "insurersinsurer_id": "17",
+                "assoc_first_name": "Lawrence",
+                "assoc_last_name": "Omoya",
+                "assoc_primary_phonenumber": "233541789042",
+                "assoc_secondary_phonenumber": "na",
+                "assoc_email": "l.omoya@regencynem.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-07-30 15:15:35",
+                "updated_at": "2020-07-30 15:15:35"
+            }
+        ]
     },
     {
         "insurer_id": "18",
@@ -271,7 +407,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-03 09:47:13",
             "updated_at": "2020-08-03 09:47:13"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "9",
+                "insurersinsurer_id": "18",
+                "assoc_first_name": "Eric",
+                "assoc_last_name": "Sarfo",
+                "assoc_primary_phonenumber": "233244117677",
+                "assoc_secondary_phonenumber": "na",
+                "assoc_email": "eric.sarfo@ghanaunionassurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-03 09:49:41",
+                "updated_at": "2020-08-03 09:52:31"
+            }
+        ]
     },
     {
         "insurer_id": "19",
@@ -292,7 +443,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-07 09:04:08",
             "updated_at": "2021-02-26 11:10:05"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "10",
+                "insurersinsurer_id": "19",
+                "assoc_first_name": "Nelson",
+                "assoc_last_name": "Opare",
+                "assoc_primary_phonenumber": "+233548106334",
+                "assoc_secondary_phonenumber": "233302772606",
+                "assoc_email": "opare.nelson@coronationinsurance.com.ng",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2020-08-07 09:08:34",
+                "updated_at": "2022-01-26 14:28:20"
+            }
+        ]
     },
     {
         "insurer_id": "20",
@@ -313,7 +479,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-19 12:12:39",
             "updated_at": "2020-10-15 13:24:42"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "21",
@@ -334,7 +501,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-25 09:22:51",
             "updated_at": "2020-08-25 09:22:51"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "22",
@@ -355,7 +523,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-27 12:19:38",
             "updated_at": "2020-08-27 12:19:38"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "23",
@@ -376,7 +545,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-08-28 15:38:41",
             "updated_at": "2020-08-28 15:38:41"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "24",
@@ -397,7 +567,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-10-01 10:25:57",
             "updated_at": "2020-10-21 13:18:44"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "25",
@@ -418,7 +589,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-10-27 14:03:04",
             "updated_at": "2020-10-27 14:03:04"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "26",
@@ -439,7 +611,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-11-19 12:27:40",
             "updated_at": "2020-11-19 12:27:40"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "27",
@@ -460,7 +633,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-03-23 10:57:30",
             "updated_at": "2021-03-23 10:57:30"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "28",
@@ -481,7 +655,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-04-07 16:03:22",
             "updated_at": "2021-04-07 16:03:22"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "29",
@@ -502,7 +677,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-05-12 13:57:10",
             "updated_at": "2021-05-12 13:57:10"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "16",
+                "insurersinsurer_id": "29",
+                "assoc_first_name": "James",
+                "assoc_last_name": "Wolo",
+                "assoc_primary_phonenumber": "231777314985",
+                "assoc_secondary_phonenumber": "231777314985",
+                "assoc_email": "jwolo@icaliberia.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-05-12 13:58:23",
+                "updated_at": "2021-12-08 13:24:34"
+            }
+        ]
     },
     {
         "insurer_id": "30",
@@ -544,7 +734,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-10-04 16:56:58",
             "updated_at": "2021-10-04 16:56:58"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "34",
@@ -565,7 +756,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-11-15 13:50:40",
             "updated_at": "2021-11-15 13:50:40"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "35",
@@ -586,7 +778,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2021-12-20 12:11:36",
             "updated_at": "2021-12-20 12:11:36"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "20",
+                "insurersinsurer_id": "35",
+                "assoc_first_name": "Prince",
+                "assoc_last_name": "Blatty",
+                "assoc_primary_phonenumber": "231770188084",
+                "assoc_secondary_phonenumber": "231770188084",
+                "assoc_email": "insurancepalm@gmail.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2021-12-20 12:15:28",
+                "updated_at": "2021-12-20 12:15:28"
+            }
+        ]
     },
     {
         "insurer_id": "36",
@@ -607,7 +814,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-01-19 14:59:36",
             "updated_at": "2022-01-19 14:59:36"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "37",
@@ -628,7 +836,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-01-21 11:39:26",
             "updated_at": "2022-01-21 11:39:26"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "38",
@@ -649,7 +858,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-02-24 11:56:48",
             "updated_at": "2022-09-12 10:00:40"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "39",
@@ -670,7 +880,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-04-19 17:00:57",
             "updated_at": "2022-04-19 17:00:57"
-        }
+        },
+        "associates":[]
     },
     {
         "insurer_id": "40",
@@ -691,7 +902,22 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-05-31 22:23:07",
             "updated_at": "2022-05-31 22:23:07"
-        }
+        },
+        "associates":[
+            {
+                "insurer_associate_id": "21",
+                "insurersinsurer_id": "40",
+                "assoc_first_name": "John Mark",
+                "assoc_last_name": "Atiemo",
+                "assoc_primary_phonenumber": "233245188095",
+                "assoc_secondary_phonenumber": "233245188095",
+                "assoc_email": "john-mark.atiemo@gnreinsurance.com",
+                "position": "Manager",
+                "delete_status": "NOT DELETED",
+                "created_at": "2022-05-31 22:28:10",
+                "updated_at": "2022-05-31 22:28:10"
+            }
+        ]
     },
     {
         "insurer_id": "41",
@@ -712,6 +938,7 @@
             "delete_status": "NOT DELETED",
             "created_at": "2022-10-13 17:45:52",
             "updated_at": "2022-10-13 17:45:52"
-        }
+        },
+        "associates":[]
     }
 ]
