@@ -2,7 +2,12 @@
 
 namespace App\Http\Controllers;
 
+use App\Insurer;
+use App\Insurer_address;
+use App\Insurer_associate;
+use App\Models\User;
 use Illuminate\Support\Arr;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Str;
 
@@ -15,114 +20,121 @@ class UploadController
         $directories = glob(getcwd() . "\\Data\\*");
         $structure = [];
 
-        foreach ($directories as $directory)
+        $entities = ['insurer'];
+
+        foreach ($entities as $entity)
         {
-            $nesteddirectories = glob($directory . DIRECTORY_SEPARATOR ."*");
-            
-            $sub = [];
-
-            foreach ($nesteddirectories as $files)
+            for ($count = 0; $count < count($directories); $count++)
             {
-                $filename = basename($files, '.json');
-                $sub = $this->filt('insurer', $files);
-                $sub = $this->address($sub, 'insureraddress', $files);
-
-                // $sub = $this->associates($sub, $filename, $files);
-            }
-            // array_push($structure[trim(basename($directory))], $sub);
-            $structure[trim(basename($directory))] = $sub;
-            // echo json_encode($sub);
-        }
-        
-        Log::info(json_encode($structure));
-        // return "Done " . json_encode($structure);
-
-        //for each file [insurer or reinsurer]
-
-        // return json_encode($dir);
-
-    }
-
-    private function filt ($key, $files)
-    {
-        $structure[$key] = [];
-        // Log::info(basename($files, '.json'));
-        // if (Str::contains($files, $key))
-        if (basename($files, '.json') == $key)
-        {
-            $contents = $this->parse($files);
-            // Log::info("contents ". json_encode($contents));
-            // Log::info("here..");
-            foreach ($contents as $jsonContent)
-            {
-                // Log::info("some ". json_encode($jsonContent));
-                if (!empty($jsonContent))
+                $files = glob($directories[$count] . DIRECTORY_SEPARATOR . "{$entity}.json");
+                Log::info(basename($directories[$count]));
+                for ($filePos = 0; $filePos < count($files); $filePos++)
                 {
-                    if ((!collect($structure[$key])->contains($jsonContent[$key.'_company_name']) 
-                    || !collect($structure[$key])->contains($jsonContent[substr($key, 0, 2). '_company_name'])) 
-                    && $jsonContent['delete_status'] == "NOT DELETED"
-                    )
+                    $jsonContent = file_get_contents($files[$filePos]);
+                    $decodedJson = json_decode($jsonContent, true);
+
+                    foreach ($decodedJson as $data)
                     {
-                        // Log::info("here1");
-                        array_push($structure[$key], $jsonContent);
+                        Log::info(json_encode($data));
+                        $currentInsurer = explode(" ", strtolower($data['insurer_company_name']))[0];
+                        Log::info("name ". $currentInsurer);
+                        $insurer = $this->filterInsurer(Insurer::all(), $currentInsurer);
+                        
+                        // ->filter(function ($insurer) use ($currentInsurer) {
+                        //     return Str::contains(strtolower($insurer->insurer_company_name), $currentInsurer);
+                        // });
+
+                        Log::info("insurer ". json_encode($insurer));
+
+                        if ($insurer)
+                        {
+                                $address = $insurer->insurer_address;
+                                $associates = $insurer->insurer_associates;
+
+                                if (!$address)
+                                {
+                                    $insurer = $this->findNextEntity($count, count($directories), $files, $currentInsurer);
+                                    $address->suburb = $insurer['suburb'];
+                                    $address->street = $insurer['street'];
+                                    $address->region = $insurer['region'];
+                                    $address->country = $insurer['country'];
+                                    $address->insurersinsurer_id = $insurer['insurer_id'];
+                                    $address->save();
+                                }
+
+                                $allassociates = Insurer_associate::all();
+
+
+
+                        }
+                        else
+                        {
+                            $insurerCreated = Insurer::create(collect($data)->except('insurer_id', 'addresss', 'delete_status',  'asscocates', 'created_at', 'updated_at'));
+                            Insurer_address::create(collect($data['address'])
+                            ->except('insurer_address_id', 'insurersinsurer_id', 'created_at','delete_status', 'updated_at')->all() + [
+                                'insurersinsurer_id' => $insurerCreated->insurer_id
+                            ]);
+                            
+                            $associates = $data['associates'];
+                            if (count($associates) > 0)
+                            {
+                                // add associates
+                                $this->addAssociates($associates, $insurerCreated, $currentInsurer);
+                            } 
+                            else 
+                            {
+                                $insurer = $this->findNextEntity($count, count($directories), $files, $currentInsurer);
+                                $this->addAssociates($insurer['associates'], $insurerCreated, $currentInsurer);
+                            }
+                        }
+
                     }
+
                 }
             }
         }
-
-        // Log::info("final ". json_encode($structure));
-        return $structure;
+    
     }
 
-    private function address ($structure, $key, $files)
+    private function findNextEntity ($count, $totalSize, $files, $currentInsurer)
     {
-        $actual = $structure[substr($key, 0, stripos($key, 'a'))];
-        $spacex = [];
-        Log::info("actual 1 ". json_encode($actual));
+        $insurer = [];
 
-        if (basename($files, '.json') == $key)
+        for ($next = $count + 1; $next < $totalSize; $next++)
         {
-            foreach ($this->parse($files) as $add)
-            {
-                $insurer_id = $add[Str::plural(substr($key, 0, stripos($key, 'a'))).substr($key, 0, stripos($key, 'a'))."_id"];
-                Log::info("insurer id ". $insurer_id);
-                Log::info("actual ". json_encode($actual));
-
-                $aa = collect($actual)->where('insurer_id', $insurer_id)->first();
-                Log::info("aa ". json_encode($aa));
-                if ($aa)
-                {
-                    Arr::add($aa, substr($key,stripos($key, 'a'), strlen($key) - 1), $add );
-                    // array_push($aa[substr($key,stripos($key, 'a'), strlen($key) - 1)], $add);
-                    array_push($spacex, $aa);
-                }
-            }
-            // Log::info("frank ". json_encode($actual));
+            $jsonContent1 = file_get_contents($files[$next]);
+            $decodedJson1 = collect(json_decode($jsonContent1, true));
+            $insurer = $this->filterInsurer($decodedJson1, $currentInsurer);
         }
 
-        Log::info(" add ". json_encode($spacex));
-        return $spacex;
+        return $insurer;
     }
 
-    private function associates ($structure, $key, $files)
+    private function filterInsurer ($collection, $currentInsurer)
     {
-        $actual = $structure[substr($key, 0, stripos($key, 'a'))];
-        if (Str::contains($files, 'associate'))
+        return $collection->filter(function ($insurer) use ($currentInsurer) {
+            return Str::contains(strtolower($insurer->insurer_company_name), $currentInsurer);
+        });
+    }
+
+    private function addAssociates ($associates, $insurerCreated, $currentInsurer)
+    {
+        foreach ($associates as $associate)
         {
-            foreach ($this->parse($files) as $ass)
-            {
-                $basekey = Str::plural(substr($key, 0, stripos($key, 'a'))).substr($key, 0, stripos($key, 'a'))."_id";
-                $insurer_id = $ass[$basekey];
-                if (collect($actual)->contains($insurer_id))
-                {
-                    array_push($actual[substr($key,stripos($key, 'a'), strlen($key) - 1)], collect($ass)->where($basekey, $insurer_id)->except('*_at'));
-                }
-            }
+            $associateCreated = Insurer_associate::create(collect($associate)->except('insurer_associate_id', 'insurersinsurer_id',
+                'delete_statusdelete_status', 'created_at', 'updated_at')->all() + [
+                'insurersinsurer_id' => $insurerCreated->insurer_id
+                ]);
+
+                // create login credentials
+                User::create([
+                'email' => $associate->assoc_email,
+                'clientable_id' => $associateCreated,
+                'clientable_type' => "App\\Mode\\Insurer_associate",
+                'password' => Hash::make($currentInsurer."kava")
+                ]);
         }
     }
 
-    private function parse ($files)
-    {
-        return json_decode(file_get_contents($files), true);
-    }
+    
 }
