@@ -15,7 +15,9 @@ use App\Models\Reinsurers_address;
 use App\Models\User;
 use Illuminate\Support\Carbon;
 
-class UploadController
+use Illuminate\Http\Request;
+
+class UploadControllerIns extends Controller
 {
     public function uploadDocuments()
     {
@@ -25,10 +27,10 @@ class UploadController
 
         Log::info("interesting " . json_encode($directories));
 
-        $entities = ['reinsurer'];
+        $entities = ['insurer'];
 
         foreach ($entities as $entity) {
-            echo "Importing reinsurers\n";
+            echo "Importing insurers\n";
             for ($count = 0; $count < count($directories); $count++) {
                 $files = glob($directories[$count] . DIRECTORY_SEPARATOR . "{$entity}.json");
                 Log::info("handling ". basename($directories[$count]));
@@ -44,9 +46,9 @@ class UploadController
 
                     foreach ($decodedJson as $data) {
                         Log::info(json_encode($data));
-                        $currentInsurer = explode(" ", strtolower($data['re_company_name']))[0];
+                        $currentInsurer = explode(" ", strtolower($data['insurer_company_name']))[0];
                         Log::info("name " . $currentInsurer);
-                        $insurer = $this->filterInsurer(Reinsurer::all(), $currentInsurer);
+                        $insurer = $this->filterInsurer(Insurer::all(), $currentInsurer);
 
                         // ->filter(function ($insurer) use ($currentInsurer) {
                         //     return Str::contains(strtolower($insurer->insurer_company_name), $currentInsurer);
@@ -56,8 +58,8 @@ class UploadController
 
                         if (!empty($insurer)) {
                             Log::info("checking insurer");
-                            $address = $insurer->reinsurer_address;
-                            $associates = $insurer->reinsurer_representatives;
+                            $address = $insurer->insurer_address;
+                            $associates = $insurer->insurer_associates;
 
                             if (!$address) {
                                 $insurerRet = $this->findNextEntity($count, count($directories), $directories, $currentInsurer);
@@ -65,7 +67,7 @@ class UploadController
                                 $address->street = $insurerRet['street'];
                                 $address->region = $insurerRet['region'];
                                 $address->country = $insurerRet['country'];
-                                $address->reinsurersreinsurer_id = $insurer->reinsurer_id;
+                                $address->insurersinsurer_id = $insurer->insurer_id;
                                 $address->save();
                             }
                             // echo json_encode($data);
@@ -75,11 +77,11 @@ class UploadController
                             $this->addAssociates($attached_assoc, $insurer, $currentInsurer);
                           
                         } else {
-                            $insurerCreated = Reinsurer::create(collect($data)
-                                ->except('reinsurer_id', 'addresss', 'delete_status',  'asscocates', 'created_at', 'updated_at')->all());
-                            Reinsurers_address::create(collect($data['address'])
-                                ->except('reinsurer_address_id', 'reinsurersreinsurer_id', 'created_at', 'delete_status', 'updated_at')->all() + [
-                                    'reinsurersreinsurer_id' => $insurerCreated->reinsurer_id
+                            $insurerCreated = Insurer::create(collect($data)
+                                ->except('insurer_id', 'addresss', 'delete_status',  'asscocates', 'created_at', 'updated_at')->all());
+                            Insurer_address::create(collect($data['address'])
+                                ->except('insurer_address_id', 'insurersinsurer_id', 'created_at', 'delete_status', 'updated_at')->all() + [
+                                    'insurersinsurer_id' => $insurerCreated->insurer_id
                                 ]);
 
                             // $associates = $data['associates'];
@@ -113,7 +115,7 @@ class UploadController
 
         for ($next = $count + 1; $next < $totalSize; $next++) {
             Log::info("Looking in the next ". json_encode($directories[$next]));
-            $jsonContent = file_get_contents($directories[$next] . DIRECTORY_SEPARATOR . 'reinsurer.json');
+            $jsonContent = file_get_contents($directories[$next] . DIRECTORY_SEPARATOR . 'insurer.json');
             $decodedJson = collect(json_decode($jsonContent, true));
             $insurer = $this->filterInsurer($decodedJson, $currentInsurer);
         }
@@ -125,7 +127,7 @@ class UploadController
     {
         Log::info("Finding ". $currentInsurer);
         return $collection->filter(function ($insurer) use ($currentInsurer) {
-            return Str::contains(strtolower($insurer['re_company_name']), $currentInsurer);
+            return Str::contains(strtolower($insurer['insurer_company_name']), $currentInsurer);
         })->first();
     }
 
@@ -137,11 +139,11 @@ class UploadController
         {
             foreach ($associates as $associate) {
 
-                $assoc_found = Reinsurer_representative::all()->filter(function ($assoc) use ($associate) {
-                    $fullname = $assoc['rep_first_name'] . " " . $assoc['rep_last_name'];
+                $assoc_found = Insurer_associate::all()->filter(function ($assoc) use ($associate) {
+                    $fullname = $assoc['assoc_first_name'] . " " . $assoc['assoc_last_name'];
                     $fullname = trim($fullname);
     
-                    $gottenFullname = $associate['rep_first_name'] . " " . $associate['rep_last_name'];
+                    $gottenFullname = $associate['assoc_first_name'] . " " . $associate['assoc_last_name'];
                     $gottenFullname = trim($gottenFullname);
     
                     return $fullname == $gottenFullname;
@@ -150,18 +152,18 @@ class UploadController
                 Log::info("associate found when adding associate ". json_encode($assoc_found));
     
                 // if (!$assoc_found) {
-                    $associateCreated = Reinsurer_representative::create(collect($associate)->except(
-                        'reinsurer_representative_id',
-                        'reinsurersreinsurer_id',
+                    $associateCreated = Insurer_associate::create(collect($associate)->except(
+                        'insurer_associate_id',
+                        'insurersinsurer_id',
                         'delete_status',
                         'created_at',
                         'updated_at'
                     )->all() + [
-                        'reinsurersreinsurer_id' => $insurerCreated->reinsurer_id
+                        'insurersinsurer_id' => $insurerCreated->insurer_id
                     ]);
         
                     // create login credentials
-                    $email = $associateCreated->rep_email;
+                    $email = $associateCreated->assoc_email;
                     Log::info("finding email ". $email);
 
                     $found = User::where('email', $email)->first();
@@ -170,11 +172,11 @@ class UploadController
 
                     if (empty($found))
                     {
-                        Log::info("Creatubg user ". $email);
+                        Log::info("Creating user ". $email);
                         User::create([
-                            'email' => $associate['rep_email'],
-                            'clientable_id' => $associateCreated->reinsurer_representative_id,
-                            'clientable_type' => "App\\Models\\Reinsurer_representative",
+                            'email' => $associate['assoc_email'],
+                            'clientable_id' => $associateCreated->insurer_associate_id,
+                            'clientable_type' => "App\\Models\\Insurer_associate",
                             'password' => Hash::make($currentInsurer . "kava")
                         ]);
                     }

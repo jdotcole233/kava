@@ -19,7 +19,7 @@
             "created_at": "2021-02-10 00:14:27",
             "updated_at": "2021-07-06 16:25:17"
         },
-        "asociates": [
+        "associates": [
             {
                 "reinsurer_representative_id": "4",
                 "reinsurersreinsurer_id": "1",
@@ -159,7 +159,7 @@
             "created_at": "2021-02-10 11:42:22",
             "updated_at": "2021-02-16 14:05:30"
         },
-        "asociates": [
+        "associates": [
             {
                 "reinsurer_representative_id": "6",
                 "reinsurersreinsurer_id": "2",
@@ -195,7 +195,7 @@
             "created_at": "2021-02-16 14:07:36",
             "updated_at": "2021-02-16 14:07:36"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "5",
                 "reinsurersreinsurer_id": "3",
@@ -283,7 +283,7 @@
             "created_at": "2021-02-16 21:14:22",
             "updated_at": "2021-02-16 21:14:22"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "11",
                 "reinsurersreinsurer_id": "4",
@@ -319,7 +319,7 @@
             "created_at": "2021-02-16 21:14:44",
             "updated_at": "2021-02-16 21:14:44"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "10",
                 "reinsurersreinsurer_id": "5",
@@ -355,7 +355,7 @@
             "created_at": "2021-02-16 21:18:38",
             "updated_at": "2021-02-25 11:00:21"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "7",
                 "reinsurersreinsurer_id": "6",
@@ -417,7 +417,7 @@
             "created_at": "2021-02-16 21:25:38",
             "updated_at": "2021-02-16 21:25:38"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "8",
                 "reinsurersreinsurer_id": "7",
@@ -453,7 +453,7 @@
             "created_at": "2021-02-16 21:34:07",
             "updated_at": "2021-02-16 21:34:07"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "9",
                 "reinsurersreinsurer_id": "8",
@@ -489,7 +489,7 @@
             "created_at": "2021-02-17 17:29:29",
             "updated_at": "2021-02-17 17:29:29"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "12",
                 "reinsurersreinsurer_id": "14",
@@ -538,7 +538,7 @@
             "created_at": "2021-02-17 18:27:42",
             "updated_at": "2021-02-17 18:27:42"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "13",
                 "reinsurersreinsurer_id": "15",
@@ -574,7 +574,7 @@
             "created_at": "2021-02-18 12:28:50",
             "updated_at": "2021-02-18 12:28:50"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "15",
                 "reinsurersreinsurer_id": "16",
@@ -610,7 +610,7 @@
             "created_at": "2021-02-18 12:29:09",
             "updated_at": "2021-02-18 12:29:09"
         },
-        "asociates":[]
+        "associates":[]
     },
     {
         "reinsurer_id": "18",
@@ -632,7 +632,7 @@
             "created_at": "2021-02-18 12:29:32",
             "updated_at": "2021-02-18 12:29:32"
         },
-        "asociates":[]
+        "associates":[]
     },
     {
         "reinsurer_id": "19",
@@ -654,7 +654,7 @@
             "created_at": "2021-02-18 12:30:13",
             "updated_at": "2021-02-18 12:30:13"
         },
-        "asociates":[]
+        "associates":[]
     },
     {
         "reinsurer_id": "24",
@@ -676,7 +676,7 @@
             "created_at": "2021-02-18 12:41:30",
             "updated_at": "2021-02-18 12:41:30"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "14",
                 "reinsurersreinsurer_id": "24",
@@ -712,7 +712,7 @@
             "created_at": "2021-03-02 16:40:03",
             "updated_at": "2021-03-02 16:40:03"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "24",
                 "reinsurersreinsurer_id": "25",
@@ -748,7 +748,7 @@
             "created_at": "2021-03-02 16:44:31",
             "updated_at": "2021-03-02 16:46:57"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "25",
                 "reinsurersreinsurer_id": "26",
@@ -784,7 +784,7 @@
             "created_at": "2021-03-02 16:49:55",
             "updated_at": "2021-03-02 16:49:55"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "26",
                 "reinsurersreinsurer_id": "27",
@@ -833,7 +833,7 @@
             "created_at": "2021-03-02 16:55:15",
             "updated_at": "2021-03-02 16:55:15"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "30",
                 "reinsurersreinsurer_id": "28",
@@ -869,7 +869,7 @@
             "created_at": "2021-03-02 16:59:31",
             "updated_at": "2021-03-02 16:59:31"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "27",
                 "reinsurersreinsurer_id": "29",
@@ -905,7 +905,7 @@
             "created_at": "2021-03-02 17:07:23",
             "updated_at": "2021-03-02 17:07:23"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "28",
                 "reinsurersreinsurer_id": "30",
@@ -941,7 +941,7 @@
             "created_at": "2021-03-02 17:10:40",
             "updated_at": "2021-03-02 17:10:40"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "29",
                 "reinsurersreinsurer_id": "31",
@@ -977,7 +977,7 @@
             "created_at": "2021-03-31 19:51:24",
             "updated_at": "2021-03-31 19:51:24"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "34",
                 "reinsurersreinsurer_id": "32",
@@ -1013,7 +1013,7 @@
             "created_at": "2021-06-02 15:53:18",
             "updated_at": "2021-06-02 15:53:18"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "38",
                 "reinsurersreinsurer_id": "33",
@@ -1049,7 +1049,7 @@
             "created_at": "2021-08-12 14:17:56",
             "updated_at": "2021-08-12 14:17:56"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "40",
                 "reinsurersreinsurer_id": "34",
@@ -1085,7 +1085,7 @@
             "created_at": "2021-08-17 18:11:51",
             "updated_at": "2021-08-17 18:11:51"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "41",
                 "reinsurersreinsurer_id": "35",
@@ -1121,7 +1121,7 @@
             "created_at": "2021-08-19 16:51:37",
             "updated_at": "2021-08-19 16:59:25"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "42",
                 "reinsurersreinsurer_id": "36",
@@ -1157,7 +1157,7 @@
             "created_at": "2021-09-01 11:20:27",
             "updated_at": "2021-09-01 11:20:27"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "43",
                 "reinsurersreinsurer_id": "37",
@@ -1193,7 +1193,7 @@
             "created_at": "2021-09-09 14:20:41",
             "updated_at": "2021-09-09 14:20:41"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "45",
                 "reinsurersreinsurer_id": "38",
@@ -1229,7 +1229,7 @@
             "created_at": "2021-09-10 12:39:37",
             "updated_at": "2021-09-10 12:39:37"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "46",
                 "reinsurersreinsurer_id": "39",
@@ -1265,7 +1265,7 @@
             "created_at": "2021-12-01 15:29:40",
             "updated_at": "2021-12-01 15:29:40"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "48",
                 "reinsurersreinsurer_id": "40",
@@ -1314,7 +1314,7 @@
             "created_at": "2022-03-11 17:13:20",
             "updated_at": "2022-03-11 17:13:20"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "50",
                 "reinsurersreinsurer_id": "41",
@@ -1350,7 +1350,7 @@
             "created_at": "2022-04-04 15:16:05",
             "updated_at": "2022-04-04 15:16:05"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "51",
                 "reinsurersreinsurer_id": "42",
@@ -1386,7 +1386,7 @@
             "created_at": "2022-04-27 08:40:15",
             "updated_at": "2022-04-27 08:46:39"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "52",
                 "reinsurersreinsurer_id": "43",
@@ -1422,7 +1422,7 @@
             "created_at": "2022-07-20 09:50:25",
             "updated_at": "2022-07-20 09:50:25"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "53",
                 "reinsurersreinsurer_id": "45",
@@ -1458,7 +1458,7 @@
             "created_at": "2022-08-23 08:58:27",
             "updated_at": "2022-08-23 09:08:47"
         },
-        "asociates":[
+        "associates":[
             {
                 "reinsurer_representative_id": "54",
                 "reinsurersreinsurer_id": "47",

@@ -17,7 +17,7 @@ class CreateInsurerAddressesTable extends Migration
             $table->id('insurer_address_id');
             $table->unsignedBigInteger('insurersinsurer_id');
             $table->string('suburb', 60);
-            $table->string('street', 60);
+            $table->string('street', 120);
             $table->string('region', 60);
             $table->string('country', 60);
             $table->enum('delete_status',['DELETED','NOT DELETED'])->default('NOT DELETED');

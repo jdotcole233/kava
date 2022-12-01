@@ -790,7 +790,8 @@
             "delete_status": "NOT DELETED",
             "created_at": "2020-06-26 14:34:41",
             "updated_at": "2020-06-26 14:34:41"
-        }
+        },
+        "associates": []
     },
     {
         "reinsurer_id": "11",

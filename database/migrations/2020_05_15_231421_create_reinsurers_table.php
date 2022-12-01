@@ -18,7 +18,7 @@ class CreateReinsurersTable extends Migration
             $table->string('re_company_name', 60);
             $table->string('re_company_email', 60);
             $table->string('re_abbrv');
-            $table->string('re_company_website', 50);
+            $table->string('re_company_website', 50)->nullable();
             $table->enum('delete_status',['DELETED','NOT DELETED'])->default('NOT DELETED');
             $table->timestamps();
         });
