@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Utilities\KavaUtility;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Http;
@@ -19,10 +20,7 @@ class KavaController extends Controller
          * broker
          * 
         */
-
-        $data_format = config()->get('kava');
-        $broker_name = strtolower(trim($parsed['broker']));
-        $broker_enpoint = $data_format[$broker_name];
+        $broker_enpoint =  KavaUtility::getEnpoint($parsed['broker']);
 
         $data = json_encode([
             'offer_id' => $parsed['_id'],

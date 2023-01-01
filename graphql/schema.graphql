@@ -1,54 +1,127 @@
 #import types/*.graphql
 
+"A datetime string with format `Y-m-d H:i:s`, e.g. `2018-05-23 13:43:32`."
+scalar DateTime
+    @scalar(class: "Nuwave\\Lighthouse\\Schema\\Types\\Scalars\\DateTime")
 
- "A datetime string with format `Y-m-d H:i:s`, e.g. `2018-05-23 13:43:32`."
- scalar DateTime @scalar(class: "Nuwave\\Lighthouse\\Schema\\Types\\Scalars\\DateTime")
-
- "Indicates what fields are available at the top level of a query operation."
- type Query {
+"Indicates what fields are available at the top level of a query operation."
+type Query {
     "Find a single user by an identifying attribute."
     user(
-      "Search by primary key."
-      id: ID @eq @rules(apply: ["prohibits:email", "required_without:email"])
+        "Search by primary key."
+        id: ID @eq @rules(apply: ["prohibits:email", "required_without:email"])
 
-      "Search by email address."
-      email: String @eq @rules(apply: ["prohibits:id", "required_without:id", "email"])
+        "Search by email address."
+        email: String
+            @eq
+            @rules(apply: ["prohibits:id", "required_without:id", "email"])
     ): User @find
 
     "List multiple users."
     users(
-      "Filters by name. Accepts SQL LIKE wildcards `%` and `_`."
-      name: String @where(operator: "like")
+        "Filters by name. Accepts SQL LIKE wildcards `%` and `_`."
+        name: String @where(operator: "like")
     ): [User!]! @paginate(defaultCount: 10)
 }
 
-
-
-
 type Mutation {
-    login(input: LoginInput @spread): AuthPayload! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\Login@resolve")
-    refreshToken(input: RefreshTokenInput @spread): RefreshTokenPayload! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\RefreshToken@resolve")
-    logout: LogoutResponse! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\Logout@resolve")
-    forgotPassword(input: ForgotPasswordInput! @spread): ForgotPasswordResponse! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\ForgotPassword@resolve")
-    updateForgottenPassword(input: NewPasswordWithCodeInput @spread): ForgotPasswordResponse! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\ResetPassword@resolve")
-    register(input: RegisterInput @spread): RegisterResponse! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\Register@resolve")
-    socialLogin(input: SocialLoginInput! @spread): AuthPayload! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\SocialLogin@resolve")
-    verifyEmail(input: VerifyEmailInput! @spread): AuthPayload! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\VerifyEmail@resolve")
-    updatePassword(input: UpdatePassword! @spread): UpdatePasswordResponse! @field(resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\UpdatePassword@resolve") @guard(with: ["api"])
+    login(input: LoginInput @spread): AuthPayload!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\Login@resolve"
+        )
+    refreshToken(input: RefreshTokenInput @spread): RefreshTokenPayload!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\RefreshToken@resolve"
+        )
+    logout: LogoutResponse!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\Logout@resolve"
+        )
+    forgotPassword(
+        input: ForgotPasswordInput! @spread
+    ): ForgotPasswordResponse!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\ForgotPassword@resolve"
+        )
+    updateForgottenPassword(
+        input: NewPasswordWithCodeInput @spread
+    ): ForgotPasswordResponse!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\ResetPassword@resolve"
+        )
+    register(input: RegisterInput @spread): RegisterResponse!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\Register@resolve"
+        )
+    socialLogin(input: SocialLoginInput! @spread): AuthPayload!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\SocialLogin@resolve"
+        )
+    verifyEmail(input: VerifyEmailInput! @spread): AuthPayload!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\VerifyEmail@resolve"
+        )
+    updatePassword(input: UpdatePassword! @spread): UpdatePasswordResponse!
+        @field(
+            resolver: "Joselfonseca\\LighthouseGraphQLPassport\\GraphQL\\Mutations\\UpdatePassword@resolve"
+        )
+        @guard(with: ["api"])
 
-    fetchOffers (broker: BrokerTypes! @spread) : String 
-    @field (resolver: "OffersMutation@fetchOffersForBroker")
+    fetchOffers(broker: BrokerTypes! @spread): [MockOfferStruct]
+        @field(resolver: "OffersMutation@fetchOffersForBroker")
+        @guard(with: ["api"])
+
+    fetchTreaties (broker: BrokerTypes! @spread): String 
+    @field (resolver: "TreatiesMutation@fetchTreatiesForBroker")
     @guard (with: ["api"])
+
 }
 
-input OfferRequest
-{
-  broker: String!
+type ErrorResponse {
+    error: String
+    message: String
+    status: Int
 }
 
-enum BrokerTypes
-{
-  VISAL
-  KEK
-  IRISK
+type MockOfferStruct {
+    offersoffer_id: ID
+    offer_participant_percentage: Float
+    offer_amount: Float
+    participant_fac_premium: Float
+    participant_fac_sum_insured: Float
+    offer: MockOffer
+    offer_detail: MockOfferDetail
 }
+
+type MockOffer {
+    offer_id: ID
+    insurersinsurer_id: ID
+    payment_status: MockPaymentStatus
+}
+
+type MockOfferDetail {
+    offersoffer_id: ID
+    insured_by: String
+    period_of_insurance_from: String
+    period_of_insurance_to: String
+    currency: String
+}
+
+enum MockPaymentStatus {
+    PAID
+    PARTPAYMENT
+    UNPAID
+}
+
+input OfferRequest {
+    broker: String!
+}
+
+enum BrokerTypes {
+    VISAL
+    KEK
+    IRISK
+}
+
+union OfferResponse = MockOfferStruct | ErrorResponse 
+
