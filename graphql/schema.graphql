@@ -74,8 +74,13 @@ type Mutation {
     fetchTreaties(broker: BrokerTypes! @spread): [MockTreatyStruct]
         @field(resolver: "TreatiesMutation@fetchTreatiesForBroker")
         @guard(with: ["api"])
-}
 
+    issueGuaranteeNote(broker: BrokerTypes! @spread): String
+        @field(resolver: "OffersMutation@issueGuaranteeNote")
+        @guard(with: ["api"])
+
+    # approveTreatyPlacing()
+}
 
 union TreatyResponse = MockTreatyStruct | ErrorResponse
 
@@ -85,6 +90,7 @@ type MockTreatyStruct {
     treaty_type: String
     treaty_name: String
     treaty_reference: String
+    total_participation_percentage: Float
     insurance_company_name: String
     currency: String
     participant_id: ID
@@ -92,20 +98,16 @@ type MockTreatyStruct {
     layer_limit: [MockLayerLimit]
 }
 
-
-type MockLayerLimit
-{
-  limit: String
-  uuid: String
-  m_and_d_premium: Float
-  installment_type: String
+type MockLayerLimit {
+    limit: String
+    uuid: String
+    m_and_d_premium: Float
+    installment_type: String
 }
 
-
-type MockAccountID
-{
-  treaty_account_id: ID
-  account_periods: String
+type MockAccountID {
+    treaty_account_id: ID
+    account_periods: String
 }
 
 type ErrorResponse {

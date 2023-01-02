@@ -44,4 +44,10 @@ class OffersMutation
         $response = $response->json()['data'];
         return $response;
     }
+
+    public function issueGuaranteeNote ($root, array $args)
+    {
+        //toDo
+        return "issuing Guarantee Notes for {$args['broker']}";
+    }
 }
