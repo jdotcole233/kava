@@ -71,10 +71,41 @@ type Mutation {
         @field(resolver: "OffersMutation@fetchOffersForBroker")
         @guard(with: ["api"])
 
-    fetchTreaties (broker: BrokerTypes! @spread): String 
-    @field (resolver: "TreatiesMutation@fetchTreatiesForBroker")
-    @guard (with: ["api"])
+    fetchTreaties(broker: BrokerTypes! @spread): [MockTreatyStruct]
+        @field(resolver: "TreatiesMutation@fetchTreatiesForBroker")
+        @guard(with: ["api"])
+}
 
+
+union TreatyResponse = MockTreatyStruct | ErrorResponse
+
+type MockTreatyStruct {
+    treaty_id: ID
+    treaty_participation_percentage: Float
+    treaty_type: String
+    treaty_name: String
+    treaty_reference: String
+    insurance_company_name: String
+    currency: String
+    participant_id: ID
+    treaty_account_id: [MockAccountID]
+    layer_limit: [MockLayerLimit]
+}
+
+
+type MockLayerLimit
+{
+  limit: String
+  uuid: String
+  m_and_d_premium: Float
+  installment_type: String
+}
+
+
+type MockAccountID
+{
+  treaty_account_id: ID
+  account_periods: String
 }
 
 type ErrorResponse {
@@ -113,6 +144,11 @@ enum MockPaymentStatus {
     UNPAID
 }
 
+enum MockTreatyType {
+    PROPORTIONAL
+    NONPROPORTIONAL
+}
+
 input OfferRequest {
     broker: String!
 }
@@ -123,5 +159,4 @@ enum BrokerTypes {
     IRISK
 }
 
-union OfferResponse = MockOfferStruct | ErrorResponse 
-
+union OfferResponse = MockOfferStruct | ErrorResponse

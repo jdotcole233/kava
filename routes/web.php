@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('generateClosing/{id}', [KavaController::class, "generateClosings"])->middleware('auth:api');
+//{"participant_id":"424","treaty_account_id":"115","type":0,"emp_id":"11"}

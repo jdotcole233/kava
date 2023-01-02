@@ -23,7 +23,7 @@ class OffersMutation
             ]);
         }
 
-        $broker_enpoint = KavaUtility::getEnpoint("");// $data_format[$broker_name];
+        $broker_enpoint = KavaUtility::getEnpoint($args['broker']);
         $auth = Auth::user()->clientable->reinsurer;
         $re_company_name = $auth->re_company_name;
         $data['re_company_name'] = $re_company_name;
