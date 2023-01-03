@@ -80,6 +80,7 @@ type Mutation {
         @guard(with: ["api"])
 
     # approveTreatyPlacing()
+    # Replace jdotcole233@gmail.com with conyuma@ghanare.com
 }
 
 union TreatyResponse = MockTreatyStruct | ErrorResponse
