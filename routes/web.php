@@ -23,8 +23,8 @@ Route::get('/', function () {
     return view('welcome');
 })->name('home');
 
-Route::get('generateClosing/{id}', [KavaController::class, "generateClosings"])->middleware('auth:api');
-Route::get('treatyCreditNotes/{id}', [KavaController::class, "treatyCreditNotes"])->middleware('auth:api');
+Route::get('generateClosing/{id}', [KavaController::class, "generateClosings"])->middleware(['auth:api', 'activity']);
+Route::get('treatyCreditNotes/{id}', [KavaController::class, "treatyCreditNotes"])->middleware(['auth:api', 'activity']);
 
 Route::get('reset-password/{token}', [kavaPasswordResetController::class, 'resetPassword'])->middleware('guest')->name('password.reset');
 Route::post('/reset-password', [kavaPasswordResetController::class, "passwordReset"])->middleware('guest');

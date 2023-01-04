@@ -22,6 +22,9 @@ type Query {
         "Filters by name. Accepts SQL LIKE wildcards `%` and `_`."
         name: String @where(operator: "like")
     ): [User!]! @paginate(defaultCount: 10)
+
+    # seeClientActivites: [String] @field (resolver: "SystemQueries@userActivities")
+    # @guard(with: ["api"])
 }
 
 type Mutation {
@@ -67,7 +70,7 @@ type Mutation {
         )
         @guard(with: ["api"])
 
-    fetchOffers(broker: BrokerTypes! @spread): [MockOfferStruct]
+    fetchOffers(broker: BrokerTypes! @spread): OfferResponseData
         @field(resolver: "OffersMutation@fetchOffersForBroker")
         @guard(with: ["api"])
 
@@ -84,6 +87,13 @@ type Mutation {
 }
 
 union TreatyResponse = MockTreatyStruct | ErrorResponse
+union OfferResponse = OfferResponseData | ErrorResponse
+
+type OfferResponseData {
+  total_offers: Int
+  total_shares: String
+  offers: [MockOfferStruct]
+}
 
 type MockTreatyStruct {
     treaty_id: ID
@@ -125,12 +135,21 @@ type MockOfferStruct {
     participant_fac_sum_insured: Float
     offer: MockOffer
     offer_detail: MockOfferDetail
+    payments: [MockPaymentStruct]
+}
+
+type MockPaymentStruct 
+{
+  offer_payment_amount: Float
+  paid_details: String
 }
 
 type MockOffer {
     offer_id: ID
     insurersinsurer_id: ID
+    insurance_company_name: String
     payment_status: MockPaymentStatus
+    insurer: MockInsurerStruct
 }
 
 type MockOfferDetail {
@@ -139,6 +158,12 @@ type MockOfferDetail {
     period_of_insurance_from: String
     period_of_insurance_to: String
     currency: String
+}
+
+type MockInsurerStruct
+{
+    insurer_id: ID
+    insurer_company_name: String
 }
 
 enum MockPaymentStatus {
@@ -162,4 +187,3 @@ enum BrokerTypes {
     IRISK
 }
 
-union OfferResponse = MockOfferStruct | ErrorResponse
